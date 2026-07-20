@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180334845-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-180334845-1');
+    </script>
+
+
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+
+    <title>Software Company in Dubai | Digital Marketing Agency in UAE</title>
+
+
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <meta name="keywords" content=" MOSTECH Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
+
+    <meta name="description" content="MOSTECH Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai." />
+
+
+
+    <meta name="robots" content="index,follow" />
+
+    <meta name="lang" content="English" />
+
+    <meta name="google" content="index,follow" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="canonical” href=”https://www.mostech.ae">
+
+
+
+    <meta property="og:title" content="Software Company in Dubai | Digital Marketing Company in Dubai" />
+
+    <meta property="og:type" content="http://www.mostech.ae" />
+
+    <meta property="og:url" content="http://www.mostech.ae" />
+
+    <meta property="og:image" content="http://www.mostech.ae/img/moslogoo.png" />
+
+    <meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai" />
+
+    <meta property="og:image" content="https://www.mostech.ae/img/moslogoo.png" />
+
+
+
+    <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
+
+
+
+    <meta name="twitter:card" content="summary" />
+
+    <meta name="twitter:site" content="@online_Mostech" />
+
+    <meta name="twitter:creator" content="@online_Mostech" />
+
+    <meta name="twitter:title" content="Software  Company in Dubai | Digital Marketing Company in Dubai" />
+
+    <meta name="twitter:description" content="Mostech Business Solutions is the best Software Company in Dubai producing world-class quality Softwares, Websites, Web Applications, Mobile Applications and Digital Marketing Services. " />
+
+    <meta name="twitter:image" content="https://www.mostech.ae/img/moslogoo.png" />
+
+
+
+    <!-- Favicon -->
+
+    <link rel="shortcut icon" href="img/fav.png" type="image/x-icon" />
+
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+
+
+
+    <!-- Mobile Metas -->
+
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+
+
+    <!-- Web Fonts  -->
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light" rel="stylesheet" type="text/css">
+
+
+
+    <!-- Vendor CSS -->
+
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="vendor/animate/animate.min.css">
+
+    <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.min.css">
+
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
+
+    <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
+
+
+
+    <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
+
+    <!-- Theme CSS -->
+
+    <link rel="stylesheet" href="css/theme.css">
+
+    <link rel="stylesheet" href="css/theme-elements.css">
+
+    <link rel="stylesheet" href="css/theme-blog.css">
+
+    <link rel="stylesheet" href="css/theme-shop.css">
+
+
+
+    <!-- Current Page CSS -->
+
+    <link rel="stylesheet" href="vendor/rs-plugin/css/settings.css">
+
+    <link rel="stylesheet" href="vendor/rs-plugin/css/layers.css">
+
+    <link rel="stylesheet" href="vendor/rs-plugin/css/navigation.css">
+
+    <link rel="stylesheet" href="vendor/circle-flip-slideshow/css/component.css">
+
+
+
+    <!-- Skin CSS -->
+    <link rel="stylesheet" href="css/skins/skin-corporate-4.css">
+
+
+
+    <!-- Theme Custom CSS -->
+
+    <link rel="stylesheet" href="css/custom.css">
+
+
+
+    <!-- Head Libs -->
+
+    <script src="vendor/modernizr/modernizr.min.js"></script>
+
+
+
+    <script language="Javascript" src="classs/state/jquery.js"></script>
+
+    <script type="text/JavaScript" src='classs/state/state.js'></script>
+
+    <link rel="stylesheet" type="text/css" href="classs/state/style.css">
+
+
+
+
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet" href="style1.css">
+
+    <link rel="stylesheet" href="style2.css">
+
+
+
+    <style type="text/css">
+        .mobileShow {
+
+            display: none;
+
+        }
+
+
+
+        /* full width of parent */
+
+        .mobileShow img {
+
+            width: 100%;
+
+        }
+
+
+
+        /* Smartphone Portrait and Landscape */
+
+        @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+
+            .mobileShow {
+
+                display: block;
+
+                width: 80%;
+
+                position: fixed;
+
+                bottom: -6px;
+
+                left: 45%;
+
+                margin: 0 0 0 -20%;
+
+            }
+
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="body">
+
+        <header id="header" data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 57, 'stickySetTop': '-10px', 'stickyChangeLogo': true}" style="min-height: 100px!important;">
+
+            <div class="header-body">
+
+                <div class="header-container container">
+
+                    <div class="header-row">
+
+                        <div class="header-column">
+
+                            <div class="header-logo">
+
+                                <a href="index.php">
+
+                                    <img width="auto" height="54" data-sticky-width="250" data-sticky-height="auto" data-sticky-top="0" src="img/logo.png" alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
+
+                                </a>
+
+                            </div>
+
+                        </div>
+
+                        <div class="header-column">
+
+                            <div class="header-row">
+
+
+
+
+
+                                <nav class="header-nav-top">
+
+                                    <ul class="nav nav-pills">
+
+                                        <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971581730112">+971581730112</a></li>
+
+                                        <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+917907057251">+918547557283</a></li>
+
+                                        <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+
+                                        <li><span class="ws-nowrap"><a></a></li>
+
+                                    </ul>
+
+                                </nav>
+
+                            </div>
+
+                            <div class="header-row">
+
+                                <div class="header-nav">
+
+                                    <button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
+
+                                        <i class="fa fa-bars"></i>
+
+                                    </button>
+
+                                    <ul class="header-social-icons social-icons hidden-xs">
+
+                                        <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+
+                                        <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+
+                                        <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+
+                                        <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+
+                                    </ul>
+
+                                    <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
+
+                                        <nav>
+
+                                            <ul class="nav nav-pills" id="mainNav">
+
+                                                <li>
+
+                                                    <a href="index.php">
+
+                                                        Home
+
+                                                    </a>
+
+                                                </li>
+
+                                                <li class="dropdown">
+
+                                                    <a class="dropdown-toggle" href="#">
+
+                                                        OUR SERVICES
+
+                                                    </a>
+
+                                                  <ul class="dropdown-menu">
+
+                                                            <li><a href="services/mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
+                                                            <li><a href="services/web-design-development.php"> WEB DEVELOPMENT & DESIGN</a></li>
+                                                            <li><a href="services/digital-marketing.php"> DIGITAL MARKETING </a></li>        
+                                                            <li><a href="services/ecommerce-development.php">ECOMMERCE</a></li>
+                                                            <li><a href="services/erp-solutions.php">ERP SOLUTION</a></li>
+                                                        </ul>
+
+                                                </li>
+
+                                                <li><a href="ecommerce-development.php">ECOMMERCE</a></li>
+
+                                                <li><a href="erp-solutions.php">ERP SOLUTION</a></li>
+
+                                                <li><a href="about.php">ABOUT US</a></li>
+
+                                                <li><a href="contact.php">CONTACT US</a></li>
+
+                                                </li>
+
+                                            </ul>
+
+                                        </nav>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </header>
+
+		
+
+			<div role="main" class="main">
+	<section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<h1>Digital Marketing <span>SEO, SMO, PPC, Adwords ( Paid Search )</span></h1>
+								<ul class="breadcrumb breadcrumb-valign-mid">
+									<li><a href="">Our Services</a></li>
+									<li class="active">Digital Marketing</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+
+						<div class="container">
+					
+						<div class="row">
+						
+						<div class="col-md-4">
+							<div class="feature-box feature-box-style-2">
+								
+								<div class="feature-box-info">
+								<h6 class="heading-primary"><b> <i class="fa fa-search"></i><strong>&nbsp; Search Engine Optimization </strong></b></h6>
+										<p align="justify">SEO is the best way to organically generate traffic to your website. Being able to rank our website + all our clients websites on top of Google is what makes us a right digital marketing partner for you</p>
+									</div>
+							</div>
+							</div>
+							<div class="col-md-4">
+							<div class="feature-box feature-box-style-2">
+								
+								<div class="feature-box-info">
+									<h6 class="heading-primary"><b>  <i class="fa fa-facebook"></i><strong>&nbsp; Social Media Marketing </strong></b></h6>
+										<p>With constant increase in the number of active users on social media, it is important to be present and engage with your audience. While you invest in Social Media Marketing, we can assure maximum returns.	</div>
+								</div>
+							</div>
+						<div class="col-md-4">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-info">
+											<h6 class="heading-primary"><b> <i class="fa fa-money"></i><strong> &nbsp;Paid Search (AdWords)  </strong></b></h6>
+											<p align="justify">Sponsored search ads are the most preferred amongst online marketers due to their high performance, affordability & maximum ROI. Take advantage of our deep understanding in Paid Search to boost your revenue.</p>
+									</div>
+							</div>
+							</div>	
+						
+							</div>
+							
+						<div class="row">
+						<div class="col-md-4">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-info">
+										<h6 class="heading-primary"><b> <i class="fa fa-google"></i><strong>&nbsp; Google Analytics  </strong></b></h6>
+										<p align="justify">Data is the basis of an intelligent marketing strategy; it is accurately measured and analysed through Google Analytics. Having mastered Google Analytics, we can fulfill all your requirements.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-info">
+								<h6 class="heading-primary"><b>  <i class="fa fa-link"></i><strong> &nbsp;Link Building </strong></b></h6>
+										<p>Head in the right direction by considering Link Building for your <b>SEO </b>strategy. Getting referrals from quality websites will remain a value add in the long run.</p>
+											</div>
+							</div>
+							</div>
+						<div class="col-md-4">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-info">
+										<h6 class="heading-primary"><b> <i class="fa fa-pencil"></i><strong>&nbsp; Content Marketing </strong></b></h6>
+											<p align="justify">Content that resonates with your audience goes a long way. We can make that happen with a strong team of copywriters and an effective marketing strategy.</p>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+	<hr class="tall">
+
+			<div class="container">
+					<div class="row mb-xlg">
+						<div class="col-md-6">
+						<h2>Our  <strong class="heading-primary">PROMISES & OFFERINGS</strong></h2>
+							
+							<p class="mt-xlg" align="justify">
+							We create and execute an impressive digital marketing plan to help your business grow online and achieve your marketing goals. Ensuring client satisfaction is at the heart of what we do here at DigiMark Agency due to which we’re considered as one of the best digital marketing agencies in Bangalore, India. We promise to make every engagement with us meaningful.
+							</P><p class="mt-xlg" align="justify">
+						Our offerings include Search Engine Services like Search Engine Optimisation (SEO Services) & Paid Search (Ad Words) / Search Engine Marketing on Google, Yahoo and Bing. We also provide Social Media Marketing services on major platforms like Facebook, LinkedIn, Twitter, Instagram, Snapchat, Youtube and Whatsapp. Other services include Email Marketing, Mobile Marketing, Web Services like Website Designing, Website Development and Website Analytics, App Development and Creative Services (Video Production).
+							</p>
+						</div>
+						<div class="col-md-6">
+						<img class="img-responsive mt-xlg" src="img/dig1.png" alt="">
+						</div>
+					</div>			</div>
+					
+					<div class="container">
+									<div class="row">
+										<div class="col-md-4">
+											<blockquote class="blockquote-primary">
+											<h6 class="mb-xs"><font color="#144663"><b>The Team</b></font></h6>
+											<br>
+												<p>We have highly skilled, well trained and creative brains on board. They work continuously towards finding unique approaches and making unique marketing strategies. Our team consists of amazing tech geeks who take care of SEO, SMO,etc..,</p>
+										</blockquote>
+										</div>
+										<div class="col-md-4">
+											<blockquote class="blockquote-secondary">
+											<h6 class="mb-xs"><font color="#144663"><b>Our achievements</b></font></h6>
+											<br>
+												<p>Why ask us...? Our huge client portfolio includes DirectDeal, Powertronics, Excel Graphics Press & other familiar clients are really happy with the services we are providing and are amazed by the way their brands are getting boosted in the digital space.</p>
+												</blockquote>
+										</div>
+										<div class="col-md-4">
+											<blockquote class="blockquote-tertiary">
+											<h6 class="mb-xs"><font color="#144663"><b>Pocket friendly packages</b></font></h6>
+											<br>
+												<p>We have the most attractive and pocket friendly packages to suit your business type and the kind of marketing requirements you would need. You will pay only for the specific services you request.</p>
+											</blockquote>
+										</div>
+									</div>
+			
+			 </div>					
+	 <img src="img/digitalmarketing.gif" style="width:100%;" alt="">
+				 
+</div>
+
+
+ <footer id="footer">
+
+
+
+
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="footer-ribbon">
+
+                    <span>Get in Touch</span>
+
+                </div>
+
+                <div class="col-md-9">
+
+                    <h4>About MOS</h4>
+
+                    <p align="justify">Mostech Business Solutions is a software company in Dubai, UAE. Our service includes Software Development, Web and Mobile Application Development and Digital Marketing. We develop intelligent and powerful Applications that can completely maneuvers our client’s job competently. We are committed to continuous advancement in our services thus accomplishing our success through the quality and performance. We believe that our job is to concentrate , research and understand the customer needs. In fact, it's the long-term relationships with our customers that has served as a solid milestone for our company.</p>
+
+                    <hr class="light">
+
+                    <div class="row">
+
+                        <div class="col-md-5">
+
+
+
+
+
+
+
+                            <p>Enter your e-mail and subscribe to our newsletter.</p>
+
+
+
+                            <form action="" method="post">
+
+                                <div class="input-group">
+
+                                    <input class="form-control" placeholder="Email Address" name="sender" id="sender" type="text">
+
+                                    <span class="input-group-btn">
+
+                                        <input class="btn btn-default" value="Send" name="submit" id="submit" type="submit">
+
+                                    </span>
+
+                                </div>
+
+                            </form>
+
+                        </div>
+
+
+
+
+
+
+
+
+
+                        <div class="col-md-2">
+
+                            <ul class="list list-icons list-icons-sm">
+
+                                <li><i class="fa fa-caret-right"></i> <a href="hosting&domain.php">HOSTING</a></li>
+
+                                <li><i class="fa fa-caret-right"></i> <a href="/printing" target="_blank">PRINTING</a></li>
+
+                                <li><i class="fa fa-caret-right"></i> <a href="graphic.php">GRAPHICS </a></li>
+
+                            </ul>
+
+                        </div>
+
+
+
+                        <div class="col-md-2">
+
+                            <ul class="list list-icons list-icons-sm">
+
+                                <li><i class="fa fa-caret-right"></i> <a href="careers.php">CAREERS</a></li>
+
+                                    <li><i class="fa fa-caret-right"></i> <a href="img/MostechCompanyProfile.pdf" target="_blank">PROFILE</a></li>
+
+                                <li><i class="fa fa-caret-right"></i> <a href="blogs.php">BLOG</a></li>
+
+                            </ul>
+
+                        </div>
+
+                        <div class="col-md-3">
+
+                            <ul class="list list-icons list-icons-sm">
+
+                                <li><i class="fa fa-caret-right"></i> <a href="erp-solutions.php" target="_blank">ERP SOLUTION</a></li>
+
+                                <li><i class="fa fa-caret-right"></i> <a href="digital-marketing.php" target="_blank"> DIGITAL MARKETING </a></li>
+
+                                <li><i class="fa fa-caret-right"></i> <a href="cctv-in-dubai.php">CCTV SOLUTIONS</a></li>
+
+                            </ul>
+
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="col-md-3">
+
+                    <h5 class="mb-sm">Contact Us</h5>
+
+                    <span class="phone"><a href="tel:+971581730112">+971 581730112</a></span>
+
+                    <!--<p class="mb-none"><a href="tel:+447438119824">UK :<strong> +44 7438119824</strong></a></p>-->
+
+                    <p class="mb-none"><a href="tel:+918547557283">INDIA : <strong> +91 8547557283</strong></a></p>
+
+                    <p class="mb-none"><a href="tel:+966535744308">KSA : <strong> +966 53 574 4308</strong></a></p>
+
+                    <p class="mb-none"><a href="tel:+97472098584">QATAR :<strong> +974 72098584</strong></a></p>
+
+                    <!--<p class="mb-none"><a href="tel:+96892719357">OMAN :<strong> +968 92719357</strong></a></p>-->
+
+
+
+                    <ul class="list list-icons mt-xl">
+
+                        <li><i class="fa fa-envelope" style="color:white;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+
+                    </ul>
+
+                    <ul class="social-icons mt-xl">
+
+
+
+                        <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+
+                        <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+
+                        <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+
+                        <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+
+                        <li class="social-icons-youtube"> <a href="https://www.youtube.com" title="Youtube"><i class="fa fa-youtube"></i></a></li>
+
+                        <li class="social-icons-twitter"> <a href="https://www.twitter.com/mostech.ae title=" Twitter"><i class="fa fa-twitter"></i></a></li>
+
+                        <li class="social-icons-pinterest"> <a href title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
+
+
+
+                    </ul>
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+
+
+
+    </div>
+
+
+
+
+
+    <!-- Vendor -->
+
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <script src="vendor/jquery.appear/jquery.appear.min.js"></script>
+
+    <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
+
+    <script src="vendor/jquery-cookie/jquery-cookie.min.js"></script>
+
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <script src="vendor/common/common.min.js"></script>
+
+    <script src="vendor/jquery.validation/jquery.validation.min.js"></script>
+
+    <script src="vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+
+    <script src="vendor/jquery.gmap/jquery.gmap.min.js"></script>
+
+    <script src="vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+
+    <script src="vendor/isotope/jquery.isotope.min.js"></script>
+
+    <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
+
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <script src="vendor/vide/vide.min.js"></script>
+
+
+
+    <!-- Theme Base, Components and Settings -->
+
+    <script src="js/theme.js"></script>
+
+
+
+    <!-- Current Page Vendor and Views -->
+
+    <script src="vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+
+    <script src="vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+    <script src="vendor/circle-flip-slideshow/js/jquery.flipshow.min.js"></script>
+
+    <script src="js/views/view.home.js"></script>
+
+
+
+    <!-- Theme Custom -->
+
+    <script src="js/custom.js"></script>
+
+
+
+    <!-- Theme Initialization Files -->
+
+    <script src="js/theme.init.js"></script>
+
+
+
+    <!-- Examples -->
+
+    <script src="js/examples/examples.demos.js"></script>
+
+
+
+    <script src="vendor/bootpag/bootpag.js"></script>
+
+
+
+    <!-- Examples -->
+
+    <script src="js/examples/examples.portfolio.js"></script>
+
+
+
+    <!-- GetButton.io widget -->
+
+    <script type="text/javascript">
+        (function() {
+
+            var options = {
+
+                whatsapp: "+971581730112",
+
+                position: "left",
+
+            };
+
+            var proto = document.location.protocol,
+                host = "getbutton.io",
+                url = proto + "//static." + host;
+
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = url + '/widget-send-button/js/init.js';
+
+            s.onload = function() {
+                WhWidgetSendButton.init(host, proto, options);
+            };
+
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+
+        })();
+    </script>
+
+
+
+
+
+    <script type="application/ld+json">
+        {
+
+            "@context": "https://schema.org/",
+
+            "@type": "Organization",
+
+            "name": "Mostech Business Solutions",
+
+            "url": "http://www.mostech.ae",
+
+            "sameAs": [
+
+                "https://www.twitter.com/mostech.ae",
+
+                "https://www.facebook.com/mostech.ae",
+
+                "https://www.instagram.com/mostech.ae",
+
+                "https://www.linkedin.com/company/mostech.ae/"
+
+            ],
+
+            "address": {
+
+                "@type": "PostalAddress",
+
+                "streetAddress": "Dubai",
+
+                "addressRegion": "UAE",
+
+                "postalCode": "00000",
+
+                "addressCountry": "UAE"
+
+            }
+
+        }
+    </script>
+
+
+
+
+
+</body>
+
+</html>

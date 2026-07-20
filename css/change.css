@@ -1,0 +1,201 @@
+
+.font-raleway
+{
+    font-family: 'Raleway', sans-serif;
+}
+.font-opensans
+{
+    font-family: 'Open Sans', sans-serif;
+}
+.text-black
+{
+    /*color: #4f4e4e;*/
+    color: #000;
+}
+.text-white
+{
+    color: #FFF;
+}
+.text-red
+{
+    /*color: #b61924;*/
+    color: #e92228;
+}
+.text-grey
+{
+     color: #ddd4d4; 
+}
+.bg-black
+{
+    background-color: #000;
+}
+.bg-main
+{
+    background-color: #e92228;
+}
+.bg-secondary
+{
+    background-color: #b9242e;
+}
+.bg-third
+{
+    background-color: #511618;
+}
+.bg-grey
+{
+     background-color: #e5e6e7; 
+}
+.f12
+{
+    font-size: 12px;
+}
+.f13
+{
+    font-size: 13px;
+}
+.f15
+{
+    font-size: 15px;
+}
+.f16
+{
+    font-size: 16px;
+}
+.f22
+{
+    font-size: 22px;
+}
+a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+.wow 
+{
+   visibility: hidden;
+}
+
+
+#particles 
+{
+    height: 465px;
+}
+#stats 
+{
+    display: none;
+}
+.count-particles 
+{
+    display: none;
+}
+#particles-js 
+{
+    position: relative;
+    height: 465px;
+}
+canvas.particles-js-canvas-el 
+{
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+#particles-js h1
+{
+    font-size: 56pt;
+    font-weight: bold;
+    padding-top: 1em;
+    /* letter-spacing: 6px; */
+}
+#particles-js p 
+{
+    font-size: 15pt;
+    letter-spacing: 1px;
+    padding-top: 1em;
+    line-height: 40px;
+    width: 80%;
+    margin: auto;
+    color: white;
+}
+.intro-buttons 
+{
+    text-align: center;
+    padding-top: 2em;
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+}
+.intro-buttons a 
+{
+    display: inline-block;
+    padding: 18px 25px;
+    border-radius: 10px;
+    margin-right: 35px;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.intro-buttons a:last-of-type 
+{
+    padding: 18px 25px;
+    background-color: white;
+    /* box-shadow: 0px 0px 0px 1px white; */
+}
+.intro-buttons a:last-of-type:hover 
+{
+    color: black;
+}
+.intro-buttons img 
+{
+    float: right;
+    display: inline-block;
+    opacity: 0.8;
+}
+
+
+
+
+#particles-js h1 
+{
+    padding-top: 1em;
+}
+
+
+#particles-js p 
+{
+    width: 80%;
+}
+
+
+#particles-js 
+{
+    height: 300px;
+}
+#particles 
+{
+    height: 300px;
+}
+
+#particles-js p {
+    display: none;
+}
+
+#particles-js h1 
+{
+    padding-top: 0.8em;
+}
+#particles-js h1 
+{
+    letter-spacing: 0;
+}
+#particles-js 
+{
+    height: 340px;
+}
+#particles 
+{
+    height: 340px;
+}
+#particles-js p, .carousel-control .glyphicon-chevron-right, .carousel-control .glyphicon-chevron-left 
+{
+    display: none;
+}
+

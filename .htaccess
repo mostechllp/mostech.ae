@@ -1,0 +1,17 @@
+RewriteEngine On
+
+# Redirect index.php to the root URL
+RewriteRule ^index\.php$ / [R=301,L]
+
+# Redirect .php URLs to extensionless URLs
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+RewriteCond %1 !^index$ [NC]
+RewriteRule ^(.+)\.php$ /$1 [R=301,L]
+
+# Do not rewrite existing files or directories
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Internally rewrite extensionless URLs to .php
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ $1.php [L]

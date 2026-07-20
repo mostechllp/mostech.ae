@@ -1,0 +1,12 @@
+[17-Aug-2019 06:09:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/hewt2ax401o2/public_html/directdealindia.com/sentt/sendsms.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/hewt2ax401o2/public_html/directdealindia.com/sentt/sendsms.php on line 3
+[17-Aug-2019 06:10:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/hewt2ax401o2/public_html/directdealindia.com/sentt/sendsms.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/hewt2ax401o2/public_html/directdealindia.com/sentt/sendsms.php on line 3
+[17-Aug-2019 06:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/hewt2ax401o2/public_html/directdealindia.com/sentt/sendsms.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/hewt2ax401o2/public_html/directdealindia.com/sentt/sendsms.php on line 3
