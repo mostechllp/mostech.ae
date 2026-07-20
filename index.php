@@ -42,31 +42,29 @@
 
         <link rel="canonical" href="https://mostech.ae/" />
 
-        <meta property="og:title" content="Software Company in Dubai | Digital Marketing Company in Dubai" />
+        <meta property="og:type" content="website" />
 
-        <meta property="og:type" content="https://www.mostech.ae" />
+        <meta property="og:title" content="Web Design & Development Company in Dubai - Mostech" />
 
-        <meta property="og:url" content="https://www.mostech.ae" />
+        <meta property="og:url" content="https://www.mostech.ae/" />
 
-        <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
+        <meta property="og:image" content="https://www.mostech.ae/img/logo.png" />
 
-        <meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai" />
-
-        <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
+        <meta property="og:description" content="Mostech is a leading Dubai software company delivering web development, mobile apps, and digital marketing across the UAE & GCC. Trusted by 500+ clients." />
 
         <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
 
         <meta name="twitter:card" content="summary" />
 
-        <meta name="twitter:site" content="@mostechllc" />
+        <meta name="twitter:title" content="Web Design & Development Company in Dubai - Mostech" />
 
-        <meta name="twitter:creator" content="@mostechllc" />
+        <meta name="twitter:site" content="@https://www.mostech.ae/" />
 
-        <meta name="twitter:title" content="Software  Company in Dubai | Digital Marketing Company in Dubai" />
+        <meta name="twitter:description" content="Mostech is a leading Dubai software company delivering web development, mobile apps, and digital marketing across the UAE & GCC. Trusted by 500+ clients." />
 
-        <meta name="twitter:description" content="Mostech Business Solutions is the best Software Company in Dubai producing world-class quality Softwares, Websites, Web Applications, Mobile Applications and Digital Marketing Services. " />
+        <meta name="twitter:image" content="https://www.mostech.ae/img/logo.png" />
 
-        <meta name="twitter:image" content="https://www.mostech.ae/img/fav.png" />
+        <meta name="twitter:image:alt" content="Mostech Business Solutions" />
 
 
 
