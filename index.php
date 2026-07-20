@@ -32,6 +32,8 @@
 
         <meta name="robots" content="index,follow" />
 
+        <meta name="google-site-verification" content="fO3pxHH0k0QnRkkx8CPhCYyv3Fgw7GRQALcExZnt15s" />
+
         <meta name="lang" content="English" />
 
         <meta name="google" content="index,follow" />

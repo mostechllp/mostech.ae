@@ -1,5 +1,4 @@
-# This space intentionally left blank
-# If you want to learn about why our robots.txt looks like this, read this post: https://yoa.st/robots-txt
-User-Agent: *
-Host: http://www.malabaronlinesolutions.com
-Sitemap: http://www.malabaronlinesolutions.com/sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://www.mostech.ae/sitemap.xml

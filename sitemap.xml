@@ -1,65 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
-<url>
-  <loc>http://malabaronlinesolutions.com/</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.50</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/index.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.50</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/about.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/contact.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/hybridapp.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.75</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/hybridapp.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/web.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/digitalmarketing.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/ecommerce.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/erp.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://malabaronlinesolutions.com/cctv.php</loc>
-  <lastmod>2020-09-09T11:38:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://mostech.ae/</loc><lastmod>2026-07-20</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://mostech.ae/services/mobile-app-development</loc><lastmod>2026-07-20</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://mostech.ae/services/web-design-development</loc><lastmod>2026-07-20</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://mostech.ae/services/digital-marketing</loc><lastmod>2026-07-20</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://mostech.ae/services/ecommerce-development</loc><lastmod>2026-07-20</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://mostech.ae/services/erp-solutions</loc><lastmod>2026-07-20</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://mostech.ae/about</loc><lastmod>2026-07-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://mostech.ae/contact</loc><lastmod>2026-07-20</lastmod><changefreq>yearly</changefreq><priority>0.8</priority></url>
+<url><loc>https://mostech.ae/blog</loc><lastmod>2026-07-20</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://mostech.ae/careers</loc><lastmod>2026-07-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
