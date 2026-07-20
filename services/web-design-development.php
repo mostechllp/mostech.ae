@@ -22,13 +22,13 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <title>Software Company in Dubai | Digital Marketing Agency in UAE</title>
+        <title>Custom Build Web Development Service in Dubai - Mostech</title>
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
         <meta name="keywords" content=" Mostech Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
-        <meta name="description" content="Mostech Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai." />
+        <meta name="description" content="Elevate your brand with Mostech's custom web development services in Dubai. Innovative solutions tailored to enhance your online visibility and engagement." />
 
         <meta name="robots" content="index,follow" />
 

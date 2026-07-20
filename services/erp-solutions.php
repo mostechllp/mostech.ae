@@ -24,7 +24,7 @@
 
 
 
-    <title>Software Company in Dubai | Digital Marketing Agency in UAE</title>
+    <title>Full-Scale ERP Solutions Design & Build in Dubai - Mostech</title>
 
 
 
@@ -32,7 +32,7 @@
 
     <meta name="keywords" content=" Mostech Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
-    <meta name="description" content="Mostech Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai." />
+    <meta name="description" content="Mostech offers expert ERP solutions design and build services in Dubai. Elevate your business operations with our innovative and customized approaches." />
 
 
 

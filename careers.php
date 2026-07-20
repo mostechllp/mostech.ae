@@ -1,4 +1,6 @@
 <?php
+$pageTitle = 'Mostech Business Solutions - Careers - Tech Jobs Dubai';
+$pageDescription = 'Explore exciting tech job opportunities at Mostech Business Solutions in Dubai. Join our innovative team and advance your career in the tech industry.';
 include('header.php');
 ?>
 
