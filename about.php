@@ -384,7 +384,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<h1> <span>About  </span>Mostech Business Solutions</h1>
+								<h1>Mostech Business Solutions</h1>
 								<ul class="breadcrumb breadcrumb-valign-mid">
 									<li><a href="index.php">HOME</a></li>
 									<li class="active">WHO WE ARE</li>

@@ -365,7 +365,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1>Contact <span> Mostech Business Solutions</span></h1>
+                            <h1>Contact</h1>
                             <ul class="breadcrumb breadcrumb-valign-mid">
                                 <li><a href="index.php">HOME</a></li>
                                 <li class="active">Contact</li>

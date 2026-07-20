@@ -498,9 +498,9 @@
 
 
 
-                            <h2 class="heading-primary">
+                            <h1 class="heading-primary">
                                 <font color="#020c4c"> Driving Digital <strong> Success for Businesses </strong></font>
-                            </h2>
+                            </h1>
 
 
 
