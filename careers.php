@@ -4,6 +4,23 @@ $pageDescription = 'Explore exciting tech job opportunities at Mostech Business 
 $pageCanonical = 'https://mostech.ae/careers';
 include('header.php');
 ?>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Home",
+    "item": "https://mostech.ae/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "CAREERS",
+    "item": "https://mostech.ae/careers"
+  }]
+}
+</script>
 
 <div role="main" class="main">
     <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">

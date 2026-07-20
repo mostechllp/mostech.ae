@@ -210,6 +210,24 @@
             }
         </style>
 
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://mostech.ae/"
+          },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unified Ecommerce Platforms for Every Device",
+            "item": "https://mostech.ae/services/ecommerce-development"
+          }]
+        }
+        </script>
+
     </head>
 
     <body>

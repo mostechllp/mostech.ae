@@ -230,6 +230,24 @@
 
 </style>
 
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://mostech.ae/"
+          },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Cross-Platform Mobile App Development",
+            "item": "https://mostech.ae/services/mobile-app-development"
+          }]
+        }
+        </script>
+
     </head>
 
     <body>

@@ -210,6 +210,24 @@
             }
         </style>
 
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://mostech.ae/"
+          },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Grow Online with Digital Marketing",
+            "item": "https://mostech.ae/services/digital-marketing"
+          }]
+        }
+        </script>
+
     </head>
 
     <body>

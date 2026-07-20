@@ -210,6 +210,24 @@
             }
         </style>
 
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://mostech.ae/"
+          },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Web Solutions Focused on Users and Usability",
+            "item": "https://mostech.ae/services/web-design-development"
+          }]
+        }
+        </script>
+
     </head>
 
     <body>
