@@ -1,6 +1,7 @@
 				<?php
 				$pageTitle = 'Mostech Business Solutions - Tech Blogs & Guides Dubai';
 				$pageDescription = 'Unlock valuable tech insights with Mostech Business Solutions. Our blogs and guides provide essential information for businesses navigating Dubai\'s tech scene.';
+				$pageCanonical = 'https://mostech.ae/blog';
 				include('header.php');
 				?>
 					<div role="main" class="main">

@@ -38,7 +38,7 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <link rel="canonical” href=”https://www.mostech.ae">
+        <link rel="canonical" href="https://mostech.ae/contact" />
 
         <meta property="og:title" content="Software Company in Dubai | Digital Marketing Company in Dubai" />
 
