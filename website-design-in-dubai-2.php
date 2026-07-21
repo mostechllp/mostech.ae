@@ -24,9 +24,9 @@
 
     <meta name="google-site-verification" content="fO3pxHH0k0QnRkkx8CPhCYyv3Fgw7GRQALcExZnt15s" />
     <meta name="lang" content="English" />
-    <link rel="canonical" href="https://www.mostech.ae/web-development-and-design.php">
+    <link rel="canonical" href="https://www.mostech.ae/services/web-design-development">
     <meta property="og:title" content="Website Design & Development in Dubai | Mostech" />
-    <meta property="og:url" content="https://www.mostech.ae/web-development-and-design.php" />
+    <meta property="og:url" content="https://www.mostech.ae/services/web-design-development" />
     <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
     <meta property="og:description"
         content="Professional website design and development in Dubai. Responsive, fast, SEO-ready websites built for UAE businesses." />
@@ -469,7 +469,7 @@
                                         <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a-->
                                         <!--        href="tel:+971585792020">+971585792020</a></li>-->
                                         <li class="hidden-xs"><i class="fa fa-envelope"></i><a
-                                                href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                                                href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
                                         <li><span class="ws-nowrap"><a></a></span></li>
                                     </ul>
                                 </nav>
@@ -490,7 +490,7 @@
                                                 href="https://www.instagram.com/mostech.ae" target="_blank"
                                                 title="Instagram"><i class="fa fa-instagram"></i></a></li>
                                         <li class="social-icons-whatsapp"><a
-                                                href="https://wa.me/971581730112?text=Hi, I contacted you Through your website"
+                                                href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website"
                                                 title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
                                     </ul>
                                     <div
@@ -502,7 +502,7 @@
                                                     <a class="dropdown-toggle" href="services/web-design-development.php">OUR SERVICES</a>
                                                     <ul class="dropdown-menu">
 
-                                                            <li><a href="services/mobile-application-development.php">MOBILE APP DEVELOPMENT</a></li>
+                                                            <li><a href="services/mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
                                                             <li><a href="services/web-design-development.php"> WEB DEVELOPMENT & DESIGN</a></li>
                                                             <li><a href="services/digital-marketing.php"> DIGITAL MARKETING </a></li>        
                                                             <li><a href="services/ecommerce-development.php">ECOMMERCE</a></li>
@@ -1016,7 +1016,7 @@
                             <i class="fa fa-envelope" style="margin-right:8px;"></i> Start Your Project
                         </a>
 
-                        <a href="https://wa.me/971581730112?text=Hi, I'd like a quote for a website"
+                        <a href="https://wa.me/971581730112?text=Hi%2C+I%27d+like+a+quote+for+a+website"
                             class="btn btn-default btn-lg"
                             style="background:transparent; border:2px solid rgba(255,255,255,0.5); color:#fff;">
                             <i class="fa fa-whatsapp" style="margin-right:8px;"></i> WhatsApp Us
@@ -1038,13 +1038,13 @@
                             <div class="col-md-4">
                                 <ul class="list list-icons list-icons-sm">
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
-                                            href="web-development-and-design.php" style="font-size:10px;">WEB
+                                            href="services/web-design-development.php" style="font-size:10px;">WEB
                                             DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
-                                            href="hybrid-application-development.php" style="font-size:10px;">APP
+                                            href="services/mobile-app-development.php" style="font-size:10px;">APP
                                             DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
-                                            href="digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a>
+                                            href="services/digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a>
                                     </li>
                                 </ul>
                             </div>
@@ -1081,7 +1081,7 @@
                         <!--<p class="mb-none"><a href="tel:+96892719357">OMAN : <strong>+968 92719357</strong></a></p>-->
                         <ul class="list list-icons mt-xl">
                             <li><i class="fa fa-envelope" style="color:white;"></i> <a
-                                    href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                                    href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
                         </ul>
                         <ul class="social-icons mt-xl">
                             <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech.ae"
@@ -1091,7 +1091,7 @@
                             <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae"
                                     target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
                             <li class="social-icons-whatsapp"><a
-                                    href="https://wa.me/971581730112?text=Hi, I contacted you Through your website"
+                                    href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website"
                                     title="WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
                         </ul>
                     </div>

@@ -316,7 +316,7 @@
                                             <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971581730112">+971581730112</a></li>
                                             <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971585792020">+971585792020</a></li>-->
 
-                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                                             <li><span class="ws-nowrap"><a></a></li>
 
@@ -341,7 +341,7 @@
                                             <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                                             <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                                             <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -371,7 +371,7 @@
 
                                                         <ul class="dropdown-menu">
 
-                                                            <li><a href="mobile-application-development.php">MOBILE APP DEVELOPMENT</a></li>
+                                                            <li><a href="mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
                                                             <li><a href="web-design-development.php"> WEB DEVELOPMENT & DESIGN</a></li>
                                                             <li><a href="digital-marketing.php"> DIGITAL MARKETING </a></li>        
                                                             <li><a href="ecommerce-development.php">ECOMMERCE</a></li>
@@ -443,7 +443,7 @@
 									<p>Whether it’s a simple business website or a complex web platform, we build solutions that are secure, scalable, and future-ready.</p>
 						</div>
 						<div class="col-sm-4 col-sm-offset-1 mt-xlg">
-							<img class="img-responsive mt-xlg" src="../img/webb.jpg" alt="">
+							<img class="img-responsive mt-xlg" src="../img/webb.jpg" alt="Web Design and Development Services">
 						</div>
 					</div>			</div>
 					
@@ -493,7 +493,7 @@
 						</div>
 					</div>			</div>
                         <div class="col-sm-4">
-                            <img class="img-responsive mt-xlg" src="../img/web-design.jpg" alt="">
+                            <img class="img-responsive mt-xlg" src="../img/web-design.jpg" alt="Custom Web Design Dubai">
                         </div>
 					</div>
 					
@@ -530,7 +530,7 @@
 								</div>
 								
 								<div class="col-12 col-lg-4">
-							<img class="img-responsive" src="../img/1.gif" alt="">
+							<img class="img-responsive" src="../img/1.gif" alt="Web Development Process">
 						</div>
 							
 							
@@ -678,7 +678,7 @@
 
                                 <ul class="list list-icons list-icons-sm">
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="web-design-development.php" style="font-size:10px;">WEB DEVELOPMENT</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="mobile-application-development.php" style="font-size:10px;">APP DEVELOPMENT</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="mobile-app-development.php" style="font-size:10px;">APP DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a></li>
 
 
@@ -746,7 +746,7 @@
 
                         <ul class="list list-icons mt-xl">
 
-                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                         </ul>
 
@@ -757,7 +757,7 @@
                             <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
 
 

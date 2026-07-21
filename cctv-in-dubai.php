@@ -287,7 +287,7 @@
                                             <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971581730112">+971581730112</a></li>
                                             <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+918547557283">+918547557283</a></li>
 
-                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                                             <li><span class="ws-nowrap"><a></a></li>
 
@@ -309,7 +309,7 @@
 
                                         <ul class="header-social-icons social-icons hidden-xs">
 
-                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                                             <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 
@@ -646,7 +646,7 @@
 
                         <ul class="list list-icons mt-xl">
 
-                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                         </ul>
 
@@ -654,7 +654,7 @@
 
 
 
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                             <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 

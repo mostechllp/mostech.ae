@@ -893,7 +893,7 @@ if(isset($_POST['emailSent'])) {
 							<ul class="list list-icons list-icons-style-3 mt-xlg">
 								<li><i class="fa fa-map-marker"></i> <strong>Address:</strong> 1234 Street Name, City Name, United States</li>
 								<li><i class="fa fa-phone"></i> <strong>Phone:</strong> (123) 456-789</li>
-								<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">mail@example.com</a></li>
+								<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 							</ul>
 
 							<div class="row lightbox mt-xl" data-plugin-options="{'delegate': 'a', 'type': 'image', 'gallery': {'enabled': true}}">
@@ -978,7 +978,7 @@ if(isset($_POST['emailSent'])) {
 								<ul class="contact">
 									<li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> 1234 Street Name, City Name, United States</p></li>
 									<li><p><i class="fa fa-phone"></i> <strong>Phone:</strong> (123) 456-789</p></li>
-									<li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">mail@example.com</a></p></li>
+									<li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></p></li>
 								</ul>
 							</div>
 						</div>

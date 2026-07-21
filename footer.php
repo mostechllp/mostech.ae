@@ -29,7 +29,7 @@
                             <div class="col-md-4">
 
                                 <ul class="list list-icons list-icons-sm">
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/web-development-and-design.php" style="font-size:10px;">WEB DEVELOPMENT</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/web-design-development.php" style="font-size:10px;">WEB DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/mobile-app-development.php" style="font-size:10px;">APP DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a></li>
 
@@ -98,7 +98,7 @@
 
                         <ul class="list list-icons mt-xl">
 
-                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                         </ul>
 
@@ -109,7 +109,7 @@
                             <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
 
 

@@ -164,8 +164,8 @@ $thankYo="<p>Thank you Thank you for Subscribing.</p>";
 							<ul class="list list-icons mt-xl">
 								<h5 class="mb-sm">Contact Us</h5>
 								<li><i class="fa fa-phone"></i> <strong>Mobile: </strong><a href="tel:919961411863">(+91) 9961411863</a></li>
-								<li><i class="fa fa-whatsapp"></i> <strong>Whatsapp: </strong> <a href="https://wa.me/919961411863?text=Hi, I contacted you Through your website" >(+91) 9961411863</a></li>
-								<li><i class="fa fa-envelope"></i> <strong>Email: </strong> <a href="mailto:info@spotonz.com">info@spotonz.com</a></li>
+								<li><i class="fa fa-whatsapp"></i> <strong>Whatsapp: </strong> <a href="https://wa.me/919961411863?text=Hi%2C+I+contacted+you+Through+your+website" >(+91) 9961411863</a></li>
+								<li><i class="fa fa-envelope"></i> <strong>Email: </strong> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#115;&#112;&#111;&#116;&#111;&#110;&#122;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#115;&#112;&#111;&#116;&#111;&#110;&#122;&#46;&#99;&#111;&#109;</a></li>
 								</ul>
 							<ul class="social-icons mt-xl">
 								<li class="social-icons-facebook"><a href="https://www.facebook.com/spotonz/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>

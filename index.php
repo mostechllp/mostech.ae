@@ -53,7 +53,7 @@
 
         <meta property="og:url" content="https://www.mostech.ae/" />
 
-        <meta property="og:image" content="https://www.mostech.ae/img/logo.png" />
+        <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
         <meta property="og:description" content="Mostech is a leading Dubai software company delivering web development, mobile apps, and digital marketing across the UAE & GCC. Trusted by 500+ clients." />
 
@@ -332,7 +332,7 @@
                                             <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+918547557283">+918547557283</a></li>-->
                                             <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel: +971585792020"> +971585792020</a></li>-->
 
-                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae" style="color:#2e353e !important;font-weight:600;">info@mostech.ae</a></li>
+                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;" style="color:#2e353e !important;font-weight:600;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                                         </ul>
 
@@ -968,9 +968,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                 <!--<a href="digital-marketing.php" class="btn btn-dark font-weight-semibold btn-px-4 btn-py-2 text-2" style="background:#020c4c !important">LEARN MORE</a>-->
                             </div>
                             <div class="col-md-5">
-                                <!--<img src="img/digital1.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />-->
-                                <!--<img src="img/digital2.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;" alt="" />-->
-                                <img src="img/index5.png" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="Best SEO Service in Dubai">
+                                <img src="img/index5.png" alt="Best SEO Service in Dubai" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" />
                             </div>
                         </div>
                     </div>
@@ -1388,7 +1386,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                         <ul class="list list-icons mt-xl">
 
-                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                         </ul>
 

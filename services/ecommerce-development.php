@@ -316,7 +316,7 @@
                                             <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971581730112">+971581730112</a></li>
                                             <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971585792020">+971585792020</a></li>-->
 
-                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                                             <li><span class="ws-nowrap"><a></a></li>
 
@@ -341,7 +341,7 @@
                                             <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                                             <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                                             <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -371,7 +371,7 @@
 
                                                          <ul class="dropdown-menu">
 
-                                                            <li><a href="mobile-application-development.php">MOBILE APP DEVELOPMENT</a></li>
+                                                            <li><a href="mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
                                                             <li><a href="web-design-development.php"> WEB DEVELOPMENT & DESIGN</a></li>
                                                             <li><a href="digital-marketing.php"> DIGITAL MARKETING </a></li>        
                                                             <li><a href="ecommerce-development.php">ECOMMERCE</a></li>
@@ -439,12 +439,12 @@ End-to-End eCommerce Solutions Built for Growth
                             <p align="justify">At MOSTECH, we design and develop unified eCommerce platforms that deliver seamless shopping experiences across web, mobile, and all digital touchpoints. Your eCommerce store is more than just a sales channel — it is a direct reflection of your brand, performance, and customer trust. </p>
                             <p align="justify">
 Our expert eCommerce developers build secure, scalable, and high-converting online stores tailored to your business model — whether single-vendor, multi-vendor, B2C, B2B, or marketplace platforms.                                <br><br>
-                                <a href="contact.php" <span class="appear-animation" data-appear-animation="fadeInDown" data-appear-animation-delay="600"> <a href="contact.php" data-hash class="btn btn-tertiary mr-md appear-animation" data-appear-animation="fadeInDown" data-appear-animation-delay="300" style="background:#020c4c;">CONTACT US &nbsp;<i class="fa fa-whatsapp"></i> </a>
+                                <a href="../contact.php" data-hash class="btn btn-tertiary mr-md appear-animation" data-appear-animation="fadeInDown" data-appear-animation-delay="300" style="background:#020c4c;">CONTACT US &nbsp;<i class="fa fa-whatsapp"></i> </a>
 
                             </p>
                         </div>
                         <div class="col-md-6">
-                            <img class="img-responsive mt-xlg" src="../img/mos-img1.jpeg" alt="">
+                            <img class="img-responsive mt-xlg" src="../img/mos-img1.jpeg" alt="E-commerce Development Dubai">
                         </div>
 
                     </div>
@@ -599,7 +599,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
 </ul>
                     </div>
                     <div class="col-md-4">
-                        <img class="img-responsive mt-xlg" src="../img/mos-img2.jpeg" alt="">
+                        <img class="img-responsive mt-xlg" src="../img/mos-img2.jpeg" alt="E-commerce Solutions">
                     </div>
                 </div>
             </div>
@@ -616,7 +616,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
             <div class="container" style="margin-top:50px;">
     <div class="row mobile-reverse">
 <div class="col-md-4">
-            <img class="img-responsive mt-xlg" src="../img/mos-img4.jpeg" alt="">
+            <img class="img-responsive mt-xlg" src="../img/mos-img4.jpeg" alt="Online Store Development">
         </div>
         <div class="col-md-8">
 
@@ -741,7 +741,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
 
                                 <ul class="list list-icons list-icons-sm">
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="web-design-development.php" style="font-size:10px;">WEB DEVELOPMENT</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="mobile-application-development.php" style="font-size:10px;">APP DEVELOPMENT</a></li>
+                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="mobile-app-development.php" style="font-size:10px;">APP DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a></li>
 
 
@@ -809,7 +809,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
 
                         <ul class="list list-icons mt-xl">
 
-                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                         </ul>
 
@@ -820,7 +820,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                             <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
 
 

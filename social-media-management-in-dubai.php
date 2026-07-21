@@ -300,7 +300,7 @@
 
 											<li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+917907057251">+971555948123</a></li>
 
-											<li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+											<li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
 											<li><span class="ws-nowrap"><a></a></li>
 
@@ -322,7 +322,7 @@
 
 										<ul class="header-social-icons social-icons hidden-xs">
 
-											<li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+											<li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
 											<li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 
@@ -432,7 +432,7 @@ Social Media Management at MOS goes beyond posting content — it’s about stra
 							</p>
 						</div>
 						<div class="col-sm-4 col-sm-offset-1 mt-xlg">
-							<img class="img-responsive mt-xlg" src="img/mob1.jpg" alt="">
+							<img class="img-responsive mt-xlg" src="img/mob1.jpg" alt="Social Media Management in Dubai">
 						</div>
 					</div>			</div>
 					
@@ -679,7 +679,7 @@ Social Media Management at MOS goes beyond posting content — it’s about stra
 
 							<ul class="list list-icons mt-xl">
 
-								<li><i class="fa fa-envelope"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+								<li><i class="fa fa-envelope"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
 							</ul>
 
@@ -687,7 +687,7 @@ Social Media Management at MOS goes beyond posting content — it’s about stra
 
 							
 
-							<li class="social-icons-whatsapp">         <a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>	
+							<li class="social-icons-whatsapp">         <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>	
 
 							<li class="social-icons-facebook">         <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 

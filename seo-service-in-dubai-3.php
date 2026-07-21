@@ -922,7 +922,7 @@
                                         <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a-->
                                         <!--        href="tel:+971585792020">+971585792020</a></li>-->
                                         <li class="hidden-xs"><i class="fa fa-envelope"></i><a
-                                                href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                                                href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
                                         <li><span class="ws-nowrap"><a></a></span></li>
                                     </ul>
                                 </nav>
@@ -943,7 +943,7 @@
                                                 href="https://www.instagram.com/mostech.ae" target="_blank"
                                                 title="Instagram"><i class="fa fa-instagram"></i></a></li>
                                         <li class="social-icons-whatsapp"><a
-                                                href="https://wa.me/971581730112?text=Hi, I contacted you Through your website"
+                                                href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website"
                                                 title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
                                     </ul>
                                     <div
@@ -952,11 +952,11 @@
                                             <ul class="nav nav-pills" id="mainNav">
                                                 <li><a href="index.php">Home</a></li>
                                                 <li class="dropdown">
-                                                    <a class="dropdown-toggle" href="services/web-development.php">OUR SERVICES</a>
+                                                    <a class="dropdown-toggle" href="services/web-design-development.php">OUR SERVICES</a>
                                                     <ul class="dropdown-menu">
 
-                                                            <li><a href="services/mobile-application-development.php">MOBILE APP DEVELOPMENT</a></li>
-                                                            <li><a href="services/web-development.php"> WEB DEVELOPMENT & DESIGN</a></li>
+                                                            <li><a href="services/mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
+                                                            <li><a href="services/web-design-development.php"> WEB DEVELOPMENT & DESIGN</a></li>
                                                             <li><a href="services/digital-marketing.php"> DIGITAL MARKETING </a></li>        
                                                             <li><a href="services/ecommerce-development.php">ECOMMERCE</a></li>
                                                             <li><a href="services/erp-solutions.php">ERP SOLUTION</a></li>
@@ -1446,11 +1446,11 @@
                     <h2>Get Your Free SEO Audit & Strategy Call</h2>
                     <p>Discover exactly where you're losing rankings and revenue to competitors — with a custom roadmap
                         to close the gap. No commitment, no credit card.</p>
-                    <a href="mailto:info@mostech.ae?subject=Free SEO Audit Request" class="btn-cta-primary">
+                    <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;?subject=Free%20SEO%20Audit%20Request" class="btn-cta-primary">
                         <i class="fa fa-envelope" style="margin-right:8px;"></i> Request Free Audit
                     </a>
                     
-                    <a href="https://wa.me/971581730112?text=Hi, I'd like a free SEO audit" class="btn-cta-outline">
+                    <a href="https://wa.me/971581730112?text=Hi%2C+I%27d+like+a+free+SEO+audit" class="btn-cta-outline">
                         <i class="fa fa-whatsapp" style="margin-right:8px;"></i> WhatsApp Us
                     </a>
                 </div>
@@ -1467,10 +1467,10 @@
                             <div class="col-md-4">
                                 <ul class="list list-icons list-icons-sm">
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
-                                            href="web-development-and-design.php" style="font-size:10px;">WEB
+                                            href="services/web-design-development.php" style="font-size:10px;">WEB
                                             DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
-                                            href="hybrid-application-development.php" style="font-size:10px;">APP
+                                            href="services/mobile-app-development.php" style="font-size:10px;">APP
                                             DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
                                             href="digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a>
@@ -1510,7 +1510,7 @@
                         <!--<p class="mb-none"><a href="tel:+96892719357">OMAN : <strong>+968 92719357</strong></a></p>-->
                         <ul class="list list-icons mt-xl">
                             <li><i class="fa fa-envelope" style="color:white;"></i> <a
-                                    href="mailto:info@mostech.ae">info@mostech.ae</a></li>
+                                    href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
                         </ul>
                         <ul class="social-icons mt-xl">
                             <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech.ae"
@@ -1520,7 +1520,7 @@
                             <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae"
                                     target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
                             <li class="social-icons-whatsapp"><a
-                                    href="https://wa.me/971581730112?text=Hi, I contacted you Through your website"
+                                    href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website"
                                     title="WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
