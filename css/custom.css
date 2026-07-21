@@ -1,0 +1,103 @@
+/* Floating Call Button Styles */
+.floating-call-btn {
+    position: fixed !important;
+    left: 25px !important;
+    bottom: 25px !important;
+    width: 54px !important;
+    height: 54px !important;
+    background-color: #020c4c !important;
+    color: #ffffff !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 22px !important;
+    text-decoration: none !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3), 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    z-index: 9999999 !important;
+    transition: all 0.3s ease-in-out !important;
+    cursor: pointer !important;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.floating-call-btn:hover,
+.floating-call-btn:focus,
+.floating-call-btn:active {
+    background-color: #04157a !important;
+    color: #ffffff !important;
+    transform: scale(1.08) !important;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4) !important;
+    outline: none !important;
+}
+
+.floating-call-btn i {
+    color: #ffffff !important;
+    font-size: 22px !important;
+    line-height: 1 !important;
+}
+
+#floating-call-button:hover {
+    background-color: #04157a !important;
+    transform: scale(1.08) !important;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.4) !important;
+}
+
+/* Desktop Tooltip for Call Button */
+.floating-call-btn::after {
+    content: "Call Now";
+    position: absolute;
+    left: 68px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #111111;
+    color: #ffffff;
+    padding: 6px 12px;
+    font-size: 13px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-weight: 600;
+    border-radius: 4px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    pointer-events: none;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+    z-index: 10000000;
+}
+
+.floating-call-btn:hover::after {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Force GetButton WhatsApp Widget Position Above Call Button */
+#wh-widget-send-button,
+.wh-widget-send-button-wrapper,
+div[id*="wh-widget"],
+div[class*="wh-widget"] {
+    bottom: 95px !important;
+    z-index: 9999998 !important;
+}
+
+@media (max-width: 768px) {
+    .floating-call-btn {
+        left: 20px !important;
+        bottom: 20px !important;
+        width: 50px !important;
+        height: 50px !important;
+        font-size: 20px !important;
+    }
+    .floating-call-btn i {
+        font-size: 20px !important;
+    }
+    #wh-widget-send-button,
+    .wh-widget-send-button-wrapper,
+    div[id*="wh-widget"],
+    div[class*="wh-widget"] {
+        bottom: 85px !important;
+        left: 20px !important;
+    }
+    .floating-call-btn::after {
+        display: none !important;
+    }
+}

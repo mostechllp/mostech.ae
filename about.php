@@ -1104,6 +1104,11 @@ At Mostech, we believe technology should do more than automate tasks—it should
 
 
 
+        <!-- Floating Call Button -->
+        <a href="tel:+971581730112" id="floating-call-button" aria-label="Call Now" title="Call Now" style="position:fixed;left:25px;bottom:95px;width:54px;height:54px;background-color:#020c4c;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,0.35),0 2px 4px rgba(0,0,0,0.2);z-index:9999999;transition:transform 0.3s ease,box-shadow 0.3s ease,background-color 0.3s ease;cursor:pointer;">
+            <i class="fa fa-phone" style="color:#fff;font-size:22px;line-height:1;"></i>
+        </a>
+
     </body>
 
     </html>

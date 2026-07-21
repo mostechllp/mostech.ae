@@ -32,7 +32,7 @@
 
         <title>Web Design & Development Company in Dubai - Mostech</title>
 
-        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <!-- charset defined above via <meta charset="utf-8"> -->
 
         <meta name="keywords" content=" Mostech Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
@@ -60,7 +60,7 @@
 
         <meta property="og:description" content="Mostech is a leading Dubai software company delivering web development, mobile apps, and digital marketing across the UAE & GCC. Trusted by 500+ clients." />
 
-        <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
+
 
         <meta name="twitter:card" content="summary" />
 
@@ -86,7 +86,7 @@
 
         <!-- Mobile Metas -->
 
-        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
 
@@ -158,9 +158,9 @@
 
 
 
-        <script language="Javascript" src="classs/state/jquery.js"></script>
+        <script src="classs/state/jquery.js"></script>
 
-        <script type="text/JavaScript" src='classs/state/state.js'></script>
+        <script src="classs/state/state.js"></script>
 
         <link rel="stylesheet" type="text/css" href="classs/state/style.css">
 
@@ -176,7 +176,7 @@
 
 
 
-        <style type="text/css">
+        <style>
             .mobileShow {
 
                 display: none;
@@ -197,7 +197,7 @@
 
             /* Smartphone Portrait and Landscape */
 
-            @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+            @media only screen and (min-width: 320px) and (max-width: 480px) {
 
                 .mobileShow {
 
@@ -263,6 +263,46 @@
           }
         }
         </script>
+        <style>
+            #portfolio-section {
+                position: relative;
+                color: #fff;
+                text-align: center;
+                overflow: hidden;
+                background: linear-gradient(135deg, #3d6591, #0f3f71, #054381);
+            }
+
+            #particles-js {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+            }
+
+            .content {
+                position: relative;
+                z-index: 2;
+            }
+
+            /* Desktop only */
+            @media (min-width: 992px) {
+                .custom-desktop-style {
+                    margin-left: 10%!important;
+                    margin-right: 10%!important;
+                    border-radius: 30px;
+                    overflow: hidden;
+                }
+            }
+
+            /* Mobile reset */
+            @media (max-width: 991px) {
+                .custom-desktop-style {
+                    margin-left: 0;
+                    border-radius: 0;
+                }
+            }
+        </style>
 
     </head>
 
@@ -289,7 +329,7 @@
 
                                     <a href="index.php">
 
-                                        <img width="auto" height="48" data-sticky-width="220" data-sticky-height="auto" data-sticky-top="0" src="img/logo.png" alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
+                                        <img height="48" data-sticky-width="220" data-sticky-height="auto" data-sticky-top="0" src="img/logo.png" alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
 
                                     </a>
 
@@ -315,7 +355,7 @@
 
                                             <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
 
-                                            <li><span class="ws-nowrap"><a></a></li>
+                                            <li><span class="ws-nowrap"><a></a></span></li>
 
                                         </ul>
 
@@ -338,7 +378,7 @@
                                             <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                                             <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                                             <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -377,8 +417,6 @@
                                                     </li>
                                                     <li><a href="about.php">ABOUT US</a></li>
                                                     <li><a href="contact.php">CONTACT US</a></li>
-
-                                                    </li>
 
                                                 </ul>
 
@@ -545,18 +583,18 @@
 
 
                             <h1 class="heading-primary">
-                                <font color="#020c4c"> Driving Digital <strong> Success for Businesses </strong></font>
+                                <span style="color:#020c4c;"> Driving Digital <strong> Success for Businesses </strong></span>
                             </h1>
 
 
 
-                            <p align="justify">
-                                <font color="#00000">Mostech Business Solutions is a leading software and digital marketing agency in Dubai, serving as a trusted technology partner across the UAE and GCC. We specialize in software development, web and mobile applications, and performance-driven digital marketing solutions.
+                            <p style="text-align:justify;">
+                                <span style="color:#000000;">Mostech Business Solutions is a leading software and digital marketing agency in Dubai, serving as a trusted technology partner across the UAE and GCC. We specialize in software development, web and mobile applications, and performance-driven digital marketing solutions.
  <br><Br>
 With a presence in 12+ countries and over 500 clients served globally, we combine technology expertise, design-driven innovation, and operational efficiency to deliver measurable results. Our solutions are seamless, efficient, and tailored to meet specific business needs.
                                     <br><Br>
                                     Driven by innovation, quality, and performance, we deliver intelligent, tailored digital systems that improve efficiency, support sustainable growth, and help organizations stay ahead in competitive markets.
-                                </font>
+                                </span>
 
                             </p>
 
@@ -588,7 +626,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                         <div class="col-md-12 center">
 
                             <h2>Our <strong>
-                                    <font color="#020c4c">Services</font>
+                                    <span style="color:#020c4c;">Services</span>
                                 </strong></h2>
 
                         </div>
@@ -605,9 +643,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <i class="icon-graph icons" style="color:#fff;font-size:28px;"></i>
                                 </div>
 
-                                <h5 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
+                                <h3 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
                                     DIGITAL MARKETING
-                                </h5>
+                                </h3>
 
                                 <p style="color:#fff;text-align:justify;margin:0;">
                                     Digital marketing continues to evolve rapidly. We help businesses achieve enhanced visibility, optimize marketing budgets, and engage customers effectively across digital platforms.
@@ -625,9 +663,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <i class="icon-screen-desktop icons" style="color:#fff;font-size:28px;"></i>
                                 </div>
 
-                                <h5 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
+                                <h3 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
                                     WEB DEVELOPMENT & DESIGN
-                                </h5>
+                                </h3>
 
                                 <p style="color:#fff;text-align:justify;margin:0;">
                                    Expand your reach with websites built using modern design principles and advanced technologies. Elevate your brand, improve visibility, and accelerate online success.
@@ -644,9 +682,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <i class="icon-screen-smartphone icons" style="color:#fff;font-size:28px;"></i>
                                 </div>
 
-                                <h5 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
+                                <h3 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
                                     MOBILE APP DEVELOPMENT
-                                </h5>
+                                </h3>
 
                                 <p style="color:#fff;text-align:justify;margin:0;">
                                     Create seamless mobile experiences. We enable smarter business growth through advanced Android and iOS app development, guiding your product from concept to launch on app stores.
@@ -667,9 +705,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <i class="icon-handbag icons" style="color:#fff;font-size:28px;"></i>
                                 </div>
 
-                                <h5 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
+                                <h3 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
                                     ECOMMERCE DEVELOPMENT
-                                </h5>
+                                </h3>
 
                                 <p style="color:#fff;text-align:justify;margin:0;">
                                    Go digital with intelligent, cross-platform eCommerce solutions designed to grow your business. Sell your products and services via Android, iOS, and web platforms — no physical store required.
@@ -686,9 +724,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <i class="icon-layers icons" style="color:#fff;font-size:28px;"></i>
                                 </div>
 
-                                <h5 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
+                                <h3 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
                                     ERP SOLUTIONS
-                                </h5>
+                                </h3>
 
                                 <p style="color:#fff;text-align:justify;margin:0;">
                                     Our ERP solutions portfolio addresses enterprise requirements, enabling improved planning, seamless system integration, and efficient management of operational workflows.
@@ -705,9 +743,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <i class="icon-wrench icons" style="color:#fff;font-size:28px;"></i>
                                 </div>
 
-                                <h5 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
+                                <h3 style="color:#fff;font-weight:bold;margin-bottom:15px;font-size:17px;">
                                     CUSTOMIZED APP DEVELOPMENT
-                                </h5>
+                                </h3>
 
                                 <p style="color:#fff;text-align:justify;margin:0;">
                                    We develop platform-independent, customized applications using modern frameworks that integrate with existing business systems, extending their lifecycle and usability.
@@ -722,7 +760,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                 </div>
 
                 <hr>
-                <section style="padding-top:50px;">
+                <div style="padding-top:50px;">
                 <div class="container">
 
                     <div class="row mb-xlg">
@@ -735,17 +773,17 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                         <div class="col-sm-8">
 
-                            <h4 class="heading-primary">
-                                <font color="#020c4c">Digital Solutions <strong> Designed for Growth </strong></font>
-                            </h4>
+                            <h3 class="heading-primary">
+                                <span style="color:#020c4c;">Digital Solutions <strong> Designed for Growth </strong></span>
+                            </h3>
 
-                            <p align="justify">
-                                <font color="#00000">At Mostech Business Solutions, we simplify business operations through smart technology, strategic digital marketing, and impactful branding. We design and develop software solutions that help businesses work smarter, grow faster, and stay competitive. Our focus is on creating easy-to-use, accessible, and cost-effective digital solutions that improve productivity, enhance brand visibility, and deliver measurable results.</font>
+                            <p style="text-align:justify;">
+                                <span style="color:#000000;">At Mostech Business Solutions, we simplify business operations through smart technology, strategic digital marketing, and impactful branding. We design and develop software solutions that help businesses work smarter, grow faster, and stay competitive. Our focus is on creating easy-to-use, accessible, and cost-effective digital solutions that improve productivity, enhance brand visibility, and deliver measurable results.</span>
                             </p>
 
-                            <p align="justify">
-                                <font color="#00000">
-                                    Our expertise spans branding, digital marketing, SEO, and social media marketing, helping businesses build strong online identities and connect effectively with their target audience. Alongside marketing, we deliver modern web design and development, mobile application development, and customized software applications tailored to specific business needs. From ERP systems, accounting and HR software to automation tools and scalable enterprise solutions, we provide end-to-end technology that simplifies processes and supports long-term growth. At Mostech, our mission is simple—to make technology work for you and make your business life easier.</font>
+                            <p style="text-align:justify;">
+                                <span style="color:#000000;">
+                                    Our expertise spans branding, digital marketing, SEO, and social media marketing, helping businesses build strong online identities and connect effectively with their target audience. Alongside marketing, we deliver modern web design and development, mobile application development, and customized software applications tailored to specific business needs. From ERP systems, accounting and HR software to automation tools and scalable enterprise solutions, we provide end-to-end technology that simplifies processes and supports long-term growth. At Mostech, our mission is simple—to make technology work for you and make your business life easier.</span>
                             </p>
                         </div>
 
@@ -754,39 +792,13 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                     </div>
 
                 </div>
-</section>
-
-<style>
-#portfolio-section {
-    position: relative;
-    color: #fff;
-    text-align: center;
-    overflow: hidden;
-
-    /* Red Gradient */
-    background: linear-gradient(135deg, #3d6591, #0f3f71, #054381)
-
-}
-
-#particles-js {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-}
-
-.content {
-    position: relative;
-    z-index: 2;
-}
-</style>
+</div>
                 <section class="section section-height-3 bg-color-grey mb-0 border-0" id="portfolio-section">
                         <div id="particles-js"></div>
                     <div class="container py-4 my-5 content">
                         <div class="row justify-content-center text-center mb-4 appear-animation flex" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">
                             <div class="col-lg-8">
-                                <h2 class="font-weight-bold mb-4" style="color:#fff;!important;font-size:37px;">Mobile Application Development</h2>
+                                <h2 class="font-weight-bold mb-4" style="color:#fff !important;font-size:37px;">Mobile Application Development</h2>
                                 <p class="text-6 line-height-7 negative-ls-1 px-5" style="color:#fff;">Building powerful apps tailored to your business needs.</p>
                                 <p class="opacity-9 text-4" style="color:#fff;">We design and develop mobile applications that are built for performance, usability, and long-term growth. Our mobile development process focuses on creating streamlined, engaging user experiences, reliable functionality, and smooth performance across devices. By understanding user behavior and business objectives, we deliver apps that are secure, scalable, and aligned with real-world needs—helping businesses engage users more effectively and operate more efficiently.</p>
                             </div>
@@ -795,27 +807,27 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                             <div class="col-md-4 col-lg-4">
                                 <div class="featured-box featured-box-primary featured-box-effect-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200">
                                     <div class="box-content px-4">
-                                        <i class="icon-featured fa fa-android icons text-12" style="color:#fff;!important;"></i>
-                                        <h4 class="font-weight-bold pb-1 mb-2" style="color:#fff;!important;">Android UX-Driven Development</h4>
-                                        <p class="mb-0" align="justify" style="color:#fff;!important;">We offer high-performance, customised android app development services that satisfy all your business needs.</p>
+                                        <i class="icon-featured fa fa-android icons text-12" style="color:#fff !important;"></i>
+                                        <h3 class="font-weight-bold pb-1 mb-2" style="color:#fff !important;">Android UX-Driven Development</h3>
+                                        <p class="mb-0" style="text-align:justify;color:#fff !important;">We offer high-performance, customised android app development services that satisfy all your business needs.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-lg-4">
                                 <div class="featured-box featured-box-primary featured-box-effect-4 appear-animation" data-appear-animation="fadeIn">
-                                    <div class="box-content px-4" style="color:#fff;!important;">
-                                        <i class="icon-featured fa fa-apple icons text-12" style="color:#fff;!important;"></i>
-                                        <h4 class="font-weight-bold pb-1 mb-2" style="color:#fff;!important;">iOS-First Mobile Experiences</h4>
-                                        <p class="mb-0" align="justify" style="color:#fff;!important;">Our rich expertise in iOS mobile app development helps to build beautiful and engaging iOS applications for our clients.</p>
+                                    <div class="box-content px-4" style="color:#fff !important;">
+                                        <i class="icon-featured fa fa-apple icons text-12" style="color:#fff !important;"></i>
+                                        <h3 class="font-weight-bold pb-1 mb-2" style="color:#fff !important;">iOS-First Mobile Experiences</h3>
+                                        <p class="mb-0" style="text-align:justify;color:#fff !important;">Our rich expertise in iOS mobile app development helps to build beautiful and engaging iOS applications for our clients.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-lg-4">
                                 <div class="featured-box featured-box-primary featured-box-effect-4 appear-animation" data-appear-animation="fadeIn">
-                                    <div class="box-content px-4" style="color:#fff;!important;">
-                                        <i class="icon-featured fa fa-code-fork icons text-12" style="color:#fff;!important;"></i>
-                                        <h4 class="font-weight-bold pb-1 mb-2" style="color:#fff;!important;">Cross-Platform App Development</h4>
-                                        <p class="mb-0" align="justify" style="color:#fff;!important;">We build consistent and cost effective hybrid mobility solutions that work equally well across multiple platforms.</p>
+                                    <div class="box-content px-4" style="color:#fff !important;">
+                                        <i class="icon-featured fa fa-code-fork icons text-12" style="color:#fff !important;"></i>
+                                        <h3 class="font-weight-bold pb-1 mb-2" style="color:#fff !important;">Cross-Platform App Development</h3>
+                                        <p class="mb-0" style="text-align:justify;color:#fff !important;">We build consistent and cost effective hybrid mobility solutions that work equally well across multiple platforms.</p>
                                     </div>
                                 </div>
                             </div>
@@ -833,18 +845,18 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                         <div class="col-lg-7 pe-lg-5 mb-5 mb-lg-0 flex justify-content-center">
                             <div>
                                 <h2 class="heading-primary font-weight-bold mb-4">Website Design and Development</h2>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" align="justify">
-                                    <font color="#000">We create modern, responsive websites that combine strong visual design with seamless functionality to deliver meaningful digital experiences for your audience.
-                                        Our website design and development services focus on usability, performance, and scalability—ensuring your site not only looks great but also supports your business goals and grows with your needs.</font>
+                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                    <span style="color:#000;">We create modern, responsive websites that combine strong visual design with seamless functionality to deliver meaningful digital experiences for your audience.
+                                        Our website design and development services focus on usability, performance, and scalability—ensuring your site not only looks great but also supports your business goals and grows with your needs.</span>
                                 </p>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" align="justify">
-                                    <font color="#000">Every project begins with a clear understanding of your brand identity, target audience, and objectives. This allows us to design clear, engaging layouts and smooth user journeys that encourage interaction, improve accessibility, and guide visitors toward meaningful actions.</font>
+                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                    <span style="color:#000;">Every project begins with a clear understanding of your brand identity, target audience, and objectives. This allows us to design clear, engaging layouts and smooth user journeys that encourage interaction, improve accessibility, and guide visitors toward meaningful actions.</span>
                                 </p>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" align="justify">
-                                    <font color="#000">Using the latest technologies and best development practices, we build efficient, accessible, and high-performance websites optimized for search engines and cross-device compatibility. From initial planning to final deployment, we ensure quality, reliability, and long-term maintainability at every stage of development.</font>
+                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                    <span style="color:#000;">Using the latest technologies and best development practices, we build efficient, accessible, and high-performance websites optimized for search engines and cross-device compatibility. From initial planning to final deployment, we ensure quality, reliability, and long-term maintainability at every stage of development.</span>
                                 </p>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" align="justify">
-                                    <font color="#000">We also focus on creating websites that are future-ready and adaptable to evolving trends. By integrating analytics, performance tracking, and scalable solutions, we help you make informed decisions that enhance user engagement and drive measurable business growth. Our mission is to deliver a digital presence that not only reflects your brand’s vision but also empowers your business to succeed in a competitive online landscape.
+                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                    <span style="color:#000;">We also focus on creating websites that are future-ready and adaptable to evolving trends. By integrating analytics, performance tracking, and scalable solutions, we help you make informed decisions that enhance user engagement and drive measurable business growth. Our mission is to deliver a digital presence that not only reflects your brand’s vision but also empowers your business to succeed in a competitive online landscape.</span>
                                 </p>
                                 <!--<a href="web-development-and-design.php" class="learn-more text-primary font-weight-semibold text-2">VIEW MORE <i class="fa fa-chevron-right text-3 ms-2"></i></a>-->
                             </div>
@@ -854,15 +866,15 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                 <div class="col-xs-6 col-md-6 mb-4">
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="200">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">01</span>
-                                        <h4 class="font-weight-bold text-5 ps-1 mb-2">Strategy</h4>
-                                        <p class="mb-4" align="justify">We analyze your business, audience, and objectives to define a clear website strategy that aligns with your brand and goals.</p>
+                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Strategy</h3>
+                                        <p class="mb-4" style="text-align:justify;">We analyze your business, audience, and objectives to define a clear website strategy that aligns with your brand and goals.</p>
                                     </div>
                                 </div>
                                 <div class="col-xs-6 col-md-6  mb-4">
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">02</span>
-                                        <h4 class="font-weight-bold text-5 ps-1 mb-2">Plan</h4>
-                                        <p class="mb-4" align="justify">We structure content, design layouts, and user journeys to ensure a smooth, intuitive, and engaging user experience.</p>
+                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Plan</h3>
+                                        <p class="mb-4" style="text-align:justify;">We structure content, design layouts, and user journeys to ensure a smooth, intuitive, and engaging user experience.</p>
                                     </div>
                                 </div>
                             </div>
@@ -870,22 +882,22 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                 <div class="col-xs-6 col-md-6  mb-4 mb-sm-0">
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="1000">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">03</span>
-                                        <h4 class="font-weight-bold text-5 ps-1 mb-2">Work</h4>
-                                        <p class="mb-4" align="justify">Our team designs and develops responsive, high-performance websites using modern technologies and best practices.</p>
+                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Work</h3>
+                                        <p class="mb-4" style="text-align:justify;">Our team designs and develops responsive, high-performance websites using modern technologies and best practices.</p>
                                     </div>
                                 </div>
                                 <div class="col-xs-6 col-md-6 ">
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="1400">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">04</span>
-                                        <h4 class="font-weight-bold text-5 ps-1 mb-2">Quality</h4>
-                                        <p class="mb-4" align="justify">Every website is thoroughly tested for speed, security, and usability to deliver a reliable and polished final product.</p>
+                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Quality</h3>
+                                        <p class="mb-4" style="text-align:justify;">Every website is thoroughly tested for speed, security, and usability to deliver a reliable and polished final product.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                                <section class="section section-quaternary mb-none mt-0" style="background:#0b4887!important;">
+                <div class="section section-quaternary mb-none mt-0" style="background:#0b4887!important;">
 
                     <div class="container">
 
@@ -947,33 +959,12 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                     </div>
 
-                </section>
-
- <style>           
-                /* Desktop only */
-@media (min-width: 992px) {
-    .custom-desktop-style {
-        margin-left: 10%!important;
-        margin-right: 10%!important;
-        border-radius: 30px; /* left side rounded */
-        overflow: hidden; /* important for radius to apply */
-    }
-}
-
-/* Mobile reset (optional but safe) */
-@media (max-width: 991px) {
-    .custom-desktop-style {
-        margin-left: 0;
-        border-radius: 0;
-    }
-}
-
-</style>    
+                </div>    
                <section class="section section-height-3 bg-color-grey m-0 border-0 pt-0 pb-0 custom-desktop-style">
                     <div class="container">
                         <div class="row align-items-center justify-content-center flex-row">
                             <div class="col-md-7 pb-sm-4 pb-lg-0 pe-lg-5">
-                                <h1 class="heading-primary font-weight-bold mb-4"> Best SEO Service in Dubai</h1>
+                                <h2 class="heading-primary font-weight-bold mb-4"> Best SEO Service in Dubai</h2>
                                 <!--<p align="justify">-->
                                 <!--    <font color="#000">We support businesses in building meaningful digital visibility through well-planned marketing initiatives that focus on real audience connection and consistent growth. Our approach blends strategy, creativity, and analytics to strengthen your brand’s presence across online platforms.</font>-->
                                 <!--</p>-->
@@ -985,24 +976,24 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                 <!--    <font color="#000">-->
                                 <!--        We believe digital marketing is not just about traffic, but about relevance and trust. Through continuous performance analysis and optimization, we ensure your marketing efforts remain effective, adaptable, and focused on delivering long-term value.</font>-->
                                 <!--</p>-->
-                                <p align="justify">
-  <font color="#000">Search Engine Optimization is at the core of sustainable digital growth. We help your business rank higher on search engines like Google by building a strong foundation of technical excellence, authoritative content, and meaningful backlinks — so customers find you exactly when they're looking.</font>
+                                <p style="text-align:justify;">
+  <span style="color:#000;">Search Engine Optimization is at the core of sustainable digital growth. We help your business rank higher on search engines like Google by building a strong foundation of technical excellence, authoritative content, and meaningful backlinks — so customers find you exactly when they're looking.</span>
 </p>
-<p align="justify">
-  <font color="#000">Our SEO strategies are data-driven and tailored to your industry. Whether you're targeting local customers or a global audience, we craft a roadmap that aligns with how your audience searches, what they need, and how search engines evaluate relevance and trust.</font>
+<p style="text-align:justify;">
+  <span style="color:#000;">Our SEO strategies are data-driven and tailored to your industry. Whether you're targeting local customers or a global audience, we craft a roadmap that aligns with how your audience searches, what they need, and how search engines evaluate relevance and trust.</span>
 </p>
-<p align="justify">
-  <font color="#000">Beyond rankings, we focus on search intent — understanding what your audience is genuinely looking for and crafting content that answers those questions with depth and authority. This approach builds lasting visibility rather than short-lived spikes.</font>
+<p style="text-align:justify;">
+  <span style="color:#000;">Beyond rankings, we focus on search intent — understanding what your audience is genuinely looking for and crafting content that answers those questions with depth and authority. This approach builds lasting visibility rather than short-lived spikes.</span>
 </p>
-<p align="justify">
-  <font color="#000">Through continuous monitoring of algorithm updates, keyword trends, and competitor movements, we keep your SEO strategy agile and ahead of the curve. Every action we take is measured against real business outcomes, ensuring your investment in organic search delivers compounding, long-term returns.</font>
+<p style="text-align:justify;">
+  <span style="color:#000;">Through continuous monitoring of algorithm updates, keyword trends, and competitor movements, we keep your SEO strategy agile and ahead of the curve. Every action we take is measured against real business outcomes, ensuring your investment in organic search delivers compounding, long-term returns.</span>
 </p>
                                 <!--<a href="digital-marketing.php" class="btn btn-dark font-weight-semibold btn-px-4 btn-py-2 text-2" style="background:#020c4c !important">LEARN MORE</a>-->
                             </div>
                             <div class="col-md-5">
                                 <!--<img src="img/digital1.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" data-appear-animation-delay="300" style="top: 10%; left: -50%;" alt="" />-->
                                 <!--<img src="img/digital2.jpg" class="img-fluid position-absolute d-none d-sm-block appear-animation" data-appear-animation="expandIn" style="top: -33%; left: -29%;" alt="" />-->
-                                <img src="img/index5.png" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="" />
+                                <img src="img/index5.png" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" alt="Best SEO Service in Dubai">
                             </div>
                         </div>
                     </div>
@@ -1014,7 +1005,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                         <div class="col-md-12">
 
                             <h2>Our <strong>
-                                    <font color="#020c4c">Technology Partners</font>
+                                    <span style="color:#020c4c;">Technology Partners</span>
                                 </strong></h2>
 
 
@@ -1338,10 +1329,10 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                     <div class="col-md-9">
 
-                        <h4>About Mostech</h4>
+                        <h3>About Mostech</h3>
 
-                        <p align="justify">
-                            <font color="white">Mostech Business Solutions is a Dubai-based software company trusted across the UAE and GCC. We offer Software Development, Web and Mobile Application Development, and Digital Marketing services. We create intelligent, powerful applications that streamline business operations efficiently. Committed to continuous improvement, we achieve success through quality and performance. We prioritize understanding customer needs and building long-term relationships that define our growth.
+                        <p style="text-align:justify;">
+                            <span style="color:white;">Mostech Business Solutions is a Dubai-based software company trusted across the UAE and GCC. We offer Software Development, Web and Mobile Application Development, and Digital Marketing services. We create intelligent, powerful applications that streamline business operations efficiently. Committed to continuous improvement, we achieve success through quality and performance. We prioritize understanding customer needs and building long-term relationships that define our growth.</span>
                         </p>
 
                         <hr class="light">
@@ -1402,7 +1393,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                     <div class="col-md-3">
 
-                        <h5 class="mb-sm">Contact Us</h5>
+                        <h3 class="mb-sm">Contact Us</h3>
 
                         <span class="phone"><a href="tel:+971581730112">+971 581730112</a></span>
 
@@ -1410,7 +1401,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                         <p class="mb-none"><a href="tel:+918547557283">INDIA : <strong> +91 8547557283</strong></a></p>
 
-                        <p class="mb-none"><a href="tel:+966 53 574 4308">KSA : <strong> +966 53 574 4308</strong></a></p>
+                        <p class="mb-none"><a href="tel:+966535744308">KSA : <strong> +966 53 574 4308</strong></a></p>
 
                         <p class="mb-none"><a href="tel:+97472098584">QATAR :<strong> +974 72098584</strong></a></p>
 
@@ -1431,7 +1422,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                             <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi, I contacted you Through your website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
 
 
 
@@ -1447,19 +1438,12 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p align="center">All rights reserved. Copyright @ <a href="https://www.mostech.ae" target="_blank">Mostech</a></p>
+                        <p style="text-align:center;">All rights reserved. Copyright @ <a href="https://www.mostech.ae" target="_blank">Mostech</a></p>
                     </div>
                 </div>
             </div>
 
         </footer>
-
-
-
-        </div>
-
-
-
 
 
         <!-- Vendor -->
@@ -1571,7 +1555,7 @@ particlesJS("particles-js", {
 
         <!-- GetButton.io widget -->
 
-        <script type="text/javascript">
+        <script>
             (function() {
 
                 var options = {
@@ -1648,6 +1632,11 @@ particlesJS("particles-js", {
 
 
 
+
+        <!-- Floating Call Button -->
+        <a href="tel:+971581730112" id="floating-call-button" aria-label="Call Now" title="Call Now" style="position:fixed;left:25px;bottom:95px;width:54px;height:54px;background-color:#020c4c;color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;text-decoration:none;box-shadow:0 4px 12px rgba(0,0,0,0.35),0 2px 4px rgba(0,0,0,0.2);z-index:9999999;transition:transform 0.3s ease,box-shadow 0.3s ease,background-color 0.3s ease;cursor:pointer;">
+            <i class="fa fa-phone" style="color:#fff;font-size:22px;line-height:1;"></i>
+        </a>
 
     </body>
 
