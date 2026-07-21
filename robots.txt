@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.mostech.ae/sitemap.xml
+Sitemap: https://mostech.ae/sitemap.xml

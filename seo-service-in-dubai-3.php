@@ -21,6 +21,8 @@
     <meta name="keywords"
         content="SEO services Dubai, SEO agency UAE, local SEO Dubai, technical SEO, GCC SEO, Arabic SEO" />
     <meta name="robots" content="index,follow" />
+
+    <meta name="google-site-verification" content="fO3pxHH0k0QnRkkx8CPhCYyv3Fgw7GRQALcExZnt15s" />
     <link rel="canonical" href="https://www.mostech.ae/seo-service-in-dubai.php">
     <meta property="og:title" content="SEO Services in Dubai | Mostech" />
     <meta property="og:url" content="https://www.mostech.ae/seo-service-in-dubai.php" />
@@ -855,6 +857,40 @@
         }
     }
     </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Mostech Business Solutions",
+      "image": "https://www.mostech.ae/img/logo.png",
+      "@id": "",
+      "url": "https://mostech.ae",
+      "telephone": "+971 56 585 1032",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Business Bay",
+        "addressLocality": "Dubai",
+        "postalCode": "",
+        "addressCountry": "AE"
+      }
+    }
+    </script>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "WebSite",
+      "name": "Mostech Business Solutions",
+      "url": "https://mostech.ae/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "{search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
 </head>
 
 <body>

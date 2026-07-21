@@ -4,6 +4,8 @@
 
     <head>
 
+        <base href="/" />
+
         <!-- Google Tag Manager -->
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -39,6 +41,8 @@
         <meta name="description" content="<?php echo isset($pageDescription) ? $pageDescription : 'Mostech Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai.'; ?>" />
 
         <meta name="robots" content="index,follow" />
+
+        <meta name="google-site-verification" content="fO3pxHH0k0QnRkkx8CPhCYyv3Fgw7GRQALcExZnt15s" />
 
         <meta name="lang" content="English" />
 
@@ -217,6 +221,38 @@
 
             }
         </style>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "Mostech Business Solutions",
+          "image": "https://www.mostech.ae/img/logo.png",
+          "@id": "",
+          "url": "https://mostech.ae",
+          "telephone": "+971 56 585 1032",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Business Bay",
+            "addressLocality": "Dubai",
+            "postalCode": "",
+            "addressCountry": "AE"
+          }
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebSite",
+          "name": "Mostech Business Solutions",
+          "url": "https://mostech.ae/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+        </script>
 
     </head>
 

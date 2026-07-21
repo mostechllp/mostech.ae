@@ -115,6 +115,7 @@ if(isset($_POST['emailSent'])) {
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
 		<meta name="author" content="okler.net">
+		<meta name="google-site-verification" content="fO3pxHH0k0QnRkkx8CPhCYyv3Fgw7GRQALcExZnt15s" />
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
@@ -149,6 +150,39 @@ if(isset($_POST['emailSent'])) {
 
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.min.js"></script>
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "LocalBusiness",
+          "name": "Mostech Business Solutions",
+          "image": "https://www.mostech.ae/img/logo.png",
+          "@id": "",
+          "url": "https://mostech.ae",
+          "telephone": "+971 56 585 1032",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Business Bay",
+            "addressLocality": "Dubai",
+            "postalCode": "",
+            "addressCountry": "AE"
+          }
+        }
+        </script>
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org/",
+          "@type": "WebSite",
+          "name": "Mostech Business Solutions",
+          "url": "https://mostech.ae/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "{search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+        </script>
 
 	</head>
 	<body>
