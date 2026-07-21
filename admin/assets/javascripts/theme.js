@@ -1647,11 +1647,15 @@ window.theme = {};
 					.addClass(self.options.buttonClass)
 					.attr({
 						'href': '#',
+						'aria-label': 'Scroll to Top',
+						'title': 'Scroll to Top'
 					})
 					.append(
-						$('<i />')
-						.addClass(self.options.iconClass)
-				);
+						$('<i />').addClass(self.options.iconClass)
+					)
+					.append(
+						$('<span />').addClass('sr-only').text('Scroll to Top')
+					);
 
 				// Visible Mobile
 				if (!self.options.visibleMobile) {

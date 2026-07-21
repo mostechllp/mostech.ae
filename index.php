@@ -12,17 +12,14 @@
         })(window,document,'script','dataLayer','GTM-5PGPXXFN');</script>
         <!-- End Google Tag Manager -->
 
-        <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180334845-1"></script>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-63H5FYJL8W"></script>
         <script>
-            window.dataLayer = window.dataLayer || [];
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-            function gtag() {
-                dataLayer.push(arguments);
-            }
-            gtag('js', new Date());
-
-            gtag('config', 'UA-180334845-1');
+          gtag('config', 'G-63H5FYJL8W');
         </script>
 
 
@@ -155,24 +152,6 @@
         <!-- Head Libs -->
 
         <script src="vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script src="classs/state/jquery.js"></script>
-
-        <script src="classs/state/state.js"></script>
-
-        <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-
-
-
-
-
-        <link rel="stylesheet" href="style.css">
-
-        <link rel="stylesheet" href="style1.css">
-
-        <link rel="stylesheet" href="style2.css">
 
 
 
@@ -349,13 +328,11 @@
 
                                         <ul class="nav nav-pills">
 
-                                            <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971581730112">+971581730112</a></li>
+                                            <li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+971581730112" style="color:#2e353e !important;font-weight:600;">+971581730112</a></li>
                                             <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel:+918547557283">+918547557283</a></li>-->
                                             <!--<li class="hidden-xs"><i class="fa fa-phone"></i><a href="tel: +971585792020"> +971585792020</a></li>-->
 
-                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae">info@mostech.ae</a></li>
-
-                                            <li><span class="ws-nowrap"><a></a></span></li>
+                                            <li class="hidden-xs"> <i class="fa fa-envelope"></i><a href="mailto:info@mostech.ae" style="color:#2e353e !important;font-weight:600;">info@mostech.ae</a></li>
 
                                         </ul>
 
@@ -367,7 +344,7 @@
 
                                     <div class="header-nav">
 
-                                        <button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
+                                        <button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main" aria-label="Toggle Navigation">
 
                                             <i class="fa fa-bars"></i>
 
@@ -375,10 +352,10 @@
 
                                         <ul class="header-social-icons social-icons hidden-xs">
 
-                                            <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                            <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                                            <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                                            <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech.ae" target="_blank" rel="noopener noreferrer" title="Linkedin" aria-label="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                                            <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" rel="noopener noreferrer" title="Facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
+                                            <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" rel="noopener noreferrer" title="Instagram" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" target="_blank" rel="noopener noreferrer" title="WhatsApp" aria-label="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -400,7 +377,7 @@
 
                                                     <li class="dropdown">
 
-                                                        <a class="dropdown-toggle">
+                                                        <a class="dropdown-toggle" href="services/web-design-development.php">
 
                                                             OUR SERVICES
 
@@ -867,14 +844,14 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="200">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">01</span>
                                         <h3 class="font-weight-bold text-5 ps-1 mb-2">Strategy</h3>
-                                        <p class="mb-4" style="text-align:justify;">We analyze your business, audience, and objectives to define a clear website strategy that aligns with your brand and goals.</p>
+                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">We analyze your business, audience, and objectives to define a clear website strategy that aligns with your brand and goals.</p>
                                     </div>
                                 </div>
                                 <div class="col-xs-6 col-md-6  mb-4">
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">02</span>
                                         <h3 class="font-weight-bold text-5 ps-1 mb-2">Plan</h3>
-                                        <p class="mb-4" style="text-align:justify;">We structure content, design layouts, and user journeys to ensure a smooth, intuitive, and engaging user experience.</p>
+                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">We structure content, design layouts, and user journeys to ensure a smooth, intuitive, and engaging user experience.</p>
                                     </div>
                                 </div>
                             </div>
@@ -883,14 +860,14 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="1000">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">03</span>
                                         <h3 class="font-weight-bold text-5 ps-1 mb-2">Work</h3>
-                                        <p class="mb-4" style="text-align:justify;">Our team designs and develops responsive, high-performance websites using modern technologies and best practices.</p>
+                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">Our team designs and develops responsive, high-performance websites using modern technologies and best practices.</p>
                                     </div>
                                 </div>
                                 <div class="col-xs-6 col-md-6 ">
                                     <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="1400">
                                         <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">04</span>
                                         <h3 class="font-weight-bold text-5 ps-1 mb-2">Quality</h3>
-                                        <p class="mb-4" style="text-align:justify;">Every website is thoroughly tested for speed, security, and usability to deliver a reliable and polished final product.</p>
+                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">Every website is thoroughly tested for speed, security, and usability to deliver a reliable and polished final product.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1419,10 +1396,10 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
 
 
-                            <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                            <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                            <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" rel="noopener noreferrer" title="Facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
+                            <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" rel="noopener noreferrer" title="Instagram" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
 
 
@@ -1438,7 +1415,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p style="text-align:center;">All rights reserved. Copyright @ <a href="https://www.mostech.ae" target="_blank">Mostech</a></p>
+                        <p style="text-align:center;color:#ffffff !important;">All rights reserved. Copyright @ <a href="https://www.mostech.ae" target="_blank" rel="noopener noreferrer" style="color:#ffffff !important;text-decoration:underline;">Mostech</a></p>
                     </div>
                 </div>
             </div>
@@ -1473,8 +1450,6 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
         <script src="vendor/owl.carousel/owl.carousel.min.js"></script>
 
         <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
-
-        <script src="vendor/vide/vide.min.js"></script>
 
 
 

@@ -200,6 +200,12 @@ $thankYo="<p>Thank you Thank you for Subscribing.</p>";
 			</footer>
 		</div>
 
+		<!-- Scroll to Top (static for accessibility) -->
+		<a class="scroll-to-top hidden-mobile" href="#" aria-label="Scroll to Top" title="Scroll to Top">
+			<i class="fa fa-chevron-up"></i>
+			<span class="sr-only">Scroll to Top</span>
+		</a>
+
 		<!-- Vendor -->
 		<script src="vendor/jquery/jquery.min.js"></script>
 		<script src="vendor/jquery.appear/jquery.appear.min.js"></script>

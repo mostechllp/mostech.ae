@@ -16,9 +16,11 @@
 
                     <div class="col-md-9">
 
+                        <?php if (rtrim($_SERVER['REQUEST_URI'], '/') === '' || $_SERVER['REQUEST_URI'] === '/' || basename($_SERVER['SCRIPT_NAME']) === 'index.php'): ?>
                         <h4>About Mostech</h4>
 
                         <p align="justify"><font color="white">Mostech Business Solutions is a Dubai-based software company trusted across the UAE and GCC. We offer Software Development, Web and Mobile Application Development, and Digital Marketing services. We create intelligent, powerful applications that streamline business operations efficiently. Committed to continuous improvement, we achieve success through quality and performance. We prioritize understanding customer needs and building long-term relationships that define our growth.</p>
+                        <?php endif; ?>
 
                         <hr class="light">
 
@@ -130,7 +132,11 @@
 
         </footer>
 
-
+        <!-- Scroll to Top (static for accessibility) -->
+        <a class="scroll-to-top hidden-mobile" href="#" aria-label="Scroll to Top" title="Scroll to Top">
+            <i class="fa fa-chevron-up"></i>
+            <span class="sr-only">Scroll to Top</span>
+        </a>
 
         </div>
 

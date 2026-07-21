@@ -2,15 +2,14 @@
 <html lang="en">
 
 <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180334845-1"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-63H5FYJL8W"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'UA-180334845-1');
+      gtag('config', 'G-63H5FYJL8W');
     </script>
 
     <meta charset="utf-8">
@@ -953,7 +952,7 @@
                                             <ul class="nav nav-pills" id="mainNav">
                                                 <li><a href="index.php">Home</a></li>
                                                 <li class="dropdown">
-                                                    <a class="dropdown-toggle">OUR SERVICES</a>
+                                                    <a class="dropdown-toggle" href="services/web-development.php">OUR SERVICES</a>
                                                     <ul class="dropdown-menu">
 
                                                             <li><a href="services/mobile-application-development.php">MOBILE APP DEVELOPMENT</a></li>
@@ -1463,14 +1462,6 @@
                 <div class="row mb-0">
                     <div class="footer-ribbon"><span>Get in Touch</span></div>
                     <div class="col-md-9">
-                        <h4>About Mostech</h4>
-                        <p align="justify">
-                            <font color="white">Mostech Business Solutions is a Dubai-based software company trusted
-                                across the UAE and GCC. We offer Software Development, Web and Mobile Application
-                                Development, and Digital Marketing services. We create intelligent, powerful
-                                applications that streamline business operations efficiently. Committed to continuous
-                                improvement, we achieve success through quality and performance.</font>
-                        </p>
                         <hr class="light">
                         <div class="row">
                             <div class="col-md-4">

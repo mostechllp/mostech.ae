@@ -106,6 +106,16 @@ if(isset($_POST['emailSent'])) {
 <!-- devcode: !production --><html><!-- endcode --><!-- devcode: production --><html><!-- endcode -->
 	<head>
 
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-63H5FYJL8W"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-63H5FYJL8W');
+		</script>
+
 		<!-- Basic -->
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">	
@@ -206,7 +216,7 @@ if(isset($_POST['emailSent'])) {
 											<div class="input-group">
 												<input type="text" class="form-control" name="q" id="q" placeholder="Search..." required>
 												<span class="input-group-btn">
-													<button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+													<button class="btn btn-default" type="submit" aria-label="Search" title="Search"><i class="fa fa-search"></i></button>
 												</span>
 											</div>
 										</form>
@@ -227,7 +237,7 @@ if(isset($_POST['emailSent'])) {
 								</div>
 								<div class="header-row">
 									<div class="header-nav">
-										<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
+										<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main" aria-label="Toggle Navigation" title="Toggle Navigation">
 											<i class="fa fa-bars"></i>
 										</button>
 										<ul class="header-social-icons social-icons hidden-xs">
@@ -849,7 +859,7 @@ if(isset($_POST['emailSent'])) {
 													?>
 												</div>
 												<div class="captcha-refresh">
-													<a href="#" id="refreshCaptcha"><i class="fa fa-refresh"></i></a>
+													<a href="#" id="refreshCaptcha" aria-label="Refresh CAPTCHA" title="Refresh CAPTCHA"><i class="fa fa-refresh"></i></a>
 												</div>
 											</div>
 										</div>
@@ -1007,6 +1017,12 @@ if(isset($_POST['emailSent'])) {
 				</div>
 			</footer>
 		</div>
+
+		<!-- Scroll to Top (static for accessibility) -->
+		<a class="scroll-to-top hidden-mobile" href="#" aria-label="Scroll to Top" title="Scroll to Top">
+			<i class="fa fa-chevron-up"></i>
+			<span class="sr-only">Scroll to Top</span>
+		</a>
 
 		<!-- Vendor -->
 		<script src="vendor/jquery/jquery.min.js"></script>

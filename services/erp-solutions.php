@@ -12,17 +12,14 @@
     })(window,document,'script','dataLayer','GTM-5PGPXXFN');</script>
     <!-- End Google Tag Manager -->
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180334845-1"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-63H5FYJL8W"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-180334845-1');
+      gtag('config', 'G-63H5FYJL8W');
     </script>
 
 
@@ -376,7 +373,7 @@
 
                                                 <li class="dropdown">
 
-                                                    <a class="dropdown-toggle">
+                                                    <a class="dropdown-toggle" href="erp-solutions.php">
 
                                                         OUR SERVICES
 
@@ -667,10 +664,6 @@ With MOSTECH, you don’t just get software — you get a strategic partner for 
                     </div>
 
                     <div class="col-md-9">
-
-                        <h4>About Mostech</h4>
-
-                        <p align="justify"><font color="white">Mostech Business Solutions is a Dubai-based software company trusted across the UAE and the GCC. We offer software development, web and mobile application development, and digital marketing services. We create intelligent, powerful applications that streamline business operations efficiently. Committed to continuous improvement, we achieve success through quality and performance. We prioritize understanding our customers’ needs and building long-term relationships that define our growth.</p>
 
                         <hr class="light">
 

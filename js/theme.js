@@ -1538,35 +1538,56 @@ window.theme.fn = {
 				var self = this,
 					$el;
 
-				// Base HTML Markup
-				$el = $('<a />')
-					.addClass(self.options.buttonClass)
-					.attr({
-						'href': '#',
-					})
-					.append(
-						$('<i />')
-						.addClass(self.options.iconClass)
-				);
+				// Reuse existing element if present in DOM (pre-rendered with aria-label)
+				var $existing = self.options.wrapper.find('.' + self.options.buttonClass);
+				if ($existing.length) {
+					// Ensure accessibility on existing element
+					if (!$existing.attr('aria-label')) {
+						$existing.attr('aria-label', 'Scroll to Top');
+					}
+					if (!$existing.attr('title')) {
+						$existing.attr('title', 'Scroll to Top');
+					}
+					if (!$existing.find('.sr-only').length) {
+						$existing.append($('<span />').addClass('sr-only').text('Scroll to Top'));
+					}
+					$el = $existing;
+				} else {
+					// Base HTML Markup (create new element)
+					$el = $('<a />')
+						.addClass(self.options.buttonClass)
+						.attr({
+							'href': '#',
+							'aria-label': 'Scroll to Top',
+							'title': 'Scroll to Top'
+						})
+						.append(
+							$('<i />').addClass(self.options.iconClass)
+						)
+						.append(
+							$('<span />').addClass('sr-only').text('Scroll to Top')
+						);
 
-				// Visible Mobile
-				if (!self.options.visibleMobile) {
-					$el.addClass('hidden-mobile');
+					// Visible Mobile
+					if (!self.options.visibleMobile) {
+						$el.addClass('hidden-mobile');
+					}
+
+					// Label
+					if (self.options.label) {
+						$el.append(
+							$('<span />').html(self.options.label)
+						);
+					}
+
+					self.options.wrapper.append($el);
 				}
-
-				// Label
-				if (self.options.label) {
-					$el.append(
-						$('<span />').html(self.options.label)
-					);
-				}
-
-				this.options.wrapper.append($el);
 
 				this.$el = $el;
 
 				return this;
 			},
+
 
 			events: function() {
 				var self = this,

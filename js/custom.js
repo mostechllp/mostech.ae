@@ -13,7 +13,24 @@
             document.body.appendChild(callBtn);
         }
 
-        // 2. Reposition GetButton WhatsApp widget above the Call button
+        // 2. Enforce Accessibility for Scroll-to-Top buttons
+        var scrollToTopButtons = document.querySelectorAll("a.scroll-to-top, .scroll-to-top");
+        scrollToTopButtons.forEach(function (btn) {
+            if (!btn.getAttribute("aria-label")) {
+                btn.setAttribute("aria-label", "Scroll to Top");
+            }
+            if (!btn.getAttribute("title")) {
+                btn.setAttribute("title", "Scroll to Top");
+            }
+            if (!btn.querySelector(".sr-only")) {
+                var srSpan = document.createElement("span");
+                srSpan.className = "sr-only";
+                srSpan.textContent = "Scroll to Top";
+                btn.appendChild(srSpan);
+            }
+        });
+
+        // 3. Reposition GetButton WhatsApp widget above the Call button
         var getBtnElements = document.querySelectorAll(
             '#wh-widget-send-button, .wh-widget-send-button-wrapper, [id*="wh-widget"], [class*="wh-widget"]'
         );
