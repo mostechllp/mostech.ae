@@ -1970,7 +1970,7 @@ html[dir="rtl"] #header .header-search .btn-default {
 
 /* Page Header Custom - Create your Own */
 .page-header.custom-product {
-	background-image: url(../img/custom-header-bg.jpg);
+	background-image: url(../img/custom-header-bg.webp);
 	background-repeat: repeat;
 	background-color: #999;
 	border-top: 5px solid #888;
@@ -2119,7 +2119,7 @@ section.section.section-overlay {
 section.section.section-overlay:before {
 	content: "";
 	display: block;
-	background: url("../img/video-overlay.png") repeat scroll 0 0 transparent;
+	background: url("../img/video-overlay.webp") repeat scroll 0 0 transparent;
 	bottom: 0;
 	height: 100%;
 	left: 0;
@@ -2555,7 +2555,7 @@ section.section-custom-map section.section {
 }
 
 section.section-custom-map-2 {
-	background: transparent url(../img/map-2.png) center 0 no-repeat;
+	background: transparent url(../img/map-2.webp) center 0 no-repeat;
 	padding: 129px 0 0;
 	margin: 50px 0 0;
 	border: 0;
@@ -2972,7 +2972,7 @@ section.section-custom-map-2 section.section {
 }
 
 .home-concept .sun {
-	background: transparent url(../img/home-concept-icons.png) no-repeat 0 0;
+	background: transparent url(../img/home-concept-icons.webp) no-repeat 0 0;
 	width: 60px;
 	height: 56px;
 	display: block;
@@ -2982,7 +2982,7 @@ section.section-custom-map-2 section.section {
 }
 
 .home-concept .cloud {
-	background: transparent url(../img/home-concept-icons.png) no-repeat 100% 0;
+	background: transparent url(../img/home-concept-icons.webp) no-repeat 100% 0;
 	width: 116px;
 	height: 56px;
 	display: block;
@@ -2998,7 +2998,7 @@ html.gecko .home-concept svg.home-concept-bg .final-pin.animated-pin {
 
 /* Home Concept - Internet Explorer Adjusts */
 html.ie .home-concept {
-	background: transparent url(../img/home-concept.png) no-repeat center 0;
+	background: transparent url(../img/home-concept.webp) no-repeat center 0;
 }
 
 html.ie .home-concept svg {
@@ -3006,11 +3006,11 @@ html.ie .home-concept svg {
 }
 
 html.ie .home-concept .process-image {
-	background: transparent url(../img/home-concept-item.png) no-repeat 0 0;
+	background: transparent url(../img/home-concept-item.webp) no-repeat 0 0;
 }
 
 html.ie .home-concept .project-image {
-	background: transparent url(../img/home-concept-item.png) no-repeat 100% 0;
+	background: transparent url(../img/home-concept-item.webp) no-repeat 100% 0;
 }
 
 /* Responsive */
@@ -4471,7 +4471,7 @@ html.dark .theme-default .nivoSlider {
 }
 
 html.dark section.section-custom-map {
-	background: transparent url(../img/map-dark.png) center 0 no-repeat;
+	background: transparent url(../img/map-dark.webp) center 0 no-repeat;
 }
 
 html.dark section.section-custom-map section.section {
@@ -4480,23 +4480,23 @@ html.dark section.section-custom-map section.section {
 }
 
 html.dark .home-concept {
-	background-image: url(../img/home-concept-dark.png);
+	background-image: url(../img/home-concept-dark.webp);
 }
 
 html.dark .home-concept .process-image {
-	background-image: url(../img/home-concept-item-dark.png);
+	background-image: url(../img/home-concept-item-dark.webp);
 }
 
 html.dark .home-concept .project-image {
-	background-image: url(../img/home-concept-item-dark.png);
+	background-image: url(../img/home-concept-item-dark.webp);
 }
 
 html.dark .home-concept .sun {
-	background-image: url(../img/home-concept-icons-dark.png);
+	background-image: url(../img/home-concept-icons-dark.webp);
 }
 
 html.dark .home-concept .cloud {
-	background-image: url(../img/home-concept-icons-dark.png);
+	background-image: url(../img/home-concept-icons-dark.webp);
 }
 
 html.dark .page-header {
@@ -4631,7 +4631,7 @@ html.dark .progress {
 }
 
 html.dark .arrow {
-	background-image: url(../img/arrows-dark.png);
+	background-image: url(../img/arrows-dark.webp);
 }
 
 html.dark .thumbnail,
@@ -4863,7 +4863,7 @@ html.dark .heading.heading-middle-border h1, html.dark .heading.heading-middle-b
 }
 
 html.dark ul.history li .thumb {
-	background-image: url(../img/history-thumb-dark.png);
+	background-image: url(../img/history-thumb-dark.webp);
 }
 
 html.dark .recent-posts .date .day {

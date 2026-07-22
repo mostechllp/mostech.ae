@@ -23,7 +23,7 @@ include('header.php');
 </script>
 
 <div role="main" class="main">
-    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">
+    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.webp);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -158,7 +158,7 @@ include('header.php');
                     </div>
 
                     <div class="widget">
-                        <h4 class="heading-primary">About Mostech Blog</h4>
+                        <h3 class="heading-primary">About Mostech Blog</h3>
                         <p>Mostech Business Solutions provides end-to-end technology and digital services in Dubai, UAE. Stay connected with our blog for regular technology insights, case studies, and business growth updates.</p>
                         <p><a href="contact.php" class="btn btn-primary btn-sm">Contact Our Team</a></p>
                     </div>

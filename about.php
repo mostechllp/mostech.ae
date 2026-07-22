@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Software Development & Web Design Agency Dubai - Mostech Business Solutions';
+$pageTitle = 'Software Development & Web Design Agency Dubai - Mostech';
 $pageDescription = 'Transform your digital landscape with Mostech Business Solutions, Dubai\'s top software development, web design, mobile app, and digital marketing agency.';
 $pageCanonical = 'https://mostech.ae/about';
 include('header.php');
@@ -23,7 +23,7 @@ include('header.php');
 </script>
 
 <div role="main" class="main">
-    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">
+    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.webp);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -50,7 +50,7 @@ include('header.php');
                 <p align="justify">Our team of senior software engineers, solution architects, UI/UX designers, and digital growth specialists bring deep industry expertise in fintech, retail, healthcare, logistics, real estate, and corporate services in Dubai. We work closely with our clients from initial discovery and technical scoping to post-launch maintenance and continuous feature iteration.</p>
             </div>
             <div class="col-md-5">
-                <img class="img-responsive thumbnail mt-lg" src="img/about1.png" alt="Mostech Business Solutions Dubai Office">
+                <img class="img-responsive thumbnail mt-lg" src="img/about1.webp" alt="Mostech Business Solutions Dubai Office">
             </div>
         </div>
     </div>

@@ -939,7 +939,7 @@ if(isset($_POST['emailSent'])) {
 
 			</div>
 
-			<footer id="footer">
+			<footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
 				<div class="container">
 					<div class="row">
 						<div class="footer-ribbon">
@@ -974,7 +974,7 @@ if(isset($_POST['emailSent'])) {
 						</div>
 						<div class="col-md-4">
 							<div class="contact-details">
-								<h4>Contact Us</h4>
+								<h3>Contact Us</h3>
 								<ul class="contact">
 									<li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> 1234 Street Name, City Name, United States</p></li>
 									<li><p><i class="fa fa-phone"></i> <strong>Phone:</strong> (123) 456-789</p></li>

@@ -21,7 +21,7 @@ if($_POST["submitF"]) {
 <div id="contact" class="col-md-3">
 							<aside class="sidebar" id="sidebar" data-plugin-sticky data-plugin-options="{'minWidth': 991, 'containerSelector': '.container', 'padding': {'top': 110}}">
 
-								<h4>Lets  <strong><font color="#0c0c74">Talk Now !</font></strong></h4>
+								<h3>Lets  <strong><font color="#0c0c74">Talk Now !</font></strong></h3>
 									<small> 
 									<font color="black">	Please contact us for more information about our services.!</font>
 									</small>
@@ -76,11 +76,11 @@ if($_POST["submitF"]) {
 										
 										
 										
-		<footer class="short" id="footer">
+		<footer class="short" id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-9">
-							<h4>About Spoton</h4>
+							<h3>About Spoton</h3>
 							<p>We offer a wide range of corporate, secretarial, legal and managerial consultancy services to our clients from a spectrum of industries. Our clientele includes Banks, Private companies to Listed and Multinational companies. The firm has a committed team of Company Secretaries, experienced and qualified staff. We understand that protection, perfection and performance  [.......]<a href="about.php" class="btn-flat btn-xs">View More <i class="fa fa-arrow-right"></i></a></p>							<hr class="light">
 							<div class="row">
 										<div class="col-md-3">
@@ -152,9 +152,9 @@ $thankYo="<p>Thank you Thank you for Subscribing.</p>";
 								
 								<div class="col-md-2">
 								<ul class="list list-icons list-icons-sm">
-								<li><i class="fa fa-caret-right"></i> <a href="careers.php">Careers</a></li>
-								<li><i class="fa fa-caret-right"></i> <a href="faq.php">FAQ</a></li>
-								<li><i class="fa fa-caret-right"></i> <a href="contact.php">Contact</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="careers">Careers</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="faq">FAQ</a></li>
+								<li><i class="fa fa-caret-right"></i> <a href="contact">Contact</a></li>
 								</ul>
 								</div>
 								</div>
@@ -164,13 +164,13 @@ $thankYo="<p>Thank you Thank you for Subscribing.</p>";
 							<ul class="list list-icons mt-xl">
 								<h5 class="mb-sm">Contact Us</h5>
 								<li><i class="fa fa-phone"></i> <strong>Mobile: </strong><a href="tel:919961411863">(+91) 9961411863</a></li>
-								<li><i class="fa fa-whatsapp"></i> <strong>Whatsapp: </strong> <a href="https://wa.me/919961411863?text=Hi%2C+I+contacted+you+Through+your+website" >(+91) 9961411863</a></li>
+								<li><i class="fa fa-whatsapp"></i> <strong>Whatsapp: </strong> <a href="https://wa.me/919961411863?text=Hi%2C+I+contacted+you+Through+your+website" target="_blank" rel="nofollow noopener noreferrer">(+91) 9961411863</a></li>
 								<li><i class="fa fa-envelope"></i> <strong>Email: </strong> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#115;&#112;&#111;&#116;&#111;&#110;&#122;&#46;&#99;&#111;&#109;">&#105;&#110;&#102;&#111;&#64;&#115;&#112;&#111;&#116;&#111;&#110;&#122;&#46;&#99;&#111;&#109;</a></li>
 								</ul>
 							<ul class="social-icons mt-xl">
-								<li class="social-icons-facebook"><a href="https://www.facebook.com/spotonz/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li class="social-icons-instagram"><a href="https://instagram.com/spoton_llp" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-								<li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/spoton-business-solutions-llp" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+								<li class="social-icons-facebook"><a href="https://www.facebook.com/spotonz/" target="_blank" title="Facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
+								<li class="social-icons-instagram"><a href="https://instagram.com/spoton_llp" target="_blank" title="Instagram" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+								<li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/spoton-business-solutions-llp" target="_blank" title="Linkedin" aria-label="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -193,7 +193,7 @@ $thankYo="<p>Thank you Thank you for Subscribing.</p>";
 				<div align="center" class="footer-copyright">
 					<div class="container">
 									<div class="row">
-					<p>Copyright &copy; 2019 - <script>document.write(new Date().getFullYear());</script> | Developed by <a href="http://malabaronlinesolutions.com" target="_blank"> MALABAR ONLINE SOLUTIONS</a></p>
+					<p style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important;">Copyright &copy; 2019 - <script>document.write(new Date().getFullYear());</script> | Developed by <a href="http://malabaronlinesolutions.com" target="_blank" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;"> MALABAR ONLINE SOLUTIONS</a></p>
 					</div>
 					</div>
 				</div>

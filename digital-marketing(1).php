@@ -14,6 +14,24 @@
           gtag('config', 'G-63H5FYJL8W');
         </script>
 
+        <!-- Meta Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1737161654294577');
+        fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1737161654294577&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Meta Pixel Code -->
+
 
         <meta charset="utf-8">
 
@@ -37,7 +55,7 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <link rel="canonical” href=”https://www.mostech.ae">
+        <link rel="canonical" href="https://www.mostech.ae">
 
         <meta property="og:title" content="Software Company in Dubai | Digital Marketing Company in Dubai" />
 
@@ -144,24 +162,6 @@
         <!-- Head Libs -->
 
         <script src="vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script language="Javascript" src="classs/state/jquery.js"></script>
-
-        <script type="text/JavaScript" src='classs/state/state.js'></script>
-
-        <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-
-
-
-
-
-        <link rel="stylesheet" href="style.css">
-
-        <link rel="stylesheet" href="style1.css">
-
-        <link rel="stylesheet" href="style2.css">
 
 
 
@@ -668,7 +668,7 @@ Whether you’re looking to improve visibility, generate leads, or scale revenue
 </div>
 
 
-       <footer id="footer">
+       <footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
 
 
             <div class="container">
@@ -741,7 +741,7 @@ Whether you’re looking to improve visibility, generate leads, or scale revenue
 
                     <div class="col-md-3">
 
-                        <h4>Contact Us</h4>
+                        <h3>Contact Us</h3>
 
                         <div class="footer-contact-list">
                             <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
@@ -770,7 +770,7 @@ Whether you’re looking to improve visibility, generate leads, or scale revenue
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank">Mostech Business Solutions</a></p>
+                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>

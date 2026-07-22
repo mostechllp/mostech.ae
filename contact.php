@@ -27,7 +27,7 @@ include('header.php');
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Mostech Business Solutions",
-  "image": "https://www.mostech.ae/img/logo.png",
+  "image": "https://www.mostech.ae/img/logo.webp",
   "url": "https://mostech.ae",
   "telephone": "+971 58 173 0112",
   "address": {
@@ -41,7 +41,7 @@ include('header.php');
 
 <div role="main" class="main">
 
-    <section class="page-header page-header-custom-background mb-0" style="background-image: url(img/custom-header-bg.jpg);">
+    <section class="page-header page-header-custom-background mb-0" style="background-image: url(img/custom-header-bg.webp);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -76,7 +76,8 @@ include('header.php');
                 <?php endif; ?>
 
                 <h2 class="mb-sm mt-sm"><strong>Send Us A</strong> Message</h2>
-                <p>Have a project in mind, need a customized software demo, or want to discuss your digital marketing goals in Dubai? Fill out the form below and our technical advisors will get back to you within 24 business hours.</p>
+                <p class="lead">Have a project in mind, need a customized software demonstration, or want to discuss your digital marketing and web application goals in Dubai? Fill out the inquiry form below and our senior technical consultants will analyze your requirements and reach out within 24 business hours with a comprehensive proposal.</p>
+                <p>Whether you require full-stack enterprise software development, mobile application engineering, custom ERP implementation, or high-ROI search engine optimization (SEO) in Dubai, Abu Dhabi, or the wider GCC region, Mostech Business Solutions is dedicated to delivering measurable business value and technology excellence.</p>
 
                 <form id="contactForm" action="send-mail.php" method="POST">
                     <div class="row">
@@ -121,14 +122,14 @@ include('header.php');
                 
                 <div class="row mt-xlg">
                     <div class="col-md-6">
-                        <h4 class="heading-primary"><strong>Dubai Head Office</strong></h4>
+                        <h3 class="heading-primary"><strong>Dubai Head Office</strong></h3>
                         <p><i class="fa fa-map-marker" style="color:#020c4c;"></i> <strong>Bay Square Business Tower</strong><br>Business Bay, Dubai, United Arab Emirates</p>
                         <p><i class="fa fa-phone" style="color:#020c4c;"></i> <a href="tel:+971581730112">+971 58 173 0112</a></p>
                         <p><i class="fa fa-envelope" style="color:#020c4c;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></p>
                     </div>
 
                     <div class="col-md-6">
-                        <h4 class="heading-primary"><strong>Regional Office</strong></h4>
+                        <h3 class="heading-primary"><strong>Regional Office</strong></h3>
                         <p><i class="fa fa-map-marker" style="color:#020c4c;"></i> <strong>KVR Tower, Caltex</strong><br>Kannur, Kerala, India</p>
                         <p><i class="fa fa-phone" style="color:#020c4c;"></i> <a href="tel:+918547557283">+91 85475 57283</a></p>
                         <p><i class="fa fa-globe" style="color:#020c4c;"></i> Regional Support across GCC</p>
@@ -137,14 +138,14 @@ include('header.php');
 
                 <hr class="tall">
 
-                <h4 class="heading-primary">Business <strong>Hours</strong></h4>
+                <h3 class="heading-primary">Business <strong>Hours</strong></h3>
                 <ul class="list list-icons list-dark">
                     <li><i class="fa fa-clock-o"></i> <strong>Monday - Friday:</strong> 9:00 AM – 6:00 PM (GST)</li>
                     <li><i class="fa fa-clock-o"></i> <strong>Saturday:</strong> 9:00 AM – 2:00 PM (GST)</li>
                     <li><i class="fa fa-clock-o"></i> <strong>Sunday:</strong> Closed</li>
                 </ul>
 
-                <h4 class="heading-primary mt-lg">Why Choose <strong>Mostech?</strong></h4>
+                <h3 class="heading-primary mt-lg">Why Choose <strong>Mostech?</strong></h3>
                 <ul class="list list-icons list-primary">
                     <li><i class="fa fa-check"></i> Direct access to experienced software engineers & digital strategists.</li>
                     <li><i class="fa fa-check"></i> Free initial project scope consultation & transparent quotations.</li>

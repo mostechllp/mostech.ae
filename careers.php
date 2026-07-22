@@ -23,7 +23,7 @@ include('header.php');
 </script>
 
 <div role="main" class="main">
-    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">
+    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.webp);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

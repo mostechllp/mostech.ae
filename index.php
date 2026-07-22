@@ -22,6 +22,24 @@
           gtag('config', 'G-63H5FYJL8W');
         </script>
 
+        <!-- Meta Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1737161654294577');
+        fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1737161654294577&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Meta Pixel Code -->
+
 
         <meta charset="utf-8">
 
@@ -53,7 +71,7 @@
 
         <meta property="og:url" content="https://www.mostech.ae/" />
 
-        <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
+        <meta property="og:image" content="https://www.mostech.ae/img/fav.webp" />
 
         <meta property="og:description" content="Mostech is a leading Dubai software company delivering web development, mobile apps, and digital marketing across the UAE & GCC. Trusted by 500+ clients." />
 
@@ -67,7 +85,7 @@
 
         <meta name="twitter:description" content="Mostech is a leading Dubai software company delivering web development, mobile apps, and digital marketing across the UAE & GCC. Trusted by 500+ clients." />
 
-        <meta name="twitter:image" content="https://www.mostech.ae/img/logo.png" />
+        <meta name="twitter:image" content="https://www.mostech.ae/img/logo.webp" />
 
         <meta name="twitter:image:alt" content="Mostech Business Solutions" />
 
@@ -77,7 +95,7 @@
 
         <link rel="shortcut icon" href="img/fav.png" type="image/x-icon" />
 
-        <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+        <link rel="apple-touch-icon" href="img/apple-touch-icon.webp">
 
 
 
@@ -215,7 +233,7 @@
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "Mostech Business Solutions",
-          "image": "https://www.mostech.ae/img/logo.png",
+          "image": "https://www.mostech.ae/img/logo.webp",
           "@id": "",
           "url": "https://mostech.ae",
           "telephone": "+971 56 585 1032",
@@ -308,7 +326,7 @@
 
                                     <a href="index.php">
 
-                                        <img height="48" data-sticky-width="220" data-sticky-height="auto" data-sticky-top="0" src="img/logo.png" alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
+                                        <img height="48" data-sticky-width="220" data-sticky-height="auto" data-sticky-top="0" src="img/logo.webp" alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
 
                                     </a>
 
@@ -451,7 +469,7 @@
 
                         <div class="item active">
 
-                            <img src="img/banner1.jpg" alt="Software Company in Dubai" style="width:100%;">
+                            <img src="img/banner1.webp" alt="Software Company in Dubai" style="width:100%;">
 
                             <div class="carousel-caption">
 
@@ -463,7 +481,7 @@
 
                         <div class="item">
 
-                            <img src="img/banner3.jpg" alt="Digital Marketing Agency in Dubai" style="width:100%;">
+                            <img src="img/banner3.webp" alt="Digital Marketing Agency in Dubai" style="width:100%;">
 
                             <div class="carousel-caption">
 
@@ -475,7 +493,7 @@
 
                         <div class="item">
 
-                            <img src="img/banner2.jpg" alt="SEO Service in Dubai" style="width:100%;">
+                            <img src="img/banner2.webp" alt="SEO Service in Dubai" style="width:100%;">
 
                             <div class="carousel-caption">
 
@@ -487,7 +505,7 @@
 
                         <div class="item">
 
-                            <img src="img/banner4.jpg" alt="Software development in Dubai" style="width:100%;">
+                            <img src="img/banner4.webp" alt="Software development in Dubai" style="width:100%;">
 
                             <div class="carousel-caption">
 
@@ -501,7 +519,7 @@
 
                         <div class="item">
 
-                            <img src="img/banner5.jpg" alt="Web Development and Designing in Dubai" style="width:100%;">
+                            <img src="img/banner5.webp" alt="Web Development and Designing in Dubai" style="width:100%;">
 
                             <div class="carousel-caption">
 
@@ -583,7 +601,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                             <div>
 
-                                <img class="img-responsive" src="img/about-us.png" alt="Mostech Business Solutions">
+                                <img class="img-responsive" src="img/about-us.webp" alt="Mostech Business Solutions">
 
                             </div>
 
@@ -744,7 +762,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                         <div class="col-sm-4 flex justify-content-center align-center">
 
-                            <img class="img-responsive" src="img/service-icon1.png" alt="Software solution in Dubai">
+                            <img class="img-responsive" src="img/service-icon1.webp" alt="Software solution in Dubai">
 
                         </div>
 
@@ -968,7 +986,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                 <!--<a href="digital-marketing.php" class="btn btn-dark font-weight-semibold btn-px-4 btn-py-2 text-2" style="background:#020c4c !important">LEARN MORE</a>-->
                             </div>
                             <div class="col-md-5">
-                                <img src="img/index5.png" alt="Best SEO Service in Dubai" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" />
+                                <img src="img/index5.webp" alt="Best SEO Service in Dubai" class="img-fluid position-relative appear-animation mb-2" data-appear-animation="expandIn" data-appear-animation-delay="600" />
                             </div>
                         </div>
                     </div>
@@ -1007,7 +1025,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                }
                              }">
                             <?php for ($i = 1; $i < 33; $i++) { ?>
-                                <div><img class="img-responsive" src="img/Logos/<?php echo $i; ?>.png" alt="MOS"></div>
+                                <div><img class="img-responsive" src="img/Logos/<?php echo $i; ?>.webp" alt="MOS"></div>
                             <?php } ?>
 
 
@@ -1286,7 +1304,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
 
 
-        <footer id="footer">
+        <footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
 
 
 
@@ -1304,7 +1322,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                     <div class="col-md-9">
 
-                        <h4>About Mostech</h4>
+                        <h3>About Mostech</h3>
 
                         <p style="text-align:justify;">
                             <span style="color:white;">Mostech Business Solutions is a Dubai-based software company trusted across the UAE and GCC. We offer Software Development, Web and Mobile Application Development, and Digital Marketing services. We create intelligent, powerful applications that streamline business operations efficiently. Committed to continuous improvement, we achieve success through quality and performance. We prioritize understanding customer needs and building long-term relationships that define our growth.</span>
@@ -1317,9 +1335,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                             <div class="col-md-4">
 
                                 <ul class="list list-icons list-icons-sm">
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/web-design-development.php" style="font-size:10px;">WEB DEVELOPMENT</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/mobile-app-development.php" style="font-size:10px;">APP DEVELOPMENT</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/web-design-development" style="font-size:10px;">WEB DEVELOPMENT</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/mobile-app-development" style="font-size:10px;">APP DEVELOPMENT</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/digital-marketing" style="font-size:10px;">DIGITAL MARKETING</a></li>
 
 
 
@@ -1335,9 +1353,9 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai.php" style="font-size:10px;">SEO & SMO</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development.php" style="font-size:10px;">ECOMMERCE</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/erp-solutions.php" style="font-size:10px;">ERP SOLUTIONS</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
 
 
                                 </ul>
@@ -1349,8 +1367,8 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="blog.php" style="font-size:10px;"> BLOGS </a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="careers.php" style="font-size:10px;">CAREERS</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="blog" style="font-size:10px;"> BLOGS </a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="careers" style="font-size:10px;">CAREERS</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="img/MostechCompanyProfile.pdf" style="font-size:10px;"> PROFILE </a></li>
 
 
@@ -1368,7 +1386,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                     <div class="col-md-3">
 
-                        <h4>Contact Us</h4>
+                        <h3>Contact Us</h3>
 
                         <div class="footer-contact-list">
                             <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
@@ -1397,7 +1415,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" rel="noopener noreferrer">Mostech Business Solutions</a></p>
+                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" rel="noopener noreferrer" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>

@@ -17,6 +17,24 @@
 	  gtag('config', 'G-63H5FYJL8W');
 	</script>
 
+	<!-- Meta Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1737161654294577');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=1737161654294577&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Meta Pixel Code -->
+
 
 	<meta charset="utf-8">
 
@@ -46,7 +64,7 @@
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <link rel="canonical” href=”https://www.mostech.ae">
+    <link rel="canonical" href="https://www.mostech.ae">
 
 
 
@@ -56,32 +74,32 @@
 
     <meta property="og:url"	 content="http://www.mostech.ae" />
 
-    <meta property="og:image" content="http://www.mostech.ae/img/moslogo.png" />
+    <meta property="og:image" content="http://www.mostech.ae/img/moslogo.webp" />
 
 	<meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai"/>
 
-	<meta property="og:image" content="https://www.mostech.ae/img/moslogo.png" />
+	<meta property="og:image" content="https://www.mostech.ae/img/moslogo.webp" />
 	
 
 	<meta name="twitter:card" content="summary" />
 
-	<meta name="twitter:site" content="@online_malabar" />
+	<meta name="twitter:site" content="@mostechllc" />
 
-	<meta name="twitter:creator" content="@online_malabar" />
+	<meta name="twitter:creator" content="@mostechllc" />
 
 	<meta name="twitter:title" content="Software  Company in Dubai | Digital Marketing Company in Dubai" />
 
-	<meta name="twitter:description" content="MOSTECH Business Solutions is the best Software Company in Dubai producing world-class quality Softwares, Websites, Web Applications, Mobile Applications and Digital Marketing Services. " />
+	<meta name="twitter:description" content="Mostech Business Solutions is the best Software Company in Dubai producing world-class quality Softwares, Websites, Web Applications, Mobile Applications and Digital Marketing Services. " />
 
-	<meta name="twitter:image" content="https://www.mostech.ae/img/moslogo.png" />
+	<meta name="twitter:image" content="https://www.mostech.ae/img/moslogo.webp" />
 
 	
 
 		<!-- Favicon -->
 
-		<link rel="shortcut icon" href="img/fav.png" type="image/x-icon" />
+		<link rel="shortcut icon" href="img/fav.webp" type="image/x-icon" />
 
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+		<link rel="apple-touch-icon" href="img/apple-touch-icon.webp">
 
 
 
@@ -160,13 +178,7 @@
 
 	
 
-	
-
-    <link rel="stylesheet" href="style.css">
-
-	<link rel="stylesheet" href="style1.css">
-
-	<link rel="stylesheet" href="style2.css">
+    <!-- Head Libs -->
 
 	
 
@@ -219,7 +231,7 @@
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "Mostech Business Solutions",
-          "image": "https://www.mostech.ae/img/logo.png",
+          "image": "https://www.mostech.ae/img/logo.webp",
           "@id": "",
           "url": "https://mostech.ae",
           "telephone": "+971 56 585 1032",
@@ -267,7 +279,7 @@
 
 									<a href="index.php">
 
-										<img width="auto" height="54" data-sticky-width="250" data-sticky-height="auto" data-sticky-top="33" src="img/logo.png" alt="MOSTECH Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
+										<img width="auto" height="54" data-sticky-width="250" data-sticky-height="auto" data-sticky-top="33" src="img/logo.webp" alt="MOSTECH Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
 
 									</a>
 
@@ -392,7 +404,7 @@
 
 			<div role="main" class="main">
 
-	<section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">
+	<section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.webp);">
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
@@ -424,7 +436,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 							</p>
 						</div>
 						<div class="col-sm-4 col-sm-offset-1 mt-xlg">
-							<img class="img-responsive mt-xlg" src="img/mob1.jpg" alt="Mobile App Development in Dubai">
+							<img class="img-responsive mt-xlg" src="img/mob1.webp" alt="Mobile App Development in Dubai">
 						</div>
 					</div>			</div>
 					
@@ -450,7 +462,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 					
 					
 									
-	 <img src="img/hybridd.png" style="width:100%;">
+	 <img src="img/hybridd.webp" style="width:100%;">
 					
 					<hr class="tall">
       			
@@ -468,7 +480,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 							<div class="col-md-4 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-2">
 									<div class="box-content">
-										<h4>Responsive & Mobile-First Design</h4>
+										<h3>Responsive & Mobile-First Design</h3>
 										<p align="justify">In a mobile-driven market like the UAE, responsiveness is essential. We build websites that look stunning and function flawlessly across all devices — from desktops and tablets to smartphones.</p>
 									</div>
 								</div>
@@ -476,7 +488,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 							<div class="col-md-4 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-2">
 									<div class="box-content">
-										<h4>Custom UI/UX Design</h4>
+										<h3>Custom UI/UX Design</h3>
 										<p align="justify">Great design isn’t just about visuals — it’s about how users feel and interact with your website. Our experienced designers create intuitive interfaces and engaging user experiences that enhance satisfaction and encourage conversions.</p>
 									</div>
 								</div>
@@ -484,7 +496,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 							<div class="col-md-4 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-2">
 									<div class="box-content">
-									<h4>Brand-Centric Visual Design</h4>
+									<h3>Brand-Centric Visual Design</h3>
 										<p align="justify">Your website should reflect your brand identity consistently. We design original layouts, colour palettes, typography, and graphics that align with your brand personality and leave a lasting impression on your audience.</p>
 									</div>
 								</div>
@@ -497,7 +509,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 						    	<div class="col-md-4 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-2">
 									<div class="box-content">
-										<h4>Fast, Secure, and SEO-Ready</h4>
+										<h3>Fast, Secure, and SEO-Ready</h3>
 										<p align="justify">We optimise every website for fast loading speeds, strong security, and search engine visibility. From clean code and technical SEO foundations to secure hosting support, we ensure your site performs at its best. </p>
 									</div>
 								</div>
@@ -505,7 +517,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 							<div class="col-md-4 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-2">
 									<div class="box-content">
-										<h4>E-Commerce & Online Store Design</h4>
+										<h3>E-Commerce & Online Store Design</h3>
 										<p align="justify">Looking to sell online? Our e-commerce solutions are built with user experience, secure checkout, and conversion optimisation in mind — helping you attract buyers and grow revenue across the UAE and beyond.</p>
 									</div>
 								</div>
@@ -513,7 +525,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 							<div class="col-md-4 col-sm-6">
 								<div class="featured-box featured-box-primary featured-box-effect-2">
 									<div class="box-content">
-										<h4>Website Maintenance & Support</h4>
+										<h3>Website Maintenance & Support</h3>
 										<p align="justify">A great website evolves with your business. MOS Tech provides ongoing updates, performance monitoring, and technical support to keep your site secure, up-to-date, and aligned with your growth goals.</p>
 									</div>
 								</div>
@@ -531,7 +543,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 
 
 
-	<footer id="footer">
+	<footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
 
 		
 
@@ -549,7 +561,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 
 						<div class="col-md-9">
 
-							<h4>About MOS</h4>
+							<h3>About MOS</h3>
 
 						<p align="justify">MOSTECH Business Solutions is a software company in Dubai, UAE. Our service includes Software Development, Web and Mobile Application Development and Digital Marketing. We develop intelligent and powerful Applications that can completely maneuvers our client’s job competently. We are committed to continuous advancement in our services thus accomplishing our success through the quality and performance. We believe that our job is to concentrate , research and understand the customer needs. In fact, it's the long-term relationships with our customers that has served as a solid milestone for our company.</p>
 
@@ -649,7 +661,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 
 						<div class="col-md-3">
 
-							<h4>Contact Us</h4>
+							<h3>Contact Us</h3>
 
 							<div class="footer-contact-list">
 								<p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
@@ -690,7 +702,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 
 				<div class="row">
 					<div class="col-md-12 mb-0">
-						<p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank">Mostech Business Solutions</a></p>
+						<p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
 					</div>
 				</div>
 

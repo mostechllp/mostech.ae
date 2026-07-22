@@ -13,6 +13,24 @@
       gtag('config', 'G-63H5FYJL8W');
     </script>
 
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1737161654294577');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1737161654294577&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Website Design in Dubai | Professional Web Development Company UAE | Mostech</title>
@@ -27,14 +45,14 @@
     <link rel="canonical" href="https://www.mostech.ae/services/web-design-development">
     <meta property="og:title" content="Website Design & Development in Dubai | Mostech" />
     <meta property="og:url" content="https://www.mostech.ae/services/web-design-development" />
-    <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
+    <meta property="og:image" content="https://www.mostech.ae/img/fav.webp" />
     <meta property="og:description"
         content="Professional website design and development in Dubai. Responsive, fast, SEO-ready websites built for UAE businesses." />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@mostechllc" />
 
-    <link rel="shortcut icon" href="img/fav.png" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="shortcut icon" href="img/fav.webp" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.webp">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light"
@@ -67,12 +85,6 @@
 
     <!-- Head Libs -->
     <script src="vendor/modernizr/modernizr.min.js"></script>
-    <script language="Javascript" src="classs/state/jquery.js"></script>
-    <script type="text/JavaScript" src='classs/state/state.js'></script>
-    <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="style1.css">
-    <link rel="stylesheet" href="style2.css">
 
     <style>
     /* ── PAGE-SPECIFIC EXTRAS ONLY ── */
@@ -411,7 +423,7 @@
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": "Mostech Business Solutions",
-      "image": "https://www.mostech.ae/img/logo.png",
+      "image": "https://www.mostech.ae/img/logo.webp",
       "@id": "",
       "url": "https://mostech.ae",
       "telephone": "+971 56 585 1032",
@@ -455,7 +467,7 @@
                             <div class="header-logo">
                                 <a href="index.php">
                                     <img width="auto" height="48" data-sticky-width="220" data-sticky-height="auto"
-                                        data-sticky-top="0" src="img/logo.png"
+                                        data-sticky-top="0" src="img/logo.webp"
                                         alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
                                 </a>
                             </div>
@@ -526,7 +538,7 @@
 
             <!-- ══ PAGE HEADER — same pattern as all Mostech pages ══ -->
             <section class="page-header page-header-custom-background"
-                style="background-image: url(img/custom-header-bg.jpg);">
+                style="background-image: url(img/custom-header-bg.webp);">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -568,7 +580,7 @@
                         </a>
                     </div>
                     <div class="col-sm-4 col-sm-offset-1 mt-xlg">
-                        <img class="img-responsive mt-xlg intro-img" src="img/mob1.jpg" alt="Website Design Dubai">
+                        <img class="img-responsive mt-xlg intro-img" src="img/mob1.webp" alt="Website Design Dubai">
                     </div>
                 </div>
             </div>
@@ -649,7 +661,7 @@
             </div>
 
             <!-- ══ BANNER IMAGE ══ -->
-            <img src="img/hybridd.png" style="width:100%;" alt="Mostech Web Design Services Dubai">
+            <img src="img/hybridd.webp" style="width:100%;" alt="Mostech Web Design Services Dubai">
             <hr class="solid" style="margin-top: 50px">
 
             <!-- ══ SECTION 3 — Our Web Design Services (featured-box cards) ══ -->
@@ -671,7 +683,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-screen-desktop icons"></i>
-                                    <h4>Responsive & Mobile-First Design</h4>
+                                    <h3>Responsive & Mobile-First Design</h3>
                                     <p align="justify">In a mobile-driven market like the UAE, responsiveness is
                                         essential. We build websites that look stunning and function flawlessly across
                                         all devices — desktops, tablets, and smartphones — ensuring no user ever gets a
@@ -683,7 +695,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-pencil icons"></i>
-                                    <h4>Custom UI/UX Design</h4>
+                                    <h3>Custom UI/UX Design</h3>
                                     <p align="justify">Great design goes beyond visuals — it shapes how users feel and
                                         interact with your brand. Our designers create intuitive interfaces and engaging
                                         user journeys that reduce friction, increase satisfaction, and drive more
@@ -695,7 +707,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-layers icons"></i>
-                                    <h4>Brand-Centric Visual Design</h4>
+                                    <h3>Brand-Centric Visual Design</h3>
                                     <p align="justify">Your website should reflect your brand consistently and
                                         powerfully. We create original layouts, color palettes, typography, and graphic
                                         elements that align with your brand personality and leave a lasting impression
@@ -712,7 +724,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-speedometer icons"></i>
-                                    <h4>Fast, Secure & SEO-Ready</h4>
+                                    <h3>Fast, Secure & SEO-Ready</h3>
                                     <p align="justify">We optimize every website for fast loading speeds, strong
                                         security protocols, and search engine visibility. From clean, structured code
                                         and technical SEO foundations to SSL and secure hosting integration — your site
@@ -724,7 +736,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-basket icons"></i>
-                                    <h4>E-Commerce & Online Store Design</h4>
+                                    <h3>E-Commerce & Online Store Design</h3>
                                     <p align="justify">Looking to sell online? Our e-commerce solutions are built with
                                         user experience, secure payment gateways, and conversion optimization in mind —
                                         helping you attract buyers and grow revenue across the UAE and beyond.</p>
@@ -735,7 +747,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-settings icons"></i>
-                                    <h4>Website Maintenance & Support</h4>
+                                    <h3>Website Maintenance & Support</h3>
                                     <p align="justify">A great website evolves with your business. Mostech provides
                                         ongoing updates, performance monitoring, security patches, and technical support
                                         to keep your site secure, up-to-date, and aligned with your business goals.</p>
@@ -840,7 +852,7 @@
                         </table>
                     </div>
                     <div class="col-md-5 mt-xlg">
-                        <h4 style="color:#020c4c; font-weight:700; margin-bottom:16px;">Technologies We Work With</h4>
+                        <h3 style="color:#020c4c; font-weight:700; margin-bottom:16px;">Technologies We Work With</h3>
                         <p align="justify">Our team is proficient across the full modern web stack — choosing the right
                             tools for each project's specific needs.</p>
                         <div class="tech-badges">
@@ -897,7 +909,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-home icons"></i>
-                                    <h4>Real Estate</h4>
+                                    <h3>Real Estate</h3>
                                     <p align="justify">Property listing portals, developer showcases, and agent websites
                                         built for high-intent UAE buyers and international investors.</p>
                                 </div>
@@ -907,7 +919,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-plus icons"></i>
-                                    <h4>Healthcare</h4>
+                                    <h3>Healthcare</h3>
                                     <p align="justify">Medical clinic and hospital websites with appointment booking,
                                         doctor profiles, and patient-friendly navigation built to HIPAA-aware standards.
                                     </p>
@@ -918,7 +930,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-basket icons"></i>
-                                    <h4>Retail & E-Commerce</h4>
+                                    <h3>Retail & E-Commerce</h3>
                                     <p align="justify">Online stores for UAE and GCC markets — built for speed, easy
                                         product management, and a checkout experience that converts browsers into
                                         buyers.</p>
@@ -929,7 +941,7 @@
                             <div class="featured-box featured-box-primary featured-box-effect-2">
                                 <div class="box-content">
                                     <i class="icon-briefcase icons"></i>
-                                    <h4>Professional Services</h4>
+                                    <h3>Professional Services</h3>
                                     <p align="justify">Law firms, consultancies, and financial businesses —
                                         authoritative, credibility-first websites that generate qualified enquiries and
                                         establish trust.</p>
@@ -1028,7 +1040,7 @@
         </div><!-- end .main -->
 
         <!-- ══ ORIGINAL MOSTECH FOOTER ══ -->
-        <footer id="footer">
+        <footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
             <div class="container">
                 <div class="row mb-0">
                     <div class="footer-ribbon"><span>Get in Touch</span></div>
@@ -1072,7 +1084,7 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <h4>Contact Us</h4>
+                        <h3>Contact Us</h3>
                         <div class="footer-contact-list">
                             <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
                             <p class="footer-contact-item"><a href="tel:+918547557283"><span class="footer-country-label">INDIA :</span><strong>+91 8547557283</strong></a></p>
@@ -1098,8 +1110,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae"
-                                target="_blank">Mostech Business Solutions</a></p>
+                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>

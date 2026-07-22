@@ -12,9 +12,27 @@
       gtag('config', 'G-63H5FYJL8W');
     </script>
 
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1737161654294577');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1737161654294577&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SEO Services in Dubai | Mostech – Drive Sustainable Revenue & Growth</title>
+    <title>Search Engine Optimization Agency Dubai - Mostech</title>
     <meta name="description"
         content="Award-winning SEO agency in Dubai. Technical SEO, Local SEO, AI-powered strategies. Proven results: 200%+ traffic growth. Get your free 2026 SEO audit today." />
     <meta name="keywords"
@@ -26,15 +44,15 @@
     <link rel="canonical" href="https://www.mostech.ae/seo-service-in-dubai.php">
     <meta property="og:title" content="SEO Services in Dubai | Mostech" />
     <meta property="og:url" content="https://www.mostech.ae/seo-service-in-dubai.php" />
-    <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
+    <meta property="og:image" content="https://www.mostech.ae/img/fav.webp" />
     <meta property="og:description"
         content="Award-winning SEO agency in Dubai. AI-powered strategies, proven results, transparent reporting." />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@mostechllc" />
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="img/fav.png" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <link rel="shortcut icon" href="img/fav.webp" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.webp">
 
     <!-- Mobile Metas -->
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -76,12 +94,6 @@
 
     <!-- Head Libs -->
     <script src="vendor/modernizr/modernizr.min.js"></script>
-    <script language="Javascript" src="classs/state/jquery.js"></script>
-    <script type="text/JavaScript" src='classs/state/state.js'></script>
-    <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="style1.css">
-    <link rel="stylesheet" href="style2.css">
 
     <style>
     /* ═══════════════════════════════════════════
@@ -1604,7 +1616,7 @@
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       "name": "Mostech Business Solutions",
-      "image": "https://www.mostech.ae/img/logo.png",
+      "image": "https://www.mostech.ae/img/logo.webp",
       "@id": "",
       "url": "https://mostech.ae",
       "telephone": "+971 56 585 1032",
@@ -1651,7 +1663,7 @@
                             <div class="header-logo">
                                 <a href="index.php">
                                     <img width="auto" height="48" data-sticky-width="220" data-sticky-height="auto"
-                                        data-sticky-top="0" src="img/logo.png"
+                                        data-sticky-top="0" src="img/logo.webp"
                                         alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
                                 </a>
                             </div>
@@ -2306,7 +2318,7 @@
         <!-- ══════════════════════════════════
              ORIGINAL MOSTECH FOOTER
         ══════════════════════════════════ -->
-        <footer id="footer">
+        <footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
             <div class="container">
                 <div class="row mb-0">
                     <div class="footer-ribbon">
@@ -2352,7 +2364,7 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <h4>Contact Us</h4>
+                        <h3>Contact Us</h3>
                         <div class="footer-contact-list">
                             <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
                             <p class="footer-contact-item"><a href="tel:+918547557283"><span class="footer-country-label">INDIA :</span><strong>+91 8547557283</strong></a></p>
@@ -2378,8 +2390,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae"
-                                target="_blank">Mostech Business Solutions</a></p>
+                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>

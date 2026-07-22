@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Top SEO Service in Dubai | Search Engine Optimization Agency UAE - Mostech';
+$pageTitle = 'Search Engine Optimization Agency Dubai - Mostech';
 $pageDescription = 'Drive target organic traffic and higher Google rankings with Mostech\'s top SEO services in Dubai. Expert technical SEO, on-page, local SEO, and backlink strategies.';
 $pageCanonical = 'https://mostech.ae/seo-service-in-dubai';
 include('header.php');
@@ -21,9 +21,37 @@ include('header.php');
   }]
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How long does it take to see SEO results in Dubai?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Search Engine Optimization is a cumulative, long-term investment. Most businesses in Dubai begin noticing measurable ranking improvements and organic impressions within 3 to 6 months, with peak ROI accelerating as domain authority and content depth grow."
+    }
+  },{
+    "@type": "Question",
+    "name": "Why is Text-to-HTML ratio important for SEO?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Text-to-HTML ratio indicates the proportion of actual readable text content on a web page relative to its underlying HTML code, inline CSS, and scripts. Search engine crawlers prefer pages with rich, clean text content and minimal code bloat, as this enhances crawl efficiency and user experience."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is the difference between Local SEO and Organic SEO?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Local SEO focuses on capturing search intent within a specific geographical radius (e.g., \"web development in Business Bay Dubai\") and targets Google Maps 3-Pack rankings. Organic SEO targets broader regional or global search terms across standard search results listings."
+    }
+  }]
+}
+</script>
 
 <div role="main" class="main">
-    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">
+    <section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.webp);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -48,7 +76,7 @@ include('header.php');
                 <p align="justify">We combine technical site speed optimization, schema structured data, competitive keyword research, intent-driven content creation, and high-quality link acquisition to convert casual search traffic into high-converting prospective clients.</p>
             </div>
             <div class="col-md-5">
-                <img class="img-responsive thumbnail mt-lg" src="img/digital.png" alt="SEO Services in Dubai Mostech">
+                <img class="img-responsive thumbnail mt-lg" src="img/digital.webp" alt="SEO Services in Dubai Mostech">
             </div>
         </div>
     </div>
@@ -65,7 +93,7 @@ include('header.php');
                         <div class="featured-box featured-box-primary featured-box-effect-1">
                             <div class="box-content">
                                 <i class="icon-featured fa fa-cogs"></i>
-                                <h4>Technical SEO Audit</h4>
+                                <h3>Technical SEO Audit</h3>
                                 <p>Optimizing site speed, Core Web Vitals, mobile responsiveness, XML sitemaps, crawl budgets, and fixing text-to-HTML ratio and indexing errors.</p>
                             </div>
                         </div>
@@ -74,7 +102,7 @@ include('header.php');
                         <div class="featured-box featured-box-primary featured-box-effect-1">
                             <div class="box-content">
                                 <i class="icon-featured fa fa-map-marker"></i>
-                                <h4>Local SEO & Google Maps</h4>
+                                <h3>Local SEO & Google Maps</h3>
                                 <p>Dominating localized Google search results in Dubai, Business Bay, Downtown, and JLT with Google Business Profile optimization and geo-citations.</p>
                             </div>
                         </div>
@@ -83,7 +111,7 @@ include('header.php');
                         <div class="featured-box featured-box-primary featured-box-effect-1">
                             <div class="box-content">
                                 <i class="icon-featured fa fa-file-text-o"></i>
-                                <h4>On-Page Optimization</h4>
+                                <h3>On-Page Optimization</h3>
                                 <p>Targeted keyword integration, meta titles, descriptions, semantic HTML structure, internal linking, and conversion-oriented copy.</p>
                             </div>
                         </div>
@@ -92,7 +120,7 @@ include('header.php');
                         <div class="featured-box featured-box-primary featured-box-effect-1">
                             <div class="box-content">
                                 <i class="icon-featured fa fa-link"></i>
-                                <h4>Authority Backlinks & PR</h4>
+                                <h3>Authority Backlinks & PR</h3>
                                 <p>Building high-quality, relevant domain authority through strategic outreach, press releases, and editorial link placements in the Middle East.</p>
                             </div>
                         </div>
@@ -113,7 +141,7 @@ include('header.php');
                             <div class="feature-box">
                                 <div class="feature-box-icon"><i class="fa fa-search"></i></div>
                                 <div class="feature-box-info">
-                                    <h4>1. In-Depth SEO Audit</h4>
+                                    <h3>1. In-Depth SEO Audit</h3>
                                     <p>Analyzing technical bottlenecks, keyword rankings, backlink profiles, and competitor strategies.</p>
                                 </div>
                             </div>
@@ -122,7 +150,7 @@ include('header.php');
                             <div class="feature-box">
                                 <div class="feature-box-icon"><i class="fa fa-bullseye"></i></div>
                                 <div class="feature-box-info">
-                                    <h4>2. High-Intent Keyword Mapping</h4>
+                                    <h3>2. High-Intent Keyword Mapping</h3>
                                     <p>Identifying commercial, transactional, and informational search queries with strong conversion potential.</p>
                                 </div>
                             </div>
@@ -131,7 +159,7 @@ include('header.php');
                             <div class="feature-box">
                                 <div class="feature-box-icon"><i class="fa fa-wrench"></i></div>
                                 <div class="feature-box-info">
-                                    <h4>3. Technical & Code Optimization</h4>
+                                    <h3>3. Technical & Code Optimization</h3>
                                     <p>Resolving code bloat, optimizing scripts, establishing structured data, and improving page speed.</p>
                                 </div>
                             </div>
@@ -143,7 +171,7 @@ include('header.php');
                             <div class="feature-box">
                                 <div class="feature-box-icon"><i class="fa fa-pencil-square-o"></i></div>
                                 <div class="feature-box-info">
-                                    <h4>4. Content Creation & Enrichment</h4>
+                                    <h3>4. Content Creation & Enrichment</h3>
                                     <p>Publishing authoritative, original articles, landing page copy, and guides aligned with Google E-E-A-T standards.</p>
                                 </div>
                             </div>
@@ -152,7 +180,7 @@ include('header.php');
                             <div class="feature-box">
                                 <div class="feature-box-icon"><i class="fa fa-bar-chart"></i></div>
                                 <div class="feature-box-info">
-                                    <h4>5. Transparent Analytics & Reporting</h4>
+                                    <h3>5. Transparent Analytics & Reporting</h3>
                                     <p>Monthly ranking reports, organic traffic progression analysis, lead tracking, and strategy refinement.</p>
                                 </div>
                             </div>
@@ -170,11 +198,11 @@ include('header.php');
                 <div class="panel-group" id="seoFaq">
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h4 class="panel-title">
+                            <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#seoFaq" href="#faq1">
                                     How long does it take to see SEO results in Dubai?
                                 </a>
-                            </h4>
+                            </h3>
                         </div>
                         <div id="faq1" class="accordion-body collapse in">
                             <div class="panel-body">
@@ -185,11 +213,11 @@ include('header.php');
 
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h4 class="panel-title">
+                            <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#seoFaq" href="#faq2">
                                     Why is Text-to-HTML ratio important for SEO?
                                 </a>
-                            </h4>
+                            </h3>
                         </div>
                         <div id="faq2" class="accordion-body collapse">
                             <div class="panel-body">
@@ -200,11 +228,11 @@ include('header.php');
 
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <h4 class="panel-title">
+                            <h3 class="panel-title">
                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#seoFaq" href="#faq3">
                                     What is the difference between Local SEO and Organic SEO?
                                 </a>
-                            </h4>
+                            </h3>
                         </div>
                         <div id="faq3" class="accordion-body collapse">
                             <div class="panel-body">

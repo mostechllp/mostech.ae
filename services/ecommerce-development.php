@@ -22,6 +22,24 @@
           gtag('config', 'G-63H5FYJL8W');
         </script>
 
+        <!-- Meta Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1737161654294577');
+        fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1737161654294577&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Meta Pixel Code -->
+
 
         <meta charset="utf-8">
 
@@ -53,11 +71,11 @@
 
         <meta property="og:url" content="https://www.mostech.ae" />
 
-        <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
+        <meta property="og:image" content="https://www.mostech.ae/img/fav.webp" />
 
         <meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai" />
 
-        <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
+        <meta property="og:image" content="https://www.mostech.ae/img/fav.webp" />
 
         <meta name="twitter:card" content="summary" />
 
@@ -69,7 +87,7 @@
 
         <meta name="twitter:description" content="Mostech Business Solutions is the best Software Company in Dubai producing world-class quality Softwares, Websites, Web Applications, Mobile Applications and Digital Marketing Services. " />
 
-        <meta name="twitter:image" content="https://www.mostech.ae/img/fav.png" />
+        <meta name="twitter:image" content="https://www.mostech.ae/img/fav.webp" />
 
 
 
@@ -77,7 +95,7 @@
 
         <link rel="shortcut icon" href="../img/fav.png" type="image/x-icon" />
 
-        <link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
+        <link rel="apple-touch-icon" href="../img/apple-touch-icon.webp">
 
 
 
@@ -153,12 +171,6 @@
 
         <script src="../vendor/modernizr/modernizr.min.js"></script>
 
-        <link rel="stylesheet" href="../style.css">
-
-        <link rel="stylesheet" href="../style1.css">
-
-        <link rel="stylesheet" href="../style2.css">
-
 
 
         <style type="text/css">
@@ -226,7 +238,7 @@
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
           "name": "Mostech Business Solutions",
-          "image": "https://www.mostech.ae/img/logo.png",
+          "image": "https://www.mostech.ae/img/logo.webp",
           "@id": "",
           "url": "https://mostech.ae",
           "telephone": "+971 56 585 1032",
@@ -279,7 +291,7 @@
 
                                     <a href="../index.php">
 
-                                        <img width="auto" height="48" data-sticky-width="220" data-sticky-height="auto" data-sticky-top="0" src="../img/logo.png" alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
+                                        <img width="auto" height="48" data-sticky-width="220" data-sticky-height="auto" data-sticky-top="0" src="../img/logo.webp" alt="Mostech Business Solutions Logo, Best Software Company in Dubai, IT Company in Dubai">
 
                                     </a>
 
@@ -327,7 +339,7 @@
                                             <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                                             <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                                             <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" target="_blank" rel="nofollow noopener noreferrer" title="WhatsApp" aria-label="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                                         </ul>
 
@@ -393,7 +405,7 @@
 
         <div role="main" class="main">
 
-            <section class="page-header page-header-custom-background mb-0" style="background-image: url(../img/custom-header-bg.jpg);">
+            <section class="page-header page-header-custom-background mb-0" style="background-image: url(../img/custom-header-bg.webp);">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -430,7 +442,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                             </p>
                         </div>
                         <div class="col-md-6">
-                            <img class="img-responsive mt-xlg" src="../img/mos-img1.jpeg" alt="E-commerce Development Dubai">
+                            <img class="img-responsive mt-xlg" src="../img/mos-img1.webp" alt="E-commerce Development Dubai">
                         </div>
 
                     </div>
@@ -452,7 +464,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                     <div class="box-content">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <h4 class="mb-none">eCommerce Development</h4>
+                                                <h3 class="mb-none">eCommerce Development</h3>
                                                 <div class="divider divider-small divider-small-center">
                                                     <hr>
                                                 </div>
@@ -467,7 +479,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                     <div class="box-content">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <h4 class="mb-none">eCommerce Theme Integration</h4>
+                                                <h3 class="mb-none">eCommerce Theme Integration</h3>
                                                 <div class="divider divider-small divider-small-center">
                                                     <hr>
                                                 </div>
@@ -482,7 +494,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                     <div class="box-content">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <h4 class="mb-none">eCommerce Maintenance & Support</h4>
+                                                <h3 class="mb-none">eCommerce Maintenance & Support</h3>
                                                 <div class="divider divider-small divider-small-center">
                                                     <hr>
                                                 </div>
@@ -500,7 +512,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                     <div class="box-content">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <h4 class="mb-none">eCommerce Consultation</h4>
+                                                <h3 class="mb-none">eCommerce Consultation</h3>
                                                 <div class="divider divider-small divider-small-center">
                                                     <hr>
                                                 </div>
@@ -516,7 +528,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                     <div class="box-content">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <h4 class="mb-none">eCommerce Customization</h4>
+                                                <h3 class="mb-none">eCommerce Customization</h3>
                                                 <div class="divider divider-small divider-small-center">
                                                     <hr>
                                                 </div>
@@ -532,7 +544,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                     <div class="box-content">
                                         <div class="row">
                                             <div class="col-md-12">
-                                                <h4 class="mb-none">eCommerce Migration</h4>
+                                                <h3 class="mb-none">eCommerce Migration</h3>
                                                 <div class="divider divider-small divider-small-center">
                                                     <hr>
                                                 </div>
@@ -585,7 +597,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
 </ul>
                     </div>
                     <div class="col-md-4">
-                        <img class="img-responsive mt-xlg" src="../img/mos-img2.jpeg" alt="E-commerce Solutions">
+                        <img class="img-responsive mt-xlg" src="../img/mos-img2.webp" alt="E-commerce Solutions">
                     </div>
                 </div>
             </div>
@@ -602,7 +614,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
             <div class="container" style="margin-top:50px;">
     <div class="row mobile-reverse">
 <div class="col-md-4">
-            <img class="img-responsive mt-xlg" src="../img/mos-img4.jpeg" alt="Online Store Development">
+            <img class="img-responsive mt-xlg" src="../img/mos-img4.webp" alt="Online Store Development">
         </div>
         <div class="col-md-8">
 
@@ -702,7 +714,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
     </div>
 
 
-       <footer id="footer">
+       <footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
 
 
 
@@ -726,9 +738,9 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                             <div class="col-md-4">
 
                                 <ul class="list list-icons list-icons-sm">
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="web-design-development.php" style="font-size:10px;">WEB DEVELOPMENT</a></li>
-                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="mobile-app-development.php" style="font-size:10px;">APP DEVELOPMENT</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing.php" style="font-size:10px;">DIGITAL MARKETING</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="web-design-development" style="font-size:10px;">WEB DEVELOPMENT</a></li>
+                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="mobile-app-development" style="font-size:10px;">APP DEVELOPMENT</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing" style="font-size:10px;">DIGITAL MARKETING</a></li>
 
 
 
@@ -744,9 +756,9 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai.php" style="font-size:10px;">SEO & SMO</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development.php" style="font-size:10px;">ECOMMERCE</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions.php" style="font-size:10px;">ERP SOLUTIONS</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
 
 
                                 </ul>
@@ -758,8 +770,8 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../blog.php"  style="font-size:10px;"> BLOGS </a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../careers.php" style="font-size:10px;">CAREERS</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../blog"  style="font-size:10px;"> BLOGS </a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../careers" style="font-size:10px;">CAREERS</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../img/MostechCompanyProfile.pdf" style="font-size:10px;"> PROFILE </a></li>
 
 
@@ -777,7 +789,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
 
                     <div class="col-md-3">
 
-                        <h4>Contact Us</h4>
+                        <h3>Contact Us</h3>
 
                         <div class="footer-contact-list">
                             <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
@@ -797,7 +809,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                             <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" target="_blank" rel="nofollow noopener noreferrer" title="WhatsApp" aria-label="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
                         </ul>
 
@@ -806,7 +818,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank">Mostech Business Solutions</a></p>
+                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>

@@ -24,6 +24,24 @@
           gtag('config', 'G-63H5FYJL8W');
         </script>
 
+        <!-- Meta Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1737161654294577');
+        fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1737161654294577&ev=PageView&noscript=1"
+        /></noscript>
+        <!-- End Meta Pixel Code -->
+
 
         <meta charset="utf-8">
 
@@ -148,12 +166,6 @@
         <!-- Head Libs -->
 
         <script src="vendor/modernizr/modernizr.min.js"></script>
-
-        <link rel="stylesheet" href="style.css">
-
-        <link rel="stylesheet" href="style1.css">
-
-        <link rel="stylesheet" href="style2.css">
 
 
 
@@ -301,10 +313,10 @@
 
                                         <ul class="header-social-icons social-icons hidden-xs">
 
-                                            <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                            <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                                            <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
+                                            <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin" aria-label="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                                            <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
+                                            <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+                                            <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" target="_blank" rel="nofollow noopener noreferrer" title="WhatsApp" aria-label="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
 
 
 
@@ -319,7 +331,7 @@
 
                                                     <li>
 
-                                                        <a href="index.php">
+                                                        <a href="/">
 
                                                             Home
 
@@ -329,7 +341,7 @@
 
                                                     <li class="dropdown">
 
-                                                        <a class="dropdown-toggle" href="services/web-design-development.php">
+                                                        <a class="dropdown-toggle" href="services/web-design-development">
 
                                                             OUR SERVICES
 
@@ -337,15 +349,15 @@
 
                                                        <ul class="dropdown-menu">
 
-                                                            <li><a href="services/mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
-                                                            <li><a href="services/web-design-development.php"> WEB DEVELOPMENT & DESIGN</a></li>
-                                                            <li><a href="services/digital-marketing.php"> DIGITAL MARKETING </a></li>        
-                                                            <li><a href="services/ecommerce-development.php">ECOMMERCE</a></li>
-                                                            <li><a href="services/erp-solutions.php">ERP SOLUTION</a></li>
+                                                            <li><a href="services/mobile-app-development">MOBILE APP DEVELOPMENT</a></li>
+                                                            <li><a href="services/web-design-development"> WEB DEVELOPMENT & DESIGN</a></li>
+                                                            <li><a href="services/digital-marketing"> DIGITAL MARKETING </a></li>        
+                                                            <li><a href="services/ecommerce-development">ECOMMERCE</a></li>
+                                                            <li><a href="services/erp-solutions">ERP SOLUTION</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="about.php">ABOUT US</a></li>
-                                                    <li><a href="contact.php">CONTACT US</a></li>
+                                                    <li><a href="about">ABOUT US</a></li>
+                                                    <li><a href="contact">CONTACT US</a></li>
 
                                                     </li>
 

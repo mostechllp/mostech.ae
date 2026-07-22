@@ -2468,7 +2468,7 @@ ul.sitemap.list ul {
 }
 /* Carousel Areas */
 .carousel-areas {
-	background: transparent url(../img/patterns/stripes.png) repeat 0 0;
+	background: transparent url(../img/patterns/stripes.webp) repeat 0 0;
 	margin-bottom: -10px;
 	padding: 10px 10px 0 10px;
 	border-radius: 6px 6px 0 0;
@@ -2525,7 +2525,7 @@ section.video .video-overlay {
 }
 
 section.video.video-overlay-dark .video-overlay {
-	background-image: url(../img/video-overlay-dark.png);
+	background-image: url(../img/video-overlay-dark.webp);
 }
 
 html.boxed section.video > div:first-child {
@@ -3588,7 +3588,7 @@ html[xmlns] .clearfix {
 
 /* Custom Underline */
 .custom-underline {
-	background: url(../img/custom-underline.png) no-repeat center 100%;
+	background: url(../img/custom-underline.webp) no-repeat center 100%;
 	padding-bottom: 25px;
 	font-size: 1.5em;
 }
@@ -3906,7 +3906,7 @@ hr.pattern, .divider.pattern {
 }
 
 hr.pattern:after, .divider.pattern:after {
-	background: transparent url(../img/patterns/worn_dots.png) repeat 0 0;
+	background: transparent url(../img/patterns/worn_dots.webp) repeat 0 0;
 	content: "";
 	display: block;
 	height: 15px;
@@ -3917,7 +3917,7 @@ hr.pattern:after, .divider.pattern:after {
 }
 
 hr.pattern.pattern-2:after, .divider.pattern.pattern-2:after {
-	background-image: url(../img/patterns/az_subtle.png);
+	background-image: url(../img/patterns/az_subtle.webp);
 }
 
 /* Sort Source Wrapper */
@@ -4735,7 +4735,7 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 	box-shadow: 0 0 0 3px #FFF;
 	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
 	-webkit-transform: scale(1);
-	-moz-transition: -moz-transform 0.2s, opacity 0.2s;
+	-moz-transition: -moz-transform: 0.2s, opacity 0.2s;
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
 	transition: transform 0.2s, opacity 0.2s;
@@ -6337,7 +6337,7 @@ section.timeline .timeline-box .owl-carousel {
 
 /* Arrows */
 .arrow {
-	background: transparent url(../img/arrows.png) no-repeat 0 0;
+	background: transparent url(../img/arrows.webp) no-repeat 0 0;
 	width: 47px;
 	height: 120px;
 	display: inline-block;
@@ -6977,7 +6977,7 @@ html.ie11 .scroll-to-top {
 .flag {
 	width: 16px;
 	height: 11px;
-	background: url(../img/flags.png) no-repeat;
+	background: url(../img/flags.webp) no-repeat;
 }
 
 .flag.flag-ad {
@@ -8264,7 +8264,7 @@ ul.history li p {
 }
 
 ul.history li .thumb {
-	background: transparent url(../img/history-thumb.png) no-repeat 0 0;
+	background: transparent url(../img/history-thumb.webp) no-repeat 0 0;
 	width: 227px;
 	height: 160px;
 	margin: 0 0 30px;
