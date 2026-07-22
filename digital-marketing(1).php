@@ -741,52 +741,36 @@ Whether you’re looking to improve visibility, generate leads, or scale revenue
 
                     <div class="col-md-3">
 
-                        <h5 class="mb-sm">Contact Us</h5>
+                        <h4>Contact Us</h4>
 
-                        <span class="phone"><a href="tel:+971581730112">+971 581730112</a></span>
+                        <div class="footer-contact-list">
+                            <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+918547557283"><span class="footer-country-label">INDIA :</span><strong>+91 8547557283</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+966535744308"><span class="footer-country-label">KSA :</span><strong>+966 53 574 4308</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+97472098584"><span class="footer-country-label">QATAR :</span><strong>+974 72098584</strong></a></p>
+                        </div>
 
-                        <!--<p class="mb-none"><a href="tel:+447438119824">UK :<strong> +44 7438119824</strong></a></p>-->
-
-                        <p class="mb-none"><a href="tel:+918547557283">INDIA : <strong> +91 8547557283</strong></a></p>
-
-                        <p class="mb-none"><a href="tel:+966595300958">KSA : <strong> +966 595300958</strong></a></p>
-
-                        <!--<p class="mb-none"><a href="tel:+97430164644">QATAR :<strong> +974 30164644</strong></a></p>-->
-
-                        <!--<p class="mb-none"><a href="tel:+96892719357">OMAN :<strong> +968 92719357</strong></a></p>-->
-
-
-
-                        <ul class="list list-icons mt-xl">
+                        <ul class="list list-icons footer-email-list">
 
                             <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                         </ul>
 
-                        <ul class="social-icons mt-xl">
-
-
+                        <ul class="social-icons footer-social-icons">
 
                             <li class="social-icons-linkedin"> <a href="https://www.linkedin.com/company/mostech.ae" title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li class="social-icons-facebook"> <a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                             <li class="social-icons-instagram"> <a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank" title="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>
-
-
-
-
-
+                            <li class="social-icons-whatsapp"> <a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" title="WhatsApp" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
 
                         </ul>
-
-
 
                     </div>
 
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p align="center">All rights reserved.Copyright @ <a href="https://www.mostech.ae" target="_blank">Mostech</a></p>
+                        <p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>

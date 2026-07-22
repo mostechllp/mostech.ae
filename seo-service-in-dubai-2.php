@@ -2352,18 +2352,18 @@
                         </div>
                     </div>
                     <div class="col-md-3">
-                        <h5 class="mb-sm">Contact Us</h5>
-                        <span class="phone"><a href="tel:+971581730112">+971 581730112</a></span>
-                        <!--<p class="mb-none"><a href="tel:+447438119824">UK : <strong>+44 7438119824</strong></a></p>-->
-                        <p class="mb-none"><a href="tel:+918547557283">INDIA : <strong>+91 8547557283</strong></a></p>
-                        <p class="mb-none"><a href="tel:+966535744308">KSA : <strong>+966 53 574 4308</strong></a></p>
-                        <p class="mb-none"><a href="tel:+97472098584">QATAR : <strong>+974 72098584</strong></a></p>
-                        <!--<p class="mb-none"><a href="tel:+96892719357">OMAN : <strong>+968 92719357</strong></a></p>-->
-                        <ul class="list list-icons mt-xl">
+                        <h4>Contact Us</h4>
+                        <div class="footer-contact-list">
+                            <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+918547557283"><span class="footer-country-label">INDIA :</span><strong>+91 8547557283</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+966535744308"><span class="footer-country-label">KSA :</span><strong>+966 53 574 4308</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+97472098584"><span class="footer-country-label">QATAR :</span><strong>+974 72098584</strong></a></p>
+                        </div>
+                        <ul class="list list-icons footer-email-list">
                             <li><i class="fa fa-envelope" style="color:white;"></i> <a
                                     href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
                         </ul>
-                        <ul class="social-icons mt-xl">
+                        <ul class="social-icons footer-social-icons">
                             <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech.ae"
                                     title="Linkedin" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                             <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae"
@@ -2378,8 +2378,8 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p align="center">All rights reserved. Copyright @ <a href="https://www.mostech.ae"
-                                target="_blank">Mostech</a></p>
+                        <p class="footer-copyright-text" align="center">All rights reserved | &copy; <a href="https://www.mostech.ae"
+                                target="_blank">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>
