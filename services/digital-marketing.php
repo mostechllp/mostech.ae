@@ -59,8 +59,6 @@
 
         <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
-        <script src="../path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
-
         <meta name="twitter:card" content="summary" />
 
         <meta name="twitter:site" content="@mostechllc" />
@@ -154,18 +152,6 @@
         <!-- Head Libs -->
 
         <script src="../vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script language="Javascript" src="../classs/state/jquery.js"></script>
-
-        <script type="text/JavaScript" src='../classs/state/state.js'></script>
-
-        <link rel="stylesheet" type="text/css" href="../classs/state/style.css">
-
-
-
-
 
         <link rel="stylesheet" href="../style.css">
 
@@ -594,7 +580,7 @@
     <div class="row">
         <div class="col-md-12 center" style="margin-top:50px;">
                                
-        <h1 class="mb-sm small">Our <strong class="heading-primary">Digital Marketing Services</strong> </h1>
+        <h2 class="mb-sm small">Our <strong class="heading-primary">Digital Marketing Services</strong> </h2>
         </div>
 </div>
 <style>
@@ -682,7 +668,7 @@
         <div class="row">
         <div class="col-md-12 center">
                                
-        <h1 class="mb-sm small">Our <strong class="heading-primary">Digital Marketing Approach</strong> </h1>
+        <h2 class="mb-sm small">Our <strong class="heading-primary">Digital Marketing Approach</strong> </h2>
         </div>
 </div>
     <div class="col-md-12 col-lg-12 mt-4">
@@ -757,7 +743,7 @@
                     <div class="row">
 
                         <div class="col-md-12">
-                             <center><h1 class="mb-sm small" style="color:#fff;">Why Choose<strong class=""> Mostech?</strong> </h1></center>
+                             <center><h2 class="mb-sm small" style="color:#fff;">Why Choose<strong class=""> Mostech?</strong> </h2></center>
                                 </div>
                         
                                 <p align="center"  style="color:#fff;">

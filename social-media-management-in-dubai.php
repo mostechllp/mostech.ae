@@ -24,7 +24,7 @@
 
 	
 
-	<title>Software Companies in Dubai | IT Companies in Dubai</title>
+	<title>Social Media Management Dubai | SMM & Brand Agency UAE - Mostech</title>
 
 	
 
@@ -32,7 +32,7 @@
 
 	<meta name="keywords" content=" MOSTECH Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
-	<meta name="description" content="MOSTECH Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai."/>
+	<meta name="description" content="Boost brand engagement with expert social media management in Dubai. Mostech creates compelling campaigns across Instagram, Facebook, LinkedIn, TikTok, and X."/>
 
 	
 
@@ -60,13 +60,9 @@
 
 	<meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai"/>
 
-	<meta property="og:image" content="https://www.mostech.ae/img/moslogo.png" />
+	<meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
 	
-
-	<script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
-
-
 
 	<meta name="twitter:card" content="summary" />
 
@@ -160,16 +156,6 @@
 		<script src="vendor/modernizr/modernizr.min.js"></script>
 
 		
-
-		<script language="Javascript" src="classs/state/jquery.js"></script>
-
-    <script type="text/JavaScript" src='classs/state/state.js'></script>
-
-    <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-
-	
-
-	
 
     <link rel="stylesheet" href="style.css">
 
@@ -471,7 +457,7 @@ Social Media Management at MOS goes beyond posting content — it’s about stra
 					<div class="row">
 						<div class="row">
 						<div class="col-md-12 center">
-							<h1 class="mb-sm small">Social Media Management Services  <strong class="heading-primary"> — MOS Tech</strong></h1>
+							<h2 class="mb-sm small">Social Media Management Services  <strong class="heading-primary"> — MOS Tech</strong></h2>
 							<p align="center">At MOS Tech, we don’t just post — we craft social experiences that elevate your brand, engage your audience, and drive measurable business growth. In today’s digital landscape, social media is far more than frequency — it’s about consistency, creativity, and meaningful connection with the people who matter most to your business.</p>
 						</div>
 					</div>

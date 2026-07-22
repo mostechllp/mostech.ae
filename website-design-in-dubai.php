@@ -24,7 +24,7 @@
 
 	
 
-	<title>Software Companies in Dubai | IT Companies in Dubai</title>
+	<title>Website Design in Dubai | Professional Web Development Agency UAE - Mostech</title>
 
 	
 
@@ -32,7 +32,7 @@
 
 	<meta name="keywords" content=" MOSTECH Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
-	<meta name="description" content="MOSTECH Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai."/>
+	<meta name="description" content="Leading website design agency in Dubai. Mostech Business Solutions builds modern, responsive, mobile-first websites and web applications tailored for UAE enterprises."/>
 
 	
 
@@ -62,10 +62,6 @@
 
 	<meta property="og:image" content="https://www.mostech.ae/img/moslogo.png" />
 	
-
-	<script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
-
-
 
 	<meta name="twitter:card" content="summary" />
 
@@ -160,11 +156,7 @@
 
 		
 
-		<script language="Javascript" src="classs/state/jquery.js"></script>
-
-    <script type="text/JavaScript" src='classs/state/state.js'></script>
-
-    <link rel="stylesheet" type="text/css" href="classs/state/style.css">
+		
 
 	
 
@@ -466,7 +458,7 @@ Our design philosophy blends creativity with strategy. We focus on creating webs
 					<div class="row">
 						<div class="row">
 						<div class="col-md-12 center">
-							<h1 class="mb-sm small">Tailored Website Design Services  <strong class="heading-primary"> in Dubai </strong></h1>
+							<h2 class="mb-sm small">Tailored Website Design Services  <strong class="heading-primary"> in Dubai </strong></h2>
 							
 						</div>
 					</div>

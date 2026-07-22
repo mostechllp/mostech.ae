@@ -59,8 +59,6 @@
 
         <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
-        <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
-
         <meta name="twitter:card" content="summary" />
 
         <meta name="twitter:site" content="@mostechllc" />
@@ -154,18 +152,6 @@
         <!-- Head Libs -->
 
         <script src="../vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script language="Javascript" src="../classs/state/jquery.js"></script>
-
-        <script type="text/JavaScript" src='../classs/state/state.js'></script>
-
-        <link rel="stylesheet" type="text/css" href="../classs/state/style.css">
-
-
-
-
 
         <link rel="stylesheet" href="../style.css">
 
@@ -455,7 +441,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
 
                         <div class="row">
                             <div class="col-md-12 center">
-                                <h1 class="mb-sm small">Our <strong class="heading-primary">eCommerce Development Services</strong> </h1>
+                                <h2 class="mb-sm small">Our <strong class="heading-primary">eCommerce Development Services</strong> </h2>
                                 <p align="center">Customer-Centric Solutions That Drive Sales</p>
                             </div>
                         </div>

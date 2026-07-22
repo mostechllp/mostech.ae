@@ -69,10 +69,6 @@
 
 
 
-    <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
-
-
-
     <meta name="twitter:card" content="summary" />
 
     <meta name="twitter:site" content="@mostech.ae" />
@@ -163,18 +159,6 @@
     <!-- Head Libs -->
 
     <script src="../vendor/modernizr/modernizr.min.js"></script>
-
-
-
-    <script language="Javascript" src="../classs/state/jquery.js"></script>
-
-    <script type="text/JavaScript" src='../classs/state/state.js'></script>
-
-    <link rel="stylesheet" type="text/css" href="../classs/state/style.css">
-
-
-
-
 
     <link rel="stylesheet" href="../style.css">
 
@@ -474,7 +458,7 @@
                 <div class="row">
                     <div class="col-md-8">
 
-                        <h1><strong class="heading-primary">Our ERP Distribution & Implementation Services</strong> </h1>
+                        <h2><strong class="heading-primary">Our ERP Distribution & Implementation Services</strong> </h2>
                         <p class="lead" style="color:#000;">ERP Software Distribution</p>
                         <p>We provide access to the best ERP platforms globally, including solutions for:</p>
                         <ul class="list list-icons list-primary">

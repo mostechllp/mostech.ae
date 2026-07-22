@@ -59,8 +59,6 @@
 
         <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
-        <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
-
         <meta name="twitter:card" content="summary" />
 
         <meta name="twitter:site" content="@mostechllc" />
@@ -154,18 +152,6 @@
         <!-- Head Libs -->
 
         <script src="../vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script language="Javascript" src="../classs/state/jquery.js"></script>
-
-        <script type="text/JavaScript" src='../classs/state/state.js'></script>
-
-        <link rel="stylesheet" type="text/css" href="../classs/state/style.css">
-
-
-
-
 
         <link rel="stylesheet" href="../style.css">
 
@@ -555,8 +541,8 @@ scalable, and user-focused.
 					<div class="row">
 					
 						<div class="col-md-12 center">
-							<h1 class="mb-sm small">What Makes Our 
- <strong class="heading-primary">App Experts Special?  </strong></h1>
+							<h2 class="mb-sm small">What Makes Our 
+ <strong class="heading-primary">App Experts Special?  </strong></h2>
 							<!--<p align="center">Our team will evaluate and analyse the business and customers of our clients before starting the mobile app development process. And our proven android and iOS mobile app developers deliver the products that exactly required for our clients.</p>-->
 						</div>
 				

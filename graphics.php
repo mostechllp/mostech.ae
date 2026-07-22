@@ -21,7 +21,7 @@
 
 
 
-    <title>Software Company in Dubai | Digital Marketing Agency in UAE</title>
+    <title>Graphic Design & Branding Services in Dubai - Mostech</title>
 
 
 
@@ -29,7 +29,7 @@
 
     <meta name="keywords" content=" MOSTECH Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
-    <meta name="description" content="MOSTECH Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai." />
+    <meta name="description" content="Professional graphic design, corporate logo creation, visual identity, and UI/UX design services in Dubai by Mostech Business Solutions." />
 
 
 
@@ -57,11 +57,7 @@
 
     <meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai" />
 
-    <meta property="og:image" content="https://www.mostech.ae/img/moslogoo.png" />
-
-
-
-    <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
+    <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
 
 
@@ -155,14 +151,6 @@
     <!-- Head Libs -->
 
     <script src="vendor/modernizr/modernizr.min.js"></script>
-
-
-
-    <script language="Javascript" src="classs/state/jquery.js"></script>
-
-    <script type="text/JavaScript" src='classs/state/state.js'></script>
-
-    <link rel="stylesheet" type="text/css" href="classs/state/style.css">
 
 
 

@@ -19,13 +19,13 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <title>Software Company in Dubai | Digital Marketing Agency in UAE</title>
+        <title>CCTV Security Camera Solutions & Installation Dubai - Mostech</title>
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
         <meta name="keywords" content=" Mostech Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
-        <meta name="description" content="Mostech Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai." />
+        <meta name="description" content="Advanced CCTV camera systems, IP surveillance, and access control solutions in Dubai by Mostech Business Solutions." />
 
         <meta name="robots" content="index,follow" />
 
@@ -50,8 +50,6 @@
         <meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai" />
 
         <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
-
-        <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
 
         <meta name="twitter:card" content="summary" />
 
@@ -146,18 +144,6 @@
         <!-- Head Libs -->
 
         <script src="vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script language="Javascript" src="classs/state/jquery.js"></script>
-
-        <script type="text/JavaScript" src='classs/state/state.js'></script>
-
-        <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-
-
-
-
 
         <link rel="stylesheet" href="style.css">
 
@@ -392,20 +378,6 @@
 				</section>
 
 
-	<section class="page-header page-header-custom-background" style="background-image: url(img/custom-header-bg.jpg);">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-12">
-								<h1>Web Development and Design<span>User Friendly Experience and Interface</span></h1>
-								<ul class="breadcrumb breadcrumb-valign-mid">
-									<li><a href="#">Our Services</a></li>
-									<li class="active">Web Development and Design</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</section>
-	
 						<div class="container">
 							<div class="row">
 							<div class="col-md-12 center">

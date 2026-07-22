@@ -1,6 +1,13 @@
 Options -MultiViews
 RewriteEngine On
 
+# 301 Redirects for Legacy / Broken Service URLs
+RewriteRule ^services/web-development-and-design(\.php)?$ /services/web-design-development [R=301,L]
+RewriteRule ^services/web-development(\.php)?$ /services/web-design-development [R=301,L]
+RewriteRule ^services/mobile-application-development(\.php)?$ /services/mobile-app-development [R=301,L]
+RewriteRule ^services/hybrid-application-development(\.php)?$ /services/mobile-app-development [R=301,L]
+RewriteRule ^services/contact(\.php)?$ /contact [R=301,L]
+
 # Redirect index.php to the root URL
 RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]
 RewriteRule ^index\.php$ / [R=301,L]

@@ -59,8 +59,6 @@
 
         <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
-        <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
-
         <meta name="twitter:card" content="summary" />
 
         <meta name="twitter:site" content="@mostechllc" />
@@ -154,18 +152,6 @@
         <!-- Head Libs -->
 
         <script src="../vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script language="Javascript" src="../classs/state/jquery.js"></script>
-
-        <script type="text/JavaScript" src='../classs/state/state.js'></script>
-
-        <link rel="stylesheet" type="text/css" href="../classs/state/style.css">
-
-
-
-
 
         <link rel="stylesheet" href="../style.css">
 

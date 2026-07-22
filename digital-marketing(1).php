@@ -19,7 +19,7 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <title>Software Company in Dubai | Digital Marketing Agency in UAE</title>
+        <title>Digital Marketing & SEO Solutions Dubai - Mostech</title>
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
@@ -50,8 +50,6 @@
         <meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai" />
 
         <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
-
-        <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
 
         <meta name="twitter:card" content="summary" />
 

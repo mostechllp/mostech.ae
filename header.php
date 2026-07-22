@@ -29,13 +29,13 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <title><?php echo isset($pageTitle) ? $pageTitle : 'Software Company in Dubai | Digital Marketing Agency in UAE'; ?></title>
+        <title><?php echo isset($pageTitle) ? $pageTitle : 'Mostech Business Solutions | Software Company & Digital Agency Dubai'; ?></title>
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-        <meta name="keywords" content=" Mostech Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
+        <meta name="keywords" content="<?php echo isset($pageKeywords) ? $pageKeywords : 'Mostech Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE.'; ?>" />
 
-        <meta name="description" content="<?php echo isset($pageDescription) ? $pageDescription : 'Mostech Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai.'; ?>" />
+        <meta name="description" content="<?php echo isset($pageDescription) ? $pageDescription : 'Mostech Business Solutions is a premier software company and digital agency in Dubai, UAE. We deliver custom software, web design, mobile apps, and digital marketing.'; ?>" />
 
         <meta name="robots" content="index,follow" />
 
@@ -49,19 +49,15 @@
 
         <link rel="canonical" href="<?php echo isset($pageCanonical) ? $pageCanonical : 'https://mostech.ae/'; ?>" />
 
-        <meta property="og:title" content="Software Company in Dubai | Digital Marketing Company in Dubai" />
+        <meta property="og:title" content="<?php echo isset($ogTitle) ? $ogTitle : 'Software Company in Dubai | Digital Marketing Company in Dubai'; ?>" />
 
-        <meta property="og:type" content="https://www.mostech.ae" />
+        <meta property="og:type" content="<?php echo isset($ogType) ? $ogType : 'website'; ?>" />
 
-        <meta property="og:url" content="https://www.mostech.ae" />
-
-        <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
-
-        <meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai" />
+        <meta property="og:url" content="<?php echo isset($pageCanonical) ? $pageCanonical : 'https://www.mostech.ae'; ?>" />
 
         <meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
-        <script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
+        <meta property="og:description" content="<?php echo isset($ogDescription) ? $ogDescription : (isset($pageDescription) ? $pageDescription : 'No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai'); ?>" />
 
         <meta name="twitter:card" content="summary" />
 
@@ -69,9 +65,9 @@
 
         <meta name="twitter:creator" content="@mostechllc" />
 
-        <meta name="twitter:title" content="Software  Company in Dubai | Digital Marketing Company in Dubai" />
+        <meta name="twitter:title" content="<?php echo isset($ogTitle) ? $ogTitle : 'Software Company in Dubai | Digital Marketing Company in Dubai'; ?>" />
 
-        <meta name="twitter:description" content="Mostech Business Solutions is the best Software Company in Dubai producing world-class quality Softwares, Websites, Web Applications, Mobile Applications and Digital Marketing Services. " />
+        <meta name="twitter:description" content="<?php echo isset($pageDescription) ? $pageDescription : 'Mostech Business Solutions is the best Software Company in Dubai producing world-class quality Softwares, Websites, Web Applications, Mobile Applications and Digital Marketing Services.'; ?>" />
 
         <meta name="twitter:image" content="https://www.mostech.ae/img/fav.png" />
 
@@ -110,11 +106,6 @@
         <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.carousel.min.css">
 
         <link rel="stylesheet" href="vendor/owl.carousel/assets/owl.theme.default.min.css">
-        
-        <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">-->
-
-
-
 
         <link rel="stylesheet" href="vendor/magnific-popup/magnific-popup.min.css">
 
@@ -143,6 +134,7 @@
 
 
         <!-- Skin CSS -->
+
         <link rel="stylesheet" href="css/skins/skin-corporate-4.css">
 
 
@@ -156,18 +148,6 @@
         <!-- Head Libs -->
 
         <script src="vendor/modernizr/modernizr.min.js"></script>
-
-
-
-        <script language="Javascript" src="classs/state/jquery.js"></script>
-
-        <script type="text/JavaScript" src='classs/state/state.js'></script>
-
-        <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-
-
-
-
 
         <link rel="stylesheet" href="style.css">
 

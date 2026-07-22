@@ -22,7 +22,7 @@
 
 	
 
-	<title>Software Companies in Dubai | IT Companies in Dubai</title>
+	<title>Digital Marketing Company in Dubai | SEO & Growth Agency UAE - Mostech</title>
 
 	
 
@@ -30,7 +30,7 @@
 
 	<meta name="keywords" content="MOSTECH Business Solutions | The Best Software Company in Dubai, Digital Marketing Agency in Dubai, UAE." />
 
-	<meta name="description" content="MOSTECH Business Solutions is the best Software company in Dubai ,Software development company in Dubai, IT company in Dubai and Digital marketing agency in Dubai."/>
+	<meta name="description" content="Strategic digital marketing services in Dubai. Mostech Business Solutions delivers SEO, PPC ad campaigns, social media growth, and analytics in the UAE."/>
 
 	
 
@@ -58,11 +58,9 @@
 
 	<meta property="og:description" content="No.1 Software Company & Digital Marketing Agency in Dubai. We are the best Web Design Company in Dubai, Web Development Company in Dubai and Digital Marketing Company in Dubai"/>
 
-	<meta property="og:image" content="https://www.mostech.ae/img/moslogo.png" />
+	<meta property="og:image" content="https://www.mostech.ae/img/fav.png" />
 
 	
-
-	<script src="path/to/js/file.js?t={TIMESTAMP}" type="text/javascript"> </script>
 
 
 
@@ -159,13 +157,7 @@
 
 		
 
-		<script language="Javascript" src="classs/state/jquery.js"></script>
-
-    <script type="text/JavaScript" src='classs/state/state.js'></script>
-
-    <link rel="stylesheet" type="text/css" href="classs/state/style.css">
-
-	
+		
 
 	
 
@@ -416,7 +408,7 @@
 					
 					<div class="row mb-xlg">
 						<div class="col-md-12">
-						    <h1 class="mb-sm small" align="center">Strategic Digital Marketing Solutions   <strong class="heading-primary"> in Dubai</strong></h1>
+						    <h2 class="mb-sm small" align="center">Strategic Digital Marketing Solutions   <strong class="heading-primary"> in Dubai</strong></h2>
 							<p align="center">In today’s fast-paced digital world, customers in Dubai rely on online platforms to discover, compare, and choose brands. From search engines to social media, your online presence plays a crucial role in shaping customer decisions. At MOS Tech, we help businesses in Dubai and across the UAE build strong digital visibility, attract the right audience, and achieve sustainable growth through strategic digital marketing solutions.
 
 Digital marketing is not just about being online — it’s about being visible, relevant, and impactful. Our team focuses on creating result-driven strategies tailored to your business goals, industry, and target market. By combining creativity, data insights, and the latest digital tools, we ensure your brand stands out in a highly competitive digital landscape.</p>
@@ -452,7 +444,7 @@ Digital marketing is not just about being online — it’s about being visible,
 						<div class="container">
 						    <div class="row  mb-xlg">
 						    
-						    <h1 class="mb-sm small" align="center">Our Digital Marketing Services   <strong class="heading-primary"> in Dubai</strong></h1>
+						    <h2 class="mb-sm small" align="center">Our Digital Marketing Services   <strong class="heading-primary"> in Dubai</strong></h2>
 						    </div>
 					
 						<div class="row">
