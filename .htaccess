@@ -1,5 +1,6 @@
 Options -MultiViews
 RewriteEngine On
+AddType image/webp .webp
 
 # Enforce HSTS (HTTP Strict Transport Security) & Security Headers
 <IfModule mod_headers.c>
@@ -58,6 +59,8 @@ RewriteRule ^services/web-development(\.php)?$ /services/web-design-development 
 RewriteRule ^services/mobile-application-development(\.php)?$ /services/mobile-app-development [R=301,L]
 RewriteRule ^services/hybrid-application-development(\.php)?$ /services/mobile-app-development [R=301,L]
 RewriteRule ^services/contact(\.php)?$ /contact [R=301,L]
+RewriteRule ^blog(\.php)?$ /blogs [R=301,L]
+RewriteRule ^blogs/how-to-improve-your-brands-search-visibility/?$ how-to-improve-your-brands-search-visibility.php [L]
 
 # Redirect index.php to the root URL
 RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]

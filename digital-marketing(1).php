@@ -722,7 +722,7 @@ Whether you’re looking to improve visibility, generate leads, or scale revenue
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="blog.php"  style="font-size:10px;"> BLOGS </a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="blogs.php"  style="font-size:10px;"> BLOGS </a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="careers.php" style="font-size:10px;">CAREERS</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="img/MostechCompanyProfile.pdf" style="font-size:10px;"> PROFILE </a></li>
 

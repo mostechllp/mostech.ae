@@ -835,7 +835,7 @@
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../blog"  style="font-size:10px;"> BLOGS </a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../blogs"  style="font-size:10px;"> BLOGS </a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../careers" style="font-size:10px;">CAREERS</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../img/MostechCompanyProfile.pdf" style="font-size:10px;"> PROFILE </a></li>
 
