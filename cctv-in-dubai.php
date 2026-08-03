@@ -632,7 +632,7 @@
                             <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
                             <p class="footer-contact-item"><a href="tel:+918547557283"><span class="footer-country-label">INDIA :</span><strong>+91 8547557283</strong></a></p>
                             <p class="footer-contact-item"><a href="tel:+966535744308"><span class="footer-country-label">KSA :</span><strong>+966 53 574 4308</strong></a></p>
-                            <p class="footer-contact-item"><a href="tel:+97472098584"><span class="footer-country-label">QATAR :</span><strong>+974 72098584</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+97450547557"><span class="footer-country-label">QATAR :</span><strong>+974 5054 7557</strong></a></p>
                         </div>
 
                         <ul class="list list-icons footer-email-list">

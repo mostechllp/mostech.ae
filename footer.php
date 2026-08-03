@@ -86,7 +86,7 @@
                             <p class="footer-contact-item"><a href="tel:+971581730112" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">UAE :</span><strong style="color: #ffffff !important;">+971 581730112</strong></a></p>
                             <p class="footer-contact-item"><a href="tel:+918547557283" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">INDIA :</span><strong style="color: #ffffff !important;">+91 8547557283</strong></a></p>
                             <p class="footer-contact-item"><a href="tel:+966535744308" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">KSA :</span><strong style="color: #ffffff !important;">+966 53 574 4308</strong></a></p>
-                            <p class="footer-contact-item"><a href="tel:+97472098584" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">QATAR :</span><strong style="color: #ffffff !important;">+974 72098584</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+97450547557" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">QATAR :</span><strong style="color: #ffffff !important;">+974 5054 7557</strong></a></p>
                         </div>
 
                         <ul class="list list-icons footer-email-list">
