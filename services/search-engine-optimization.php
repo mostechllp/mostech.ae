@@ -338,7 +338,7 @@
                             <ul class="breadcrumb breadcrumb-valign-mid">
                                 <li><a href="../index.php">Home</a></li>
                                 <li><a href="web-design-development.php">Our Services</a></li>
-                                <li class="active">Search Engine Optimisation</li>
+                                <li class="active">Search Engine Optimization</li>
                             </ul>
                         </div>
                     </div>
