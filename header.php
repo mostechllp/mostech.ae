@@ -159,7 +159,7 @@
 
         <!-- Theme Custom CSS -->
 
-        <link rel="stylesheet" href="css/custom.css">
+        <link rel="stylesheet" href="css/custom.css?v=<?php echo filemtime(__DIR__ . '/css/custom.css'); ?>">
 
 
 
@@ -313,7 +313,7 @@
 
                                         <ul class="header-social-icons social-icons hidden-xs">
 
-                                            <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech" target="_blank" title="Linkedin" aria-label="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+                                            <li class="social-icons-linkedin"><a href="https://www.linkedin.com/company/mostech/" target="_blank" title="Linkedin" aria-label="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
                                             <li class="social-icons-facebook"><a href="https://www.facebook.com/mostech.ae" target="_blank" title="Facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a></li>
                                             <li class="social-icons-instagram"><a href="https://www.instagram.com/mostech.ae" target="_blank" title="Instagram" aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
                                             <li class="social-icons-whatsapp"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" target="_blank" rel="nofollow noopener noreferrer" title="WhatsApp" aria-label="WhatsApp"><i class="fa fa-whatsapp"></i></a></li>

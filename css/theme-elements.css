@@ -6251,7 +6251,7 @@ section.timeline .timeline-box .owl-carousel {
 	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
-	background: #FFF;
+	/* background: #FFF; */
 	border-radius: 100%;
 	display: block;
 	height: 30px;
