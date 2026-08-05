@@ -160,9 +160,74 @@ div[class*="wh-widget"] {
   font-size: 13px !important;
   color: #fff !important;
 }
+#footer .footer-social-icons,
 .footer-social-icons {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
   margin-top: 15px !important;
-  margin-bottom: 10px !important;
+  margin-bottom: 15px !important;
+  padding: 0 !important;
+  list-style: none !important;
+}
+#footer .footer-social-icons li,
+.footer-social-icons li {
+  display: inline-block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+#footer .footer-social-icons li a,
+.footer-social-icons li a {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 34px !important;
+  height: 34px !important;
+  border-radius: 50% !important;
+  background-color: #ffffff !important;
+  background: #ffffff !important;
+  color: #181b1e !important;
+  text-decoration: none !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25) !important;
+  transition: all 0.3s ease !important;
+}
+#footer .footer-social-icons li a i,
+.footer-social-icons li a i {
+  color: #181b1e !important;
+  font-size: 15px !important;
+  line-height: 1 !important;
+  display: inline-block !important;
+  font-family: "FontAwesome" !important;
+  transition: color 0.3s ease !important;
+}
+#footer .footer-social-icons li:hover a,
+.footer-social-icons li:hover a {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.35) !important;
+}
+#footer .footer-social-icons li.social-icons-linkedin:hover a,
+.footer-social-icons li.social-icons-linkedin:hover a {
+  background-color: #0077b5 !important;
+  background: #0077b5 !important;
+}
+#footer .footer-social-icons li.social-icons-facebook:hover a,
+.footer-social-icons li.social-icons-facebook:hover a {
+  background-color: #1877f2 !important;
+  background: #1877f2 !important;
+}
+#footer .footer-social-icons li.social-icons-instagram:hover a,
+.footer-social-icons li.social-icons-instagram:hover a {
+  background-color: #e4405f !important;
+  background: #e4405f !important;
+}
+#footer .footer-social-icons li.social-icons-whatsapp:hover a,
+.footer-social-icons li.social-icons-whatsapp:hover a {
+  background-color: #25d366 !important;
+  background: #25d366 !important;
+}
+#footer .footer-social-icons li:hover a i,
+.footer-social-icons li:hover a i {
+  color: #ffffff !important;
 }
 .footer-copyright-text {
   text-align: center !important;

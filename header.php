@@ -354,6 +354,7 @@
                                                             <li><a href="services/digital-marketing"> DIGITAL MARKETING </a></li>        
                                                             <li><a href="services/ecommerce-development">ECOMMERCE</a></li>
                                                             <li><a href="services/erp-solutions">ERP SOLUTION</a></li>
+                                                            <li><a href="services/search-engine-optimization">SEARCH ENGINE OPTIMIZATION</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="about">ABOUT US</a></li>

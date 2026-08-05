@@ -408,6 +408,7 @@
                                                             <li><a href="services/digital-marketing.php"> DIGITAL MARKETING </a></li>        
                                                             <li><a href="services/ecommerce-development.php">ECOMMERCE</a></li>
                                                             <li><a href="services/erp-solutions.php">ERP SOLUTION</a></li>
+                                                            <li><a href="services/search-engine-optimization.php">SEARCH ENGINE OPTIMIZATION</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="about.php">ABOUT US</a></li>
