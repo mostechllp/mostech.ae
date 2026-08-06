@@ -963,6 +963,7 @@
                                         <nav>
                                             <ul class="nav nav-pills" id="mainNav">
                                                 <li><a href="index.php">Home</a></li>
+                                                <li><a href="about.php">ABOUT US</a></li>
                                                 <li class="dropdown">
                                                     <a class="dropdown-toggle" href="services/web-design-development.php">OUR SERVICES</a>
                                                     <ul class="dropdown-menu">
@@ -974,7 +975,6 @@
                                                             <li><a href="services/erp-solutions.php">ERP SOLUTION</a></li>
                                                         </ul>
                                                 </li>
-                                                <li><a href="about.php">ABOUT US</a></li>
                                                 <li><a href="contact.php">CONTACT US</a></li>
                                             </ul>
                                         </nav>
@@ -1493,6 +1493,8 @@
                                 <ul class="list list-icons list-icons-sm">
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
                                             href="seo-service-in-dubai.php" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
+                                            href="services/search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a
                                             href="ecommerce-development.php" style="font-size:10px;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a

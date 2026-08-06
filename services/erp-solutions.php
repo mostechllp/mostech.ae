@@ -367,6 +367,8 @@
 
                                                 </li>
 
+                                                <li><a href="../about.php">ABOUT US</a></li>
+
                                                 <li class="dropdown">
 
                                                     <a class="dropdown-toggle" href="erp-solutions.php">
@@ -387,12 +389,7 @@
 
                                                 </li>
 
-
-                                                <li><a href="../about.php">ABOUT US</a></li>
-
                                                 <li><a href="../contact.php">CONTACT US</a></li>
-
-                                                </li>
 
                                             </ul>
 
@@ -425,11 +422,11 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<h1>ERP Solutions That Drive  <span class="mt-4">Efficiency and Growth</span></h1>
+								<h1>ERP Solutions  <span class="mt-4"></span></h1>
 								<ul class="breadcrumb breadcrumb-valign-mid">
                                     <li><a href="../index.php">Home</a></li>
 									<li class="active">Our Services</li>
-									<li class="active">ERP That Works for You</li>
+									<li class="active">ERP Solutions</li>
 								</ul>
 							</div>
 						</div>
@@ -439,174 +436,192 @@
 
 
 
-					<div class="container">
-					<div class="row mb-xlg">
-						<div class="col-sm-6">
-						<h2><strong class="heading-primary">Enterprise ERP Solutions </strong> That Drive Growth</h2>
-						<p class="lead"  style="color:#000;">
-								Seamless, Scalable & High-Performance ERP Solutions
-							</p>
-								
-						<p align="justify">At MOSTECH, we bring the world’s most advanced ERP solutions to businesses across industries. Our focus is on providing top-tier ERP software that streamlines operations, improves efficiency, and enables data-driven decision-making — all tailored to your organization’s unique needs. </p>
-						<p  align="justify">We partner with global ERP leaders to deliver solutions trusted by enterprises worldwide, helping you leverage cutting-edge technology without compromise.</p>
-								 <a href="../contact.php" data-hash class="btn btn-tertiary mr-md appear-animation mt-4" data-appear-animation="fadeInDown" data-appear-animation-delay="300" style="background:#020c4c;">CONTACT US FOR DEMO</a>
-							
-							</p>
-						</div>
-						<div class="col-sm-6">
-							<img class="img-responsive mt-xlg" src="../img/erp1.gif" alt="ERP Solutions Dubai">
-						</div>
-					</div>			
-					</div>
+	<div class="container" style="padding-top: 40px; padding-bottom: 40px;">
+		<div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
+			<div class="col-md-7 col-sm-12">
+				<h2><strong class="heading-primary">Enterprise ERP Solutions That Drive Growth</strong></h2>
+				<p class="lead" style="color: #0f172a; font-weight: 600; font-size: 18px; margin-bottom: 15px;">
+					Seamless, Scalable & High-Performance ERP Solutions
+				</p>
+				<p align="justify" style="color: #334155; font-size: 15px; line-height: 1.8;">
+					At MOSTECH, we bring the world’s most advanced ERP solutions to businesses across industries. Our focus is on providing top-tier ERP software that streamlines operations, improves efficiency, and enables data-driven decision-making — all tailored to your organization’s unique needs.
+				</p>
+				<p align="justify" style="color: #334155; font-size: 15px; line-height: 1.8; margin-bottom: 25px;">
+					We partner with global ERP leaders to deliver solutions trusted by enterprises worldwide, helping you leverage cutting-edge technology without compromise.
+				</p>
+				<a href="../contact.php" class="btn btn-tertiary mr-md" style="background: #020c4c; color: #fff; padding: 12px 28px; font-weight: 700; border-radius: 6px; font-size: 14px; text-transform: uppercase;">CONTACT US FOR DEMO</a>
+			</div>
+			<div class="col-md-5 col-sm-12 text-center" style="margin-top: 15px;">
+				<img class="img-responsive" src="../img/erpimage.webp" alt="ERP Solutions Dubai" style="max-height: 350px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+			</div>
+		</div>
+	</div>
+	<style>
+		@media (max-width: 767px) {
+			.container {
+				padding-left: 20px !important;
+				padding-right: 20px !important;
+			}
+			p[align="justify"] {
+				text-align: left !important;
+			}
+		}
+		.erp-services-grid {
+			display: flex;
+			flex-wrap: wrap;
+			margin-top: 35px;
+		}
+		.erp-services-grid > [class*='col-'] {
+			display: flex;
+			flex-direction: column;
+		}
+		.erp-feature-card {
+			background: #ffffff;
+			border-radius: 12px;
+			border-top: 4px solid #0088cc;
+			padding: 28px 22px;
+			margin-bottom: 25px;
+			width: 100%;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+			transition: all 0.3s ease-in-out;
+		}
+		.erp-feature-card:hover {
+			transform: translateY(-6px);
+			box-shadow: 0 15px 30px rgba(0, 136, 204, 0.15);
+			border-top-color: #005580;
+		}
+		.erp-card-icon {
+			width: 52px;
+			height: 52px;
+			background: rgba(0, 136, 204, 0.08);
+			color: #0088cc;
+			border-radius: 50%;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 20px;
+			margin-bottom: 16px;
+			flex-shrink: 0;
+			transition: all 0.3s ease;
+		}
+		.erp-feature-card:hover .erp-card-icon {
+			background: #0088cc;
+			color: #ffffff;
+			transform: scale(1.1);
+		}
+		.erp-feature-card h3 {
+			font-size: 16px;
+			font-weight: 700;
+			color: #1e293b;
+			text-transform: uppercase;
+			letter-spacing: 0.5px;
+			margin-top: 0;
+			margin-bottom: 12px;
+			line-height: 1.4;
+			min-height: 44px;
+			display: flex;
+			align-items: center;
+		}
+		.erp-feature-card p {
+			font-size: 14px;
+			color: #475569;
+			line-height: 1.6;
+			margin-bottom: 0;
+			flex-grow: 1;
+		}
+	</style>
 
-			
+	<section class="section border-0 m-0" style="padding: 50px 0; background: #f8fafc;">
+		<div class="container">
+			<div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
+				<div class="col-md-7 col-sm-12">
+					<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+						Our ERP Distribution & <strong class="heading-primary" style="color: #0088cc;">Implementation Services</strong>
+					</h2>
+					<!-- <p class="lead" style="color: #0f172a; font-size: 18px; font-weight: 600; margin-bottom: 15px;">
+						ERP Software Distribution
+					</p> -->
+					<p style="color: #334155; font-size: 15px; margin-bottom: 15px;">
+						We provide access to the best ERP platforms globally, including solutions for:
+					</p>
+					<ul class="list list-icons list-primary" style="font-size: 15px; line-height: 1.8;">
+						<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Accounting & Finance</li>
+						<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Inventory & Supply Chain Management</li>
+						<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Retail & Point of Sale (POS)</li>
+						<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Manufacturing, Production & Assembly</li>
+						<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Banking & Financial Operations</li>
+						<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Restaurant & Hospitality Management</li>
+						<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Multi-Branch & Multi-Division Operations</li>
+					</ul>
+					<p style="color: #334155; font-size: 15px; margin-top: 15px; margin-bottom: 0;">
+						We guide you in choosing the platform that best fits your business model and operational goals.
+					</p>
 				</div>
-					<section class="section">
-    <div class="container">
+				<div class="col-md-5 col-sm-12 text-center" style="margin-top: 20px;">
+					<img class="img-responsive" src="../img/erp6.webp" alt="ERP Enterprise Solutions" style="max-height: 340px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+				</div>
+			</div>
 
-        <div class="row">
-            <div class="col-md-12">
-
-
-                <div class="row">
-                    <div class="col-md-8">
-
-                        <h2><strong class="heading-primary">Our ERP Distribution & Implementation Services</strong> </h2>
-                        <p class="lead" style="color:#000;">ERP Software Distribution</p>
-                        <p>We provide access to the best ERP platforms globally, including solutions for:</p>
-                        <ul class="list list-icons list-primary">
-                            <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-                                data-appear-animation="fadeInUp" data-appear-animation-delay="600" style="animation-delay: 600ms;">
-                                <i class="fa fa-caret-right left-10"></i>Accounting & Finance
-                            </li>
-                            <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-                                data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-                                <i class="fa fa-caret-right left-10"></i>Inventory & Supply Chain Management
-                            </li>
-                            <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-                                data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-                                <i class="fa fa-caret-right left-10"></i>Retail & Point of Sale (POS)
-                            </li>
-                            <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-                                data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-                                <i class="fa fa-caret-right left-10"></i>Manufacturing, Production & Assembly
-                            </li>
-                            <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-                                data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-                                <i class="fa fa-caret-right left-10"></i>Banking & Financial Operations
-                            </li>
-                            <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-                                data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-                                <i class="fa fa-caret-right left-10"></i>Restaurant & Hospitality Management
-                            </li>
-                            <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-                                data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-                                <i class="fa fa-caret-right left-10"></i>Multi-Branch & Multi-Division Operations
-                            </li>
-                        </ul>
-<br>
-                        <p>We guide you in choosing the platform that best fits your business model and operational goals.</p>
-                    </div>
-                    <div class="col-sm-4">
-                        <img class="img-responsive" src="../img/erp6.webp" alt="ERP Enterprise Solutions">
-                    </div>
-
-                </div>
-                <div class="row mt-4">
-                    <div class="col-sm-4">
-                        <div class="feature-box">
-                            <div class="feature-box-icon">
-                                <i class="fa fa-gear"></i>
-                            </div>
-                            <div class="feature-box-info">
-                                <h3 class="heading-primary mb-none">ERP Implementation & Customization </h3>
-                                <p class="tall">Our certified experts handle complete implementation, from setup and configuration to customization. Whether you require single-branch, multi-branch, or multi-division setups, our team ensures your ERP works exactly as your business requires.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-sm-4">
-                        <div class="feature-box">
-                            <div class="feature-box-icon">
-                                <i class="fa fa-link"></i>
-                            </div>
-                            <div class="feature-box-info">
-                                <h3 class="heading-primary mb-none">Integration with Existing Systems </h3>
-                                <p class="tall">We ensure smooth integration with your current software ecosystem, including CRM, accounting tools, legacy systems, and other enterprise applications — protecting your existing investments while modernizing your operations.</p>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="col-sm-4">
-                        <div class="feature-box">
-                            <div class="feature-box-icon">
-                                <i class="fa fa-graduation-cap"></i>
-                            </div>
-                            <div class="feature-box-info">
-                                <h3 class="heading-primary mb-none">Training & Support</h3>
-                                <p class="tall"> We provide structured corporate training for executives, managers, and end-users. Our support ensures your team can maximize the benefits of the ERP software, with ongoing assistance for updates, troubleshooting, and system optimization.</p>
-                            </div>
-                        </div>
-
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-	<div class="container">
-					<div class="row mb-xlg mt-xlg ">
-						<div class="col-sm-8">
-						<h2>Why Choose  
-   <strong class="heading-primary">MOSTECH </strong>for ERP Solutions?</h2>
-												
-                            <p class="heading-primary">
-                                <div class="row">
-                                    <div class="col-xs-12 col-md-12">
-                                        <ul class="list list-icons list-primary">
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-        data-appear-animation="fadeInUp" data-appear-animation-delay="600" style="animation-delay: 600ms;">
-        <i class="fa fa-caret-right left-10"></i>Trusted distributor of world-class ERP platforms
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-        data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Expert guidance in platform selection and deployment
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-        data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Seamless integration with existing enterprise systems
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-        data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Customization tailored to your workflows
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-        data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Comprehensive training and post-implementation support
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"
-        data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Scalable solutions designed for growth
-    </li>
-</ul>
-
-									
-										<p class="lead"  style="color:#000;">
-With MOSTECH, you don’t just get software — you get a strategic partner for digital transformation.					</p>
-							
+			<div class="row erp-services-grid">
+				<div class="col-md-4 col-sm-6">
+					<div class="erp-feature-card">
+						<div class="erp-card-icon">
+							<i class="fa fa-cogs"></i>
 						</div>
-					</div>			</div>
-                        <div class="col-sm-4">
-                            <img class="img-responsive mt-xlg" src="../img/mos-img5.webp" alt="ERP Software Implementation">
-                        </div>
+						<h3>ERP Implementation & Customization</h3>
+						<p>Our certified experts handle complete implementation, from setup and configuration to customization. Whether you require single-branch, multi-branch, or multi-division setups, our team ensures your ERP works exactly as your business requires.</p>
 					</div>
-					
+				</div>
 
-			 		</div>
+				<div class="col-md-4 col-sm-6">
+					<div class="erp-feature-card">
+						<div class="erp-card-icon">
+							<i class="fa fa-link"></i>
+						</div>
+						<h3>Integration with Existing Systems</h3>
+						<p>We ensure smooth integration with your current software ecosystem, including CRM, accounting tools, legacy systems, and other enterprise applications — protecting your existing investments while modernizing your operations.</p>
+					</div>
+				</div>
+
+				<div class="col-md-4 col-sm-6">
+					<div class="erp-feature-card">
+						<div class="erp-card-icon">
+							<i class="fa fa-graduation-cap"></i>
+						</div>
+						<h3>Training & Support</h3>
+						<p>We provide structured corporate training for executives, managers, and end-users. Our support ensures your team can maximize the benefits of the ERP software, with ongoing assistance for updates, troubleshooting, and system optimization.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<div class="container" style="margin-top: 40px; margin-bottom: 40px;">
+		<div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
+			<div class="col-md-7 col-sm-12">
+				<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 20px;">
+					Why Choose <strong class="heading-primary" style="color: #0088cc;">MOSTECH</strong> for ERP Solutions?
+				</h2>
+				<ul class="list list-icons list-primary" style="font-size: 15px; line-height: 1.8; margin-bottom: 20px;">
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Trusted distributor of world-class ERP platforms</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Expert guidance in platform selection and deployment</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Seamless integration with existing enterprise systems</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Customization tailored to your workflows</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Comprehensive training and post-implementation support</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Scalable solutions designed for growth</li>
+				</ul>
+				<p class="lead" style="color: #0f172a; font-size: 17px; font-weight: 600; line-height: 1.5; margin-bottom: 0;">
+					With MOSTECH, you don’t just get software — you get a strategic partner for digital transformation.
+				</p>
+			</div>
+			<div class="col-md-5 col-sm-12 text-center" style="margin-top: 15px;">
+				<img class="img-responsive" src="../img/mos-img5.webp" alt="ERP Software Implementation" style="max-height: 330px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+			</div>
+		</div>
+	</div>			 		</div>
 			 		
 			 		                <div class="container mt-4">
 
@@ -688,6 +703,7 @@ With MOSTECH, you don’t just get software — you get a strategic partner for 
 
 
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
 

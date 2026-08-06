@@ -358,6 +358,8 @@
 
                                                     </li>
 
+                                                    <li><a href="../about.php">ABOUT US</a></li>
+
                                                     <li class="dropdown">
 
                                                         <a class="dropdown-toggle" href="digital-marketing.php">
@@ -376,7 +378,6 @@
                                                             <li><a href="search-engine-optimization.php">SEARCH ENGINE OPTIMIZATION</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="../about.php">ABOUT US</a></li>
                                                     <li><a href="../contact.php">CONTACT US</a></li>
 
                                                     </li>
@@ -406,7 +407,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<h1>Grow Online with Digital Marketing <span class="mt-4">Search & Social Marketing</span></h1>
+								<h1>Digital Marketing <span class="mt-4"></span></h1>
 								<ul class="breadcrumb breadcrumb-valign-mid">
 									<li><a href="../index.php">Home</a></li>
 									<li class="active">Our Services</li>
@@ -439,6 +440,12 @@
     margin-top: 50px;
     margin-bottom: 20px;
     color: #0a1f44;
+}
+
+.mostech-digital-marketing {
+    background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
+    padding: 50px 0;
+    border-bottom: 1px solid #e2e8f0;
 }
 
 .mostech-digital-marketing p {
@@ -489,54 +496,59 @@
     color: #555;
 }
 
-.mostech-digital-marketing .dm-cta {
-    margin-top: 60px;
+.dm-cta {
+    margin-top: 35px;
     text-align: center;
 }
 
-.mostech-digital-marketing .dm-btn {
+.dm-btn {
     display: inline-block;
     padding: 14px 35px;
-    background: #fff;
-    color: #000;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: 0.3s;
+    background: #ffffff !important;
+    color: #1e293b !important;
+    border-radius: 8px;
+    text-decoration: none !important;
+    font-size: 16px;
+    font-weight: 700;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    transition: all 0.3s ease-in-out;
 }
 
-.mostech-digital-marketing .dm-btn:hover {
-    background: #1e3a8a;
-    color:#fff;
+.dm-btn:hover {
+    background: #0088cc !important;
+    color: #ffffff !important;
+    box-shadow: 0 8px 25px rgba(0,136,204,0.3);
+    transform: translateY(-2px);
 }
 </style>
 
 <section class="mostech-digital-marketing">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-8">
-        <h2><strong class="heading-primary">Digital Marketing Services </strong> in Dubai</h2>
-        <p class="dm-highlight" align="justify">
-            Grow visibility, engage audiences, and drive measurable business growth with strategic digital marketing solutions.
-        </p>
+        <div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
+            <div class="col-lg-8 col-md-7">
+				<h2><strong class="heading-primary">Digital Marketing Services in Dubai </strong> </h2>
+				<p class="dm-highlight" align="justify">
+					Grow visibility, engage audiences, and drive measurable business growth with strategic digital marketing solutions.
+				</p>
 
-        <p align="justify">
-            In today’s fast-paced digital landscape, having a strong online presence is essential for business success. 
-            At Mostech Business Solutions, we provide comprehensive digital marketing services designed to help brands 
-            increase visibility, attract qualified leads, and convert traffic into loyal customers.
-        </p>
+				<p align="justify">
+					In today’s fast-paced digital landscape, having a strong online presence is essential for business success. 
+					At Mostech Business Solutions, we provide comprehensive digital marketing services designed to help brands 
+					increase visibility, attract qualified leads, and convert traffic into loyal customers.
+				</p>
 
-        <p align="justify">
-            Our strategies combine creativity, technology, and data-driven insights to deliver performance-focused campaigns. 
-            Whether you are a startup, SME, or enterprise, we tailor every digital marketing plan to align with your 
-            business goals and target audience in Dubai and beyond.
-        </p>
+				<p align="justify">
+					Our strategies combine creativity, technology, and data-driven insights to deliver performance-focused campaigns. 
+					Whether you are a startup, SME, or enterprise, we tailor every digital marketing plan to align with your 
+					business goals and target audience in Dubai and beyond.
+				</p>
+			</div>
+			<div class="col-lg-4 col-md-5 text-center">
+				<img class="img-responsive" src="../img/marketing.webp" alt="Digital Marketing Strategy" style="margin: 0 auto; border-radius: 10px; box-shadow: 0 8px 25px rgba(0,0,0,0.08);">
+			</div>
         </div>
-         <div class="col-lg-4">
-             <img class="img-responsive" src="../img/digital-market2.webp" alt="Digital Marketing Strategy">
-             </div>
-        </div>
-        </div>
+    </div>
+</section>
 <style>
 				    .hire-section {
     position: relative;
@@ -589,184 +601,315 @@
                 </div>
               </section>
         
-<div class="container">
-    <div class="row">
-        <div class="col-md-12 center" style="margin-top:50px;">
-                               
-        <h2 class="mb-sm small">Our <strong class="heading-primary">Digital Marketing Services</strong> </h2>
-        </div>
-</div>
-<style>
-    .feature-icon {
-    width: 55px;
-    height: 55px;
-    border: 2px solid #3c388f;   /* Thin red border */
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: transparent;
-}
+	<style>
+		.dm-services-section {
+			background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
+			padding: 60px 0 50px 0;
+			border-top: 1px solid #e2e8f0;
+			border-bottom: 1px solid #e2e8f0;
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
+		.dm-services-grid {
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.dm-services-grid > [class*='col-'] {
+			display: flex;
+			flex-direction: column;
+		}
+		.dm-service-card {
+			background: #ffffff;
+			border-radius: 12px;
+			border-top: 4px solid #0088cc;
+			padding: 30px 22px;
+			margin-bottom: 30px;
+			width: 100%;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			text-align: center;
+			box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+			transition: all 0.3s ease-in-out;
+			position: relative;
+			overflow: hidden;
+		}
+		.dm-service-card:hover {
+			transform: translateY(-8px);
+			box-shadow: 0 15px 35px rgba(0, 136, 204, 0.15);
+			border-top-color: #005580;
+		}
+		.dm-service-card-icon {
+			width: 56px;
+			height: 56px;
+			background: rgba(0, 136, 204, 0.08);
+			color: #0088cc;
+			border-radius: 50%;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 22px;
+			margin-bottom: 18px;
+			transition: all 0.3s ease;
+			flex-shrink: 0;
+		}
+		.dm-service-card:hover .dm-service-card-icon {
+			background: #0088cc;
+			color: #ffffff;
+			transform: scale(1.1);
+		}
+		.dm-service-card h3 {
+			font-size: 15px;
+			font-weight: 700;
+			color: #1e293b;
+			text-transform: uppercase;
+			letter-spacing: 0.5px;
+			margin-top: 0;
+			margin-bottom: 12px;
+			line-height: 1.4;
+			min-height: 44px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 100%;
+		}
+		.dm-service-card p {
+			font-size: 14px;
+			color: #475569;
+			line-height: 1.6;
+			margin-bottom: 0;
+			flex-grow: 1;
+		}
+	</style>
 
-.feature-icon i {
-    font-size: 20px;
-    color: #8c8c8c;   /* Light grey icon */
-}
+	<section class="dm-services-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center mb-xlg">
+					<h2 class="heading-primary" style="font-size: 32px; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+						Our <strong style="color: #1e293b;">Digital Marketing Services</strong>
+					</h2>
+					<p class="lead" style="max-width: 750px; margin: 0 auto; color: #64748b; font-size: 16px;">
+						Data-driven digital marketing campaigns designed to expand your online reach, attract targeted leads, and maximize ROI.
+					</p>
+				</div>
+			</div>
 
-</style>
-    <div class="row">
+			<div class="row dm-services-grid">
+				<div class="col-md-4 col-sm-6">
+					<div class="dm-service-card">
+						<div class="dm-service-card-icon">
+							<i class="fa fa-search"></i>
+						</div>
+						<h3>Search Engine Optimization (SEO)</h3>
+						<p>Improve your organic rankings and drive high-quality traffic with ethical SEO strategies focused on long-term growth.</p>
+					</div>
+				</div>
 
-        <div class="dm-services">
+				<div class="col-md-4 col-sm-6">
+					<div class="dm-service-card">
+						<div class="dm-service-card-icon">
+							<i class="fa fa-bullhorn"></i>
+						</div>
+						<h3>Pay-Per-Click (PPC) Advertising</h3>
+						<p>Launch high-converting ad campaigns across Google and social platforms to generate immediate traffic and measurable ROI.</p>
+					</div>
+				</div>
 
-            <div class="dm-card">
-                <center><div class="feature-icon">
-                    <i class="fa fa-search"></i>                
-                </div>
-                </center>
-                <h3 class="mt-4">Search Engine Optimization (SEO)</h3>
-                <p align="justify">Improve your organic rankings and drive high-quality traffic with ethical SEO strategies focused on long-term growth.</p>
-            </div>
+				<div class="col-md-4 col-sm-6">
+					<div class="dm-service-card">
+						<div class="dm-service-card-icon">
+							<i class="fa fa-share-alt"></i>
+						</div>
+						<h3>Social Media Marketing</h3>
+						<p>Build brand awareness and customer engagement with creative campaigns tailored for modern social platforms.</p>
+					</div>
+				</div>
 
-            <div class="dm-card">
-                <center><div class="feature-icon">
-                    <i class="fa fa-money"></i>              
-                </div>
-                </center>
-                <h3 class="mt-4">Pay-Per-Click (PPC) Advertising</h3>
-                <p align="justify">Launch high-converting ad campaigns across Google and social platforms to generate immediate traffic and measurable ROI.</p>
-            </div>
+				<div class="col-md-4 col-sm-6">
+					<div class="dm-service-card">
+						<div class="dm-service-card-icon">
+							<i class="fa fa-pencil"></i>
+						</div>
+						<h3>Content Marketing</h3>
+						<p>Create impactful content including blogs, landing pages, and multimedia that strengthen your digital presence.</p>
+					</div>
+				</div>
 
-            <div class="dm-card">
-                <center><div class="feature-icon">
-                    <img src="../img/meta.webp" width="16" height="16" alt="image">               
-                </div>
-                </center>
-                <h3 class="mt-4">Social Media Marketing</h3>
-                <p align="justify">Build brand awareness and customer engagement with creative campaigns tailored for modern social platforms.</p>
-            </div>
+				<div class="col-md-4 col-sm-6">
+					<div class="dm-service-card">
+						<div class="dm-service-card-icon">
+							<i class="fa fa-map-marker"></i>
+						</div>
+						<h3>Local SEO & Geo-Targeting</h3>
+						<p>Enhance local search visibility and connect with customers in Dubai and across the UAE.</p>
+					</div>
+				</div>
 
-            <div class="dm-card">
-                 <center><div class="feature-icon">
-                    <i class="fa fa-pencil"></i>            
-                </div>
-                </center>
-                <h3 class="mt-4">Content Marketing</h3>
-                <p align="justify">Create impactful content including blogs, landing pages, and multimedia that strengthen your digital presence.</p>
-            </div>
-
-            <div class="dm-card">
-                <center><div class="feature-icon">
-                    <i class="fa fa-copy"></i>               
-                </div>
-                </center>
-                <h3 class="mt-4">Local SEO & Geo-Targeting</h3>
-                <p align="justify">Enhance local search visibility and connect with customers in Dubai and across the UAE.</p>
-            </div>
-
-            <div class="dm-card">
-                <center><div class="feature-icon">
-                                  <i class="fa fa-line-chart"></i>
-
-                </div>
-                </center>
-                <h3 class="mt-4">Analytics & Reporting</h3>
-                <p align="justify">Track performance with transparent reporting and actionable insights for continuous improvement.</p>
-            </div>
-</div>
-        </div>
-        </div>
+				<div class="col-md-4 col-sm-6">
+					<div class="dm-service-card">
+						<div class="dm-service-card-icon">
+							<i class="fa fa-line-chart"></i>
+						</div>
+						<h3>Analytics & Reporting</h3>
+						<p>Track performance with transparent reporting and actionable insights for continuous improvement.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
        
-<section class="section section-height-3 bg-color-grey m-0 border-0 pt-0 pb-0 custom-desktop-style mb-0">
-<div class="container">
-        <div class="row">
-        <div class="col-md-12 center">
-                               
-        <h2 class="mb-sm small">Our <strong class="heading-primary">Digital Marketing Approach</strong> </h2>
-        </div>
-</div>
-    <div class="col-md-12 col-lg-12 mt-4">
-                            <div class="row mb-4">
-                                <div class="col-xs-6 col-md-6 mb-4">
-                                    <div class="appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" data-appear-animation-delay="200">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">01</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Research & Strategy</h3>
-                                        <p class="mb-4" align="justify">Understanding your industry, competitors, and audience behavior.</p>
-                                    </div>
-                                </div>
-                                <div class="col-xs-6 col-md-6  mb-4">
-                                    <div class="appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">02</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Campaign Execution</h3>
-                                        <p class="mb-4" align="justify">Implementing creative and data-backed marketing campaigns.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xs-6 col-md-6  mb-4 mb-sm-0">
-                                    <div class="appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" data-appear-animation-delay="1000">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">03</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Optimization</h3>
-                                        <p class="mb-4" align="justify">Continuous monitoring and performance enhancement.</p>
-                                    </div>
-                                </div>
-                                <div class="col-xs-6 col-md-6 ">
-                                    <div class="appear-animation animated fadeInUp appear-animation-visible" data-appear-animation="fadeInUp" data-appear-animation-delay="1400">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">04</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Reporting</h3>
-                                        <p class="mb-4" align="justify">Providing detailed analytics to measure growth and ROI.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+	<style>
+		.dm-approach-section {
+			padding: 50px 0 40px 0;
+			background: #f8fafc;
+			border-top: 1px solid #e2e8f0;
+			border-bottom: 1px solid #e2e8f0;
+			margin-top: 20px;
+		}
+		.approach-grid {
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.approach-grid > [class*='col-'] {
+			display: flex;
+			flex-direction: column;
+		}
+		.approach-card {
+			background: #ffffff;
+			border-radius: 12px;
+			border: 1px solid #e2e8f0;
+			border-top: 3px solid #0088cc;
+			padding: 24px 18px;
+			margin-bottom: 20px;
+			width: 100%;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			text-align: center;
+			box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+			transition: all 0.3s ease;
+		}
+		.approach-card:hover {
+			transform: translateY(-5px);
+			box-shadow: 0 12px 25px rgba(0,136,204,0.12);
+			border-top-color: #005580;
+		}
+		.approach-number {
+			width: 44px;
+			height: 44px;
+			background: #0088cc;
+			color: #ffffff;
+			border-radius: 50%;
+			font-weight: 800;
+			font-size: 16px;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			margin-bottom: 14px;
+			box-shadow: 0 4px 12px rgba(0, 136, 204, 0.25);
+			flex-shrink: 0;
+		}
+		.approach-card h3 {
+			font-size: 15px;
+			font-weight: 700;
+			color: #1e293b;
+			text-transform: uppercase;
+			letter-spacing: 0.5px;
+			margin-top: 0;
+			margin-bottom: 10px;
+			line-height: 1.4;
+			min-height: 42px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 100%;
+		}
+		.approach-card p {
+			font-size: 13.5px;
+			color: #475569;
+			line-height: 1.5;
+			margin-bottom: 0;
+			flex-grow: 1;
+		}
+	</style>
 
-        </div>
-        </section>
-        <style>
-				    .choose-section {
-    position: relative;
-    background: url('../img/net-choose.avif') center center/cover no-repeat;
-    padding: 120px 20px;
-    color: #fff;
-    overflow: hidden;
-    margin-top:50px;
-}
+	<section class="dm-approach-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center mb-lg">
+					<h2 class="heading-primary" style="font-size: 28px; font-weight: 800; color: #1e293b; margin-bottom: 8px;">
+						Our <strong style="color: #1e293b;">Digital Marketing Approach</strong>
+					</h2>
+					<p style="color: #64748b; font-size: 15px; margin-bottom: 25px;">A proven step-by-step methodology to achieve measurable business growth.</p>
+				</div>
+			</div>
 
-/* Dark overlay */
-.choose-section .overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.65);
-}
+			<div class="row approach-grid">
+				<div class="col-md-3 col-sm-6">
+					<div class="approach-card">
+						<div class="approach-number">01</div>
+						<h3>Research & Strategy</h3>
+						<p>It starts by comprehending the business objectives, target customers, and competition. By doing extensive research and analyzing keywords, we tailor a marketing strategy for your business to ensure maximum online visibility and ultimately business growth.</p>
+					</div>
+				</div>
 
-/* Content */
-.choose-content {
-    position: relative;
-    z-index: 2;
-}
+				<div class="col-md-3 col-sm-6">
+					<div class="approach-card">
+						<div class="approach-number">02</div>
+						<h3>Campaign Execution</h3>
+						<p>Our digital marketing specialists design campaigns which are specifically made through SEO, Google Ads, social media marketing, content marketing, and performance marketing. Each of these campaigns is planned and deployed in a way that ensures it reaches the targeted audience.</p>
+					</div>
+				</div>
 
-				</style>
-        <section class="choose-section mt-0">
-			        <div class="overlay"></div>
-	
-				 <div class="container mt-4 choose-content">
+				<div class="col-md-3 col-sm-6">
+					<div class="approach-card">
+						<div class="approach-number">03</div>
+						<h3>Optimization</h3>
+						<p>Improvement is essential for digital marketing efforts. We analyze campaign results, optimize our keywords, enhance our ad targeting, improve content strategies, and improve website performance in order to generate more traffic, leads, and ROI.</p>
+					</div>
+				</div>
 
-                    <div class="row">
+				<div class="col-md-3 col-sm-6">
+					<div class="approach-card">
+						<div class="approach-number">04</div>
+						<h3>Reporting</h3>
+						<p>Transparency is central to the entire process. We have performance reports that include in-depth analysis of traffic, ranking, conversion, and campaign success. By using real-time data, we will be able to fine-tune our approach for the continued growth of your business.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<style>
+		.dm-why-choose-section {
+			padding: 60px 0;
+			background: #ffffff;
+			border-top: 1px solid #e2e8f0;
+			margin-top: 30px;
+		}
+	</style>
 
-                        <div class="col-md-12">
-                             <center><h2 class="mb-sm small" style="color:#fff;">Why Choose<strong class=""> Mostech?</strong> </h2></center>
-                                </div>
-                        
-                                <p align="center"  style="color:#fff;">
-                                    We combine global expertise with local market knowledge to deliver scalable, high-performance marketing strategies. 
-                                    Our team is dedicated to building long-term partnerships and helping businesses achieve sustainable digital growth.
-                                </p>
-                            </div>
-                            </div>
-                            </div>
-    </section>
+	<section class="dm-why-choose-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h2 class="heading-primary" style="font-size: 32px; font-weight: 800; color: #1e293b; margin-bottom: 20px;">
+						Why Choose <strong style="color: #1e293b;">Mostech?</strong>
+					</h2>
+					<div style="max-width: 900px; margin: 0 auto; text-align: justify; color: #334155; font-size: 15px; line-height: 1.8;">
+						<p style="color: #334155; font-size: 15.5px; line-height: 1.8; margin-bottom: 16px;">
+							<a href="../index.php" style="color: #0088cc; font-weight: 600; text-decoration: underline;">Mostech Business Solutions</a> offers you full digital marketing services that will make your business stand out by creating awareness, attracting quality leads and making sure that your business grows sustainably. We have experts in data-based approaches, creative ideas, and marketing technologies to make sure your business finds its audience in an effective way.
+						</p>
+						<p style="color: #334155; font-size: 15.5px; line-height: 1.8; margin-bottom: 0;">
+							Every business has different objectives. We tailor our marketing approaches and technologies depending on your industry, competition, and target market. We offer our clients a variety of marketing services such as SEO, PPC advertising, social media marketing, content marketing, email campaigns, and conversion rate optimization.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
         
 </section>
 <!-- Digital Marketing Full Section End -->
@@ -823,6 +966,7 @@
 
 
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
 

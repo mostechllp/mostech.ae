@@ -359,6 +359,8 @@
 
                                                     </li>
 
+                                                    <li><a href="../about.php">ABOUT US</a></li>
+
                                                     <li class="dropdown">
 
                                                         <a class="dropdown-toggle" href="web-design-development.php">
@@ -377,10 +379,8 @@
                                                             <li><a href="search-engine-optimization.php">SEARCH ENGINE OPTIMIZATION</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="../about.php">ABOUT US</a></li>
-                                                    <li><a href="../contact.php">CONTACT US</a></li>
 
-                                                    </li>
+                                                    <li><a href="../contact.php">CONTACT US</a></li>
 
                                                 </ul>
 
@@ -407,7 +407,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<h1>Web Solutions Focused on Users and Usability<span class="mt-4">Seamless Web Experience</span></h1>
+								<h1>Web Development & Design<span class="mt-4"></span></h1>
 								<ul class="breadcrumb breadcrumb-valign-mid">
 									<li><a href="../index.php">Home</a></li>
 									<li class="active">Our Services</li>
@@ -421,145 +421,223 @@
 				
 
 
-			<div class="container">
-					<div class="row mb-xlg">
-						<div class="col-sm-7">
-						<h2><strong class="heading-primary">Strategic Web Solutions  </strong> Built for Growth</h2>
-								
-							
-							<p class="mt-xlg" align="justify">
-								At Mostech, we design and develop web solutions that are intuitive, efficient, and built around real user behavior. Our web applications and websites are engineered to deliver seamless digital experiences while helping businesses operate faster, smarter, and more efficiently. We focus on usability, performance, and scalability — ensuring every interaction feels seamless for users and powerful for businesses.
-							</p>
-							<p style="color:#000;">We deliver end-to-end web solutions that combine strategy, design, and technology to create impactful digital products.</p>
-							  <ul class="list list-icons list-primary">
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="600" style="animation-delay: 600ms;"><i class="fa fa-caret-right left-10"></i>Custom Web Application Development</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i>Corporate Website Development</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i>Web Portal & Dashboard Development</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i> eCommerce Platform Development</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i> UI/UX Design & Optimization</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i>Cloud-Integrated, API-Driven Web Solutions</li>
-									</ul>
-									<p>Whether it’s a simple business website or a complex web platform, we build solutions that are secure, scalable, and future-ready.</p>
+	<!-- 1. Strategic Web Solutions Built for Growth -->
+	<div class="container" style="padding-top: 40px; padding-bottom: 40px;">
+		<div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
+			<div class="col-md-7 col-sm-12">
+				<h2><strong class="heading-primary">Strategic Web Solutions Built for Growth</strong> </h2>
+				<p align="justify" style="color: #334155; font-size: 15px; line-height: 1.8;">
+					At Mostech, we design and develop web solutions that are intuitive, efficient, and built around real user behavior. Our web applications and websites are engineered to deliver seamless digital experiences while helping businesses operate faster, smarter, and more efficiently. We focus on usability, performance, and scalability — ensuring every interaction feels seamless for users and powerful for businesses.
+				</p>
+				<p style="color: #0f172a; font-weight: 600; font-size: 16px; margin-bottom: 15px;">
+					We deliver end-to-end web solutions that combine strategy, design, and technology to create impactful digital products.
+				</p>
+				<ul class="list list-icons list-primary" style="font-size: 15px; line-height: 1.8; margin-bottom: 15px;">
+					<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Custom Web Application Development</li>
+					<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Corporate Website Development</li>
+					<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Web Portal & Dashboard Development</li>
+					<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>eCommerce Platform Development</li>
+					<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>UI/UX Design & Optimization</li>
+					<li style="margin-bottom: 6px;"><i class="fa fa-caret-right left-10"></i>Cloud-Integrated, API-Driven Web Solutions</li>
+				</ul>
+				<p style="color: #334155; font-size: 15px;">Whether it’s a simple business website or a complex web platform, we build solutions that are secure, scalable, and future-ready.</p>
+			</div>
+			<div class="col-md-5 col-sm-12 text-center" style="margin-top: 15px;">
+				<img class="img-responsive" src="../img/webb.webp" alt="Web Design and Development Services" style="max-height: 350px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+			</div>
+		</div>
+	</div>
+
+	<!-- 2. Why Web Applications Matter -->
+	<section class="section border-0 m-0" style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); padding: 50px 0;">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-md-10 col-md-offset-1">
+					<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 15px;">
+						Why <strong class="heading-primary" style="color: #0088cc;">Web Applications Matter</strong>
+					</h2>
+					<p style="color: #334155; font-size: 16px; line-height: 1.8; margin-bottom: 0;" align="center">
+						The purpose of web application development is to make processes easier, faster, and more manageable — not just for businesses, but for users as well. Every business has unique workflows and challenges. That’s why custom web application development plays a critical role in improving productivity, performance, and operational efficiency. These tailored solutions are built to match exact business needs, resulting in better outcomes and measurable growth.
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<style>
+		@media (min-width: 992px) {
+			.flex-row-reverse-desktop {
+				flex-direction: row-reverse !important;
+			}
+		}
+		@media (max-width: 991px) {
+			.web-feature-row {
+				display: block !important;
+			}
+			.web-feature-row > [class*='col-'] {
+				width: 100% !important;
+			}
+			.web-feature-row img {
+				margin-top: 20px !important;
+				margin-bottom: 30px !important;
+			}
+			p[align="justify"] {
+				text-align: left !important;
+			}
+		}
+		@media (max-width: 767px) {
+			.container {
+				padding-left: 20px !important;
+				padding-right: 20px !important;
+			}
+		}
+	</style>
+
+	<!-- 3. Why Choose Mostech for Web Development? -->
+	<div class="container" style="margin-top: 50px; margin-bottom: 50px;">
+		<div class="row web-feature-row flex-row-reverse-desktop" style="display: flex; align-items: center; flex-wrap: wrap;">
+			<div class="col-md-7 col-sm-12">
+				<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 15px;">
+					Why Choose <strong class="heading-primary" style="color: #0088cc;">Mostech</strong> for Web Development?
+				</h2>
+				<p style="color: #334155; font-size: 15.5px; line-height: 1.8; margin-bottom: 15px;">
+					We create web solutions that stand out — not just visually, but functionally. Our designs are clean, modern, and conversion-focused, while our development approach ensures speed, security, and long-term scalability. From corporate websites and web portals to advanced e-commerce platforms, we bring ideas to life with precision and purpose.
+				</p>
+				<p style="color: #0f172a; font-weight: 600; font-size: 16px; margin-bottom: 12px;">At Mostech, every web solution is:</p>
+				<ul class="list list-icons list-primary" style="font-size: 15px; line-height: 1.8;">
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>User-friendly and easy to use</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Performance-optimized and responsive</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Secure, scalable, and maintainable</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Designed for real business impact</li>
+				</ul>
+			</div>
+			<div class="col-md-5 col-sm-12 text-center" style="margin-bottom: 20px;">
+				<img class="img-responsive" src="../img/web-design.webp" alt="Custom Web Design Dubai" style="max-height: 330px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+			</div>
+		</div>
+	</div>
+
+	<!-- 4. Benefits of Custom Web Applications -->
+	<style>
+		.web-benefits-grid {
+			display: flex;
+			flex-wrap: wrap;
+			margin-top: 35px;
+		}
+		.web-benefits-grid > [class*='col-'] {
+			display: flex;
+			flex-direction: column;
+		}
+		.web-benefit-card {
+			background: #ffffff;
+			border-radius: 12px;
+			border-top: 4px solid #0088cc;
+			padding: 28px 22px;
+			margin-bottom: 25px;
+			width: 100%;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+			transition: all 0.3s ease-in-out;
+		}
+		.web-benefit-card:hover {
+			transform: translateY(-6px);
+			box-shadow: 0 15px 30px rgba(0, 136, 204, 0.15);
+			border-top-color: #005580;
+		}
+		.web-benefit-icon {
+			width: 50px;
+			height: 50px;
+			background: rgba(0, 136, 204, 0.08);
+			color: #0088cc;
+			border-radius: 50%;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 20px;
+			margin-bottom: 16px;
+			flex-shrink: 0;
+			transition: all 0.3s ease;
+		}
+		.web-benefit-card:hover .web-benefit-icon {
+			background: #0088cc;
+			color: #ffffff;
+			transform: scale(1.1);
+		}
+		.web-benefit-card h5 {
+			font-size: 16px;
+			font-weight: 700;
+			color: #1e293b;
+			margin-top: 0;
+			margin-bottom: 12px;
+			line-height: 1.4;
+			min-height: 44px;
+			display: flex;
+			align-items: center;
+		}
+		.web-benefit-card p {
+			font-size: 14px;
+			color: #475569;
+			line-height: 1.6;
+			margin-bottom: 0;
+			flex-grow: 1;
+		}
+	</style>
+
+	<section class="section border-0 m-0" style="padding: 50px 0; background: #f8fafc;">
+		<div class="container">
+			<div class="row text-center mb-md">
+				<div class="col-md-12">
+					<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+						Benefits of <strong class="heading-primary" style="color: #0088cc;">Custom Web Applications</strong>
+					</h2>
+				</div>
+			</div>
+
+			<div class="row web-benefits-grid">
+				<div class="col-md-3 col-sm-6">
+					<div class="web-benefit-card">
+						<div class="web-benefit-icon">
+							<i class="fa fa-line-chart"></i>
 						</div>
-						<div class="col-sm-4 col-sm-offset-1 mt-xlg">
-							<img class="img-responsive mt-xlg" src="../img/webb.webp" alt="Web Design and Development Services">
-						</div>
-					</div>			</div>
-					
-				
-                
-                <div class="container mt-4">
-
-                    <div class="row" style="text-align:center;">
-                        <div class="col-md-12">
-
-                            <h2 class="heading-primary">
-                                <font color="#020c4c">  <strong>Why Web Applications Matter</strong></font>
-                            </h2>
-
-
-<p style="color:#000;">The purpose of web application development is to make processes easier, faster, and more manageable — not just for businesses, but for users as well. Every business has unique workflows and challenges. That’s why custom web application development plays a critical role in improving productivity, performance, and operational efficiency. These tailored solutions are built to match exact business needs, resulting in better outcomes and measurable growth.
-</p>
-                           
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-						 	<div class="container">
-					<div class="row mb-xlg mt-xlg ">
-						<div class="col-sm-8">
-						<h2>Why Choose  
-   <strong class="heading-primary">Mostech  </strong>for Web Development?</h2>
-						
-							<p class="mt-xlg" style="color:#000;">
-								We create web solutions that stand out — not just visually, but functionally. Our designs are clean, modern, and conversion-focused, while our development approach ensures speed, security, and long-term scalability. From corporate websites and web portals to advanced e-commerce platforms, we bring ideas to life with precision and purpose.
-
-							</p>
-							<p style="color:#000;">At Mostech, every web solution is:</p>
-                            <p class="heading-primary">
-                                <div class="row">
-                                    <div class="col-xs-12 col-md-12">
-                                        <ul class="list list-icons list-primary">
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="600" style="animation-delay: 600ms;"><i class="fa fa-caret-right left-10"></i>User-friendly and easy to use</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i> Performance-optimized and responsive</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i>Secure, scalable, and maintainable</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i> Designed for real business impact</li>
-									</ul>
-							
-						</div>
-					</div>			</div>
-                        <div class="col-sm-4">
-                            <img class="img-responsive mt-xlg" src="../img/web-design.webp" alt="Custom Web Design Dubai">
-                        </div>
+						<h5>Makes Business More Efficient</h5>
+						<p>Custom web applications streamline operations, reduce manual work, and improve overall productivity — helping businesses operate smarter and faster.</p>
 					</div>
-					
+				</div>
 
-			 		</div>
-			 		
-			 		<section class="section mb-0">
-				
-
-				<div class="container">
-				
-					<div class="row">
-						<div class="col-md-12">
-						    <h2 class="heading-primary" style="text-align:center;">
-                                <font color="#020c4c">  <strong>Benefits of Custom Web Applications</strong></font>
-                            </h2>
-							<div class="row">
-								<div class="col-12 col-lg-4">
-									<div class="feature-box">
-										
-										<div class="">
-											<h5 class="heading-primary mb-none">Makes Business More Efficient</h5>
-											<p class="tall" align="justify">Custom web applications streamline operations, reduce manual work, and improve overall productivity — helping businesses operate smarter and faster.</p>
-										</div>
-									</div>
-									<div class="feature-box">
-									
-										<div class="">
-											<h5 class="heading-primary mb-none">Makes Daily Work Easier</h5>
-											<p class="tall" align="justify">Automate routine tasks, simplify workflows, and enable teams to focus on higher-value activities with agile, easy-to-use web applications.</p>
-										</div>
-									</div>
-					
-								</div>
-								
-								<div class="col-12 col-lg-4">
-							<img class="img-responsive" src="../img/1.gif" alt="Web Development Process">
+				<div class="col-md-3 col-sm-6">
+					<div class="web-benefit-card">
+						<div class="web-benefit-icon">
+							<i class="fa fa-check-square-o"></i>
 						</div>
-							
-							
-						
-								
-								<div class="col-12 col-lg-4">
-									<div class="feature-box">
-										
-										
-										<div class="">
-											<h5 class="heading-primary mb-none">Reduces Operational Costs</h5>
-											<p class="tall" align="justify"> By automating processes and improving efficiency, custom web apps help reduce dependency on manual resources and lower long-term operational expenses.</p>
-										</div>
-									</div>
-									<div class="feature-box">
-									
-									
-										<div class="">
-											<h5 class="heading-primary mb-none">Improves Client and Business Collaboration</h5>
-											<p class="tall" align="justify">Custom web applications enable smooth, real-time communication between businesses and clients — building transparency, trust, and stronger relationships.</p>
-										</div>
-									</div>
-							
-								</div>
-							</div>
-						</div>
-						
+						<h5>Makes Daily Work Easier</h5>
+						<p>Automate routine tasks, simplify workflows, and enable teams to focus on higher-value activities with agile, easy-to-use web applications.</p>
 					</div>
+				</div>
 
-		</section>
+				<div class="col-md-3 col-sm-6">
+					<div class="web-benefit-card">
+						<div class="web-benefit-icon">
+							<i class="fa fa-money"></i>
+						</div>
+						<h5>Reduces Operational Costs</h5>
+						<p>By automating processes and improving efficiency, custom web apps help reduce dependency on manual resources and lower long-term operational expenses.</p>
+					</div>
+				</div>
+
+				<div class="col-md-3 col-sm-6">
+					<div class="web-benefit-card">
+						<div class="web-benefit-icon">
+							<i class="fa fa-users"></i>
+						</div>
+						<h5>Improves Client & Business Collaboration</h5>
+						<p>Custom web applications enable smooth, real-time communication between businesses and clients — building transparency, trust, and stronger relationships.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 		<style>
 				    .hire-section {
     position: relative;
@@ -695,6 +773,7 @@
 
 
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
 

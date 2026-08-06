@@ -351,6 +351,8 @@
 
 													</li>
 
+													<li><a href="about.php">ABOUT US</a></li>
+
 													<li class="dropdown">
 
 														<a class="dropdown-toggle" href="services/web-design-development.php">
@@ -373,8 +375,6 @@
 														<li><a href="ecommerce-development.php">ECOMMERCE</a></li>
 
 														<li><a href="erp-solutions.php">ERP SOLUTION</a></li>
-
-														<li><a href="about.php">ABOUT US</a></li>
 
 														<li><a href="contact.php">CONTACT US</a></li>
 

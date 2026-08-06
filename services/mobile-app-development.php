@@ -379,6 +379,8 @@
 
                                                     </li>
 
+                                                    <li><a href="../about.php">ABOUT US</a></li>
+
                                                     <li class="dropdown">
 
                                                         <a class="dropdown-toggle" href="mobile-app-development.php">
@@ -397,10 +399,8 @@
                                                             <li><a href="search-engine-optimization.php">SEARCH ENGINE OPTIMIZATION</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="../about.php">ABOUT US</a></li>
-                                                    <li><a href="../contact.php">CONTACT US</a></li>
 
-                                                    </li>
+                                                    <li><a href="../contact.php">CONTACT US</a></li>
 
                                                 </ul>
 
@@ -429,11 +429,11 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<h1>Cross-Platform Mobile App Development   <span class="mt-4"> That Drives Growth</span></h1>
+								<h1>Mobile App Development   <span class="mt-4"></span></h1>
 								<ul class="breadcrumb breadcrumb-valign-mid">
 									<li><a href="../index.php">Home</a></li>
 									<li class="active">Our Services</li>
-									<li class="active">Build Apps for Any Platform </li>
+									<li class="active">Mobile App Development</li>
 								</ul>
 							</div>
 						</div>
@@ -443,31 +443,32 @@
 
 
 		
-			<div class="container">
-					<div class="row mb-xlg">
-						<div class="col-sm-7">
-						<h2><strong class="heading-primary">MOBILE APP DEVELOPMENT  </strong> EXPERTS</h2>
-												
-							<p class="lead"  style="color:#000;">
-								We Design. Build. Scale. Powerful Mobile Apps. 
+			<section class="section section-no-border bg-color-light m-0" style="padding: 45px 0;">
+				<div class="container">
+					<div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
+						<div class="col-md-7 col-sm-12">
+							<!-- <span class="badge badge-primary" style="background-color: #0088cc; font-size: 11px; padding: 6px 14px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 700; border-radius: 4px; display: inline-block; margin-bottom: 12px;">Mobile App Experts</span> -->
+							<h2 style="font-size: 32px; font-weight: 800; color: #1e293b; margin-bottom: 15px; line-height: 1.2;">
+								Mobile App <strong class="heading-primary" style="color: #0088cc;">Development Experts</strong>
+							</h2>
+							<p class="lead" style="color: #0f172a; font-weight: 600; font-size: 18px; line-height: 1.5; margin-bottom: 15px;">
+								We Design. Develop. Launch. Apps That Drive Business Growth.
 							</p>
-							<p class="mt-xlg" align="justify"  style="color:#000;">
-								 From everyday consumer apps to complex enterprise solutions, mobile applications are the 
-backbone of modern digital businesses. At Mostech, we transform ideas into high-performance mobile apps that are secure, scalable, and built for long-term success.</p>
-							<p class="mt-xlg" align="justify"  style="color:#000;">
-We create mobile applications that deliver seamless user experiences, robust functionality, and 
-future-ready technology.
+							<p style="color: #334155; font-size: 15px; line-height: 1.7; margin-bottom: 0; text-align: justify;">
+								At Mostech Business Solutions, we build innovative mobile applications that help businesses connect with customers, improve operations, and accelerate digital growth. Our expert team develops secure, scalable, and high-performance Android, iOS, and cross-platform apps tailored to your unique business needs.
 							</p>
 						</div>
-						<div class="col-sm-4 col-sm-offset-1 mt-xlg">
-							<img class="img-responsive mt-xlg" src="../img/mob1.webp" alt="Mobile App Development Dubai">
+						<div class="col-md-5 col-sm-12 text-center" style="margin-top: 15px;">
+							<img class="img-responsive" src="../img/mobileapp.webp" alt="Mobile App Development Dubai" style="max-height: 320px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
 						</div>
-					</div>			</div>
+					</div>
+				</div>
+			</section>
 					<section class="section section-height-3 bg-color-grey m-0 border-0 pt-0 pb-0 custom-desktop-style">
 					<div class="container">
 									<div class="row">
 									    <div class="col-md-12">
-									        <h2><strong class="heading-primary">End-to-End Mobile App Development </strong> Services</h2>
+									        <h2><strong class="heading-primary">End-to-End Mobile App Development Services</strong> </h2>
 												
 							<p style="color:#000;">
 							At Mostech, we provide complete mobile app development services — from concept and 
@@ -531,111 +532,209 @@ and iOS using modern frameworks.</p>
 	 </style>
 	 <section class="web-agency-section">
 	 	<div class="container">
-					<div class="row mb-xlg mt-xlg ">
-						<div class="col-sm-12" style="text-align:center;">
-						<h2>Why Choose 
-   <strong class="heading-primary">Mostech? </strong></h2>
-												
-							<p class="lead"  style="color:#000;">
-								We don’t just build apps — we build <strong>digital products that grow businesses. </strong>
-							</p>
-							<p class="mt-xlg" style="color:#000;">
-								 Our process begins with understanding your business goals, users, and market. Our experienced 
-mobile app developers then translate that insight into powerful applications that are efficient, 
-scalable, and user-focused. 
+					<div class="row mb-xlg mt-xlg">
+						<div class="col-sm-12">
+							<h2 class="text-center"> <strong class="heading-primary">Why Choose Mostech?</strong></h2>
+							<div class="mt-xlg" style="color:#000; max-width: 950px; margin-left: auto; margin-right: auto;">
+								<ul class="list list-icons list-primary" style="font-size: 15px; line-height: 1.8;">
+									<li style="margin-bottom: 12px;"><i class="fa fa-caret-right left-10"></i><strong>Customized Solutions :</strong> We know that no two businesses are alike and provide custom solutions to meet individual requirements of our clients.</li>
+									<li style="margin-bottom: 12px;"><i class="fa fa-caret-right left-10"></i><strong>User Centered Design :</strong> Our team at Mostech ensures to design engaging, visually appealing, and user-friendly interfaces which connect well with the target audience.</li>
+									<li style="margin-bottom: 12px;"><i class="fa fa-caret-right left-10"></i><strong>Full Service Development :</strong> We offer complete development services for a project starting from analysis to testing. This way our approach to planning and execution is ensured to be comprehensive.</li>
+									<li style="margin-bottom: 12px;"><i class="fa fa-caret-right left-10"></i><strong>Skills :</strong> We possess expert mobile app developers having years of experience in developing mobile apps. They are familiar with using the latest technologies to develop efficient apps.</li>
+									<li style="margin-bottom: 12px;"><i class="fa fa-caret-right left-10"></i><strong>Quality Assurance & Support :</strong> Our quality assurance team makes sure to test the app properly before releasing it to ensure there are no issues with the app. We conduct strict security tests for the protection of user data. Once the app goes live, we offer you support and maintenance services.</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+			</div>
+	</section>		
+	<style>
+		.app-experts-section {
+			background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
+			padding: 60px 0 50px 0;
+			border-top: 1px solid #e2e8f0;
+			border-bottom: 1px solid #e2e8f0;
+			margin-top: 30px;
+			margin-bottom: 30px;
+		}
+		.app-experts-grid {
+			display: flex;
+			flex-wrap: wrap;
+		}
+		.app-experts-grid > [class*='col-'] {
+			display: flex;
+			flex-direction: column;
+		}
+		.expert-card {
+			background: #ffffff;
+			border-radius: 12px;
+			border-top: 4px solid #0088cc;
+			padding: 28px 20px;
+			margin-bottom: 30px;
+			width: 100%;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			text-align: center;
+			box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+			transition: all 0.3s ease-in-out;
+			position: relative;
+			overflow: hidden;
+		}
+		.expert-card:hover {
+			transform: translateY(-8px);
+			box-shadow: 0 15px 35px rgba(0, 136, 204, 0.15);
+			border-top-color: #005580;
+		}
+		.expert-card-icon {
+			width: 54px;
+			height: 54px;
+			background: rgba(0, 136, 204, 0.08);
+			color: #0088cc;
+			border-radius: 50%;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 22px;
+			margin-bottom: 16px;
+			transition: all 0.3s ease;
+			flex-shrink: 0;
+		}
+		.expert-card:hover .expert-card-icon {
+			background: #0088cc;
+			color: #ffffff;
+			transform: scale(1.1);
+		}
+		.expert-card h3 {
+			font-size: 15px;
+			font-weight: 700;
+			color: #1e293b;
+			text-transform: uppercase;
+			letter-spacing: 0.5px;
+			margin-top: 0;
+			margin-bottom: 12px;
+			line-height: 1.4;
+			min-height: 44px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 100%;
+		}
+		.expert-card p {
+			font-size: 13.5px;
+			color: #475569;
+			line-height: 1.6;
+			margin-bottom: 0;
+			flex-grow: 1;
+		}
+	</style>
 
+	<section class="app-experts-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center mb-xlg">
+					<h2 class="heading-primary" style="font-size: 32px; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+						What Makes Our <strong style="color: #1e293b;">App Experts Special?</strong>
+					</h2>
+					<p class="lead" style="max-width: 750px; margin: 0 auto; color: #64748b; font-size: 16px;">
+						We deliver powerful, secure, and user-centric mobile applications crafted with industry-best practices.
+					</p>
+				</div>
+			</div>
+
+			<div class="row app-experts-grid">
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-shield"></i>
+						</div>
+						<h3>Advanced Data Security</h3>
+						<p>End-to-end security with secure coding, encrypted data, and protected API integrations.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-mobile"></i>
+						</div>
+						<h3>Full Device Compatibility</h3>
+						<p>Flexible and responsive layouts that adapt perfectly to all mobile devices and screen sizes.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-paint-brush"></i>
+						</div>
+						<h3>High-Impact UI/UX Design</h3>
+						<p>User-centric designs that improve engagement, retention, and overall app usability.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-wifi"></i>
+						</div>
+						<h3>IoT-Enabled Mobile Applications</h3>
+						<p>Smart apps that connect and control IoT-enabled devices with real-time data interaction.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-code"></i>
+						</div>
+						<h3>Custom Mobile App Development</h3>
+						<p>Tailor-made solutions built with custom modules to meet your exact business requirements.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-cloud"></i>
+						</div>
+						<h3>Cloud Integration</h3>
+						<p>Cloud-native applications offering better performance, reliability, scalability, and security.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-globe"></i>
+						</div>
+						<h3>Multi-Language & Multi-Currency Support</h3>
+						<p>Applications built for global audiences with localization and regional adaptability.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="expert-card">
+						<div class="expert-card-icon">
+							<i class="fa fa-rocket"></i>
+						</div>
+						<h3>Scalable & Future-Ready Solutions</h3>
+						<p>Apps designed with flexible architecture to scale effortlessly as your business grows.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+				
+				<hr class="tall">
+				<div class="container mt-xlg mb-xlg">
+					<div class="row">
+						<div class="col-md-12">
+							<h2 class="text-center">Explore <strong class="heading-primary">Mobile App Development</strong> Services</h2>
+							<p class="mt-lg" style="color:#000; font-size: 15px; line-height: 1.7;">
+								In the current times, having a mobile application is vital in helping increase customer engagement, business effectiveness, and growth. With a well-developed mobile application, a business can maintain its competitiveness while at the same time ensuring a great experience for its users.
+							</p>
+							<p style="color:#000; font-size: 15px; line-height: 1.7;">
+								<a href="../index.php" style="color: #0088cc; font-weight: 600; text-decoration: underline;">Mostech Business Solutions</a> provides mobile app development services for various platforms, including Android, iOS, and cross-platform applications built using the latest technology such as Flutter.
 							</p>
 						</div>
-					</div>			</div>
-			</section>		
-					<hr class="tall">
-      			
-				<div class="container">
-					<div class="row">
-					
-						<div class="col-md-12 center">
-							<h2 class="mb-sm small">What Makes Our 
- <strong class="heading-primary">App Experts Special?  </strong></h2>
-							<!--<p align="center">Our team will evaluate and analyse the business and customers of our clients before starting the mobile app development process. And our proven android and iOS mobile app developers deliver the products that exactly required for our clients.</p>-->
-						</div>
-				
-	
-						<div class="featured-boxes featured-boxes-flat">
-						<div class="row">
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-										<h3> Advanced Data Security</h3>
-										<p>Secure coding standards, encrypted data handling, and safe API integrations to protect your users and systems.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-										<h3>Full Device Compatibility </h3>
-										<p>Flexible and responsive layouts that adapt perfectly to all mobile devices and screen sizes.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-									<h3>High-Impact UI/UX Design</h3>
-										<p>User-centric designs that improve engagement, retention, and overall app usability.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-										<h3>IoT-Enabled Mobile Applications</h3>
-										<p>Smart apps that connect and control IoT-enabled devices with real-time data interaction. </p>
-									</div>
-								</div>
-							</div>
-						</div>
 					</div>
-					<div class="featured-boxes featured-boxes-flat">
-						<div class="row">
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-										<h3>Custom Mobile App Development</h3>
-										<p>Tailor-made solutions built with custom modules to meet your exact business requirements.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-										<h3>Cloud Integration</h3>
-										<p>Cloud-native applications offering better performance, reliability, scalability, and security.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-										<h3>Multi-Language & Multi-Currency Support</h3>
-										<p>Applications built for global audiences with localization and regional adaptability.</p>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6">
-								<div class="featured-box featured-box-primary featured-box-effect-2">
-									<div class="box-content">
-										<h3>Scalable & Future-Ready Solutions</h3>
-										<p>Apps designed with flexible architecture to scale effortlessly as your business grows. </p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				
-					</div>
-					
 				</div>
+				
 				<style>
 				    .hire-section {
     position: relative;
@@ -780,6 +879,7 @@ scalable, and user-focused.
 
 
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
 

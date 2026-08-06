@@ -48,6 +48,7 @@
 
 
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai" style="font-size:10px; color:#ffffff !important;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/search-engine-optimization" style="font-size:10px; color:#ffffff !important;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development" style="font-size:10px; color:#ffffff !important;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/erp-solutions" style="font-size:10px; color:#ffffff !important;">ERP SOLUTIONS</a></li>
 

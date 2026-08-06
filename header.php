@@ -339,6 +339,8 @@
 
                                                     </li>
 
+                                                    <li><a href="about">ABOUT US</a></li>
+
                                                     <li class="dropdown">
 
                                                         <a class="dropdown-toggle" href="services/web-design-development">
@@ -357,10 +359,8 @@
                                                             <li><a href="services/search-engine-optimization">SEARCH ENGINE OPTIMIZATION</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="about">ABOUT US</a></li>
-                                                    <li><a href="contact">CONTACT US</a></li>
 
-                                                    </li>
+                                                    <li><a href="contact">CONTACT US</a></li>
 
                                                 </ul>
 

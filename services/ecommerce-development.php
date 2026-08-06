@@ -359,6 +359,8 @@
 
                                                     </li>
 
+                                                    <li><a href="../about.php">ABOUT US</a></li>
+
                                                     <li class="dropdown">
 
                                                         <a class="dropdown-toggle" href="ecommerce-development.php">
@@ -377,10 +379,8 @@
                                                             <li><a href="search-engine-optimization.php">SEARCH ENGINE OPTIMIZATION</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="../about.php">ABOUT US</a></li>
-                                                    <li><a href="../contact.php">CONTACT US</a></li>
 
-                                                    </li>
+                                                    <li><a href="../contact.php">CONTACT US</a></li>
 
                                                 </ul>
 
@@ -410,11 +410,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h1>Unified Ecommerce Platforms for Every Device <span class="mt-4">End-to-End Platforms</span></h1>
+                            <h1>Ecommerce <span class="mt-4"></span></h1>
                             <ul class="breadcrumb breadcrumb-valign-mid">
                                	<li><a href="../index.php">Home</a></li>
 									<li class="active">Our Services</li>
-                                <li class="active">Ecommerce Development</li>
+                                <li class="active">Ecommerce</li>
                             </ul>
                         </div>
                     </div>
@@ -426,292 +426,275 @@
 
 
 
-            <section class="section mt-0" style="background:none;">
+	<!-- Top Feature Section -->
+	<div class="container" style="padding-top: 40px; padding-bottom: 40px;">
+		<div class="row" style="display: flex; align-items: center; flex-wrap: wrap;">
+			<div class="col-md-7 col-sm-12">
+				<h2><strong class="heading-primary">Revolutionizing Retail with <br>Multi-Platform Ecommerce</strong><br> </h2>
+				<p class="lead" style="color: #0f172a; font-weight: 600; font-size: 18px; margin-bottom: 15px;">
+					End-to-End eCommerce Solutions Built for Growth
+				</p>
+				<p align="justify" style="color: #334155; font-size: 15px; line-height: 1.8;">
+					At MOSTECH, we design and develop unified eCommerce platforms that deliver seamless shopping experiences across web, mobile, and all digital touchpoints. Your eCommerce store is more than just a sales channel — it is a direct reflection of your brand, performance, and customer trust.
+				</p>
+				<p align="justify" style="color: #334155; font-size: 15px; line-height: 1.8; margin-bottom: 25px;">
+					Our expert eCommerce developers build secure, scalable, and high-converting online stores tailored to your business model — whether single-vendor, multi-vendor, B2C, B2B, or marketplace platforms.
+				</p>
+				<a href="../contact.php" class="btn btn-tertiary mr-md" style="background: #020c4c; color: #fff; padding: 12px 28px; font-weight: 700; border-radius: 6px; font-size: 14px; text-transform: uppercase;">CONTACT US &nbsp;<i class="fa fa-whatsapp"></i></a>
+			</div>
+			<div class="col-md-5 col-sm-12 text-center" style="margin-top: 15px;">
+				<img class="img-responsive" src="../img/mos-img1.webp" alt="E-commerce Development Dubai" style="max-height: 350px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+			</div>
+		</div>
+	</div>
 
-                <div class="container">
-                    <div class="row mt-xlg">
-                        <div class="col-md-6">
-                            <h2><strong class="heading-primary">Revolutionizing Retail with</strong><br> Multi-Platform Ecommerce</h2>
-                            <p class="lead"  style="color:#000;">
-End-to-End eCommerce Solutions Built for Growth
-</p>
-                            <p align="justify">At MOSTECH, we design and develop unified eCommerce platforms that deliver seamless shopping experiences across web, mobile, and all digital touchpoints. Your eCommerce store is more than just a sales channel — it is a direct reflection of your brand, performance, and customer trust. </p>
-                            <p align="justify">
-Our expert eCommerce developers build secure, scalable, and high-converting online stores tailored to your business model — whether single-vendor, multi-vendor, B2C, B2B, or marketplace platforms.                                <br><br>
-                                <a href="../contact.php" data-hash class="btn btn-tertiary mr-md appear-animation" data-appear-animation="fadeInDown" data-appear-animation-delay="300" style="background:#020c4c;">CONTACT US &nbsp;<i class="fa fa-whatsapp"></i> </a>
+	<!-- Our eCommerce Development Services Section -->
+	<style>
+		.ecom-services-section {
+			background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%);
+			padding: 60px 0;
+			border-top: 1px solid #e2e8f0;
+			border-bottom: 1px solid #e2e8f0;
+			margin-top: 20px;
+		}
+		.ecom-services-grid {
+			display: flex;
+			flex-wrap: wrap;
+			margin-top: 30px;
+		}
+		.ecom-services-grid > [class*='col-'] {
+			display: flex;
+			flex-direction: column;
+		}
+		.ecom-service-card {
+			background: #ffffff;
+			border-radius: 12px;
+			border-top: 4px solid #0088cc;
+			padding: 28px 22px;
+			margin-bottom: 25px;
+			width: 100%;
+			flex: 1;
+			display: flex;
+			flex-direction: column;
+			box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+			transition: all 0.3s ease-in-out;
+		}
+		.ecom-service-card:hover {
+			transform: translateY(-6px);
+			box-shadow: 0 15px 30px rgba(0, 136, 204, 0.15);
+			border-top-color: #005580;
+		}
+		.ecom-card-icon {
+			width: 52px;
+			height: 52px;
+			background: rgba(0, 136, 204, 0.08);
+			color: #0088cc;
+			border-radius: 50%;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			font-size: 20px;
+			margin-bottom: 16px;
+			flex-shrink: 0;
+			transition: all 0.3s ease;
+		}
+		.ecom-service-card:hover .ecom-card-icon {
+			background: #0088cc;
+			color: #ffffff;
+			transform: scale(1.1);
+		}
+		.ecom-service-card h3 {
+			font-size: 16.5px;
+			font-weight: 700;
+			color: #1e293b;
+			margin-top: 0;
+			margin-bottom: 12px;
+			line-height: 1.4;
+			min-height: 44px;
+			display: flex;
+			align-items: center;
+		}
+		.ecom-service-card p {
+			font-size: 14px;
+			color: #475569;
+			line-height: 1.6;
+			margin-bottom: 0;
+			flex-grow: 1;
+		}
+	</style>
 
-                            </p>
-                        </div>
-                        <div class="col-md-6">
-                            <img class="img-responsive mt-xlg" src="../img/mos-img1.webp" alt="E-commerce Development Dubai">
-                        </div>
+	<section class="ecom-services-section">
+		<div class="container">
+			<div class="row text-center mb-md">
+				<div class="col-md-12">
+					<h2 style="font-size: 32px; font-weight: 800; color: #1e293b; margin-bottom: 10px;">
+						Our <strong class="heading-primary" style="color: #0088cc;">eCommerce Development Services</strong>
+					</h2>
+					<p style="color: #475569; font-size: 16px; margin-bottom: 0;">Customer-Centric Solutions That Drive Sales</p>
+				</div>
+			</div>
 
-                    </div>
-                </div>
-                <hr class="tall">
-                <div class="container">
-                    <div class="featured-boxes featured-boxes-style-8">
+			<div class="row ecom-services-grid">
+				<div class="col-md-4 col-sm-6">
+					<div class="ecom-service-card">
+						<div class="ecom-card-icon">
+							<i class="fa fa-shopping-cart"></i>
+						</div>
+						<h3>eCommerce Development</h3>
+						<p>Complete end-to-end eCommerce development tailored to your business needs — from product catalog setup to checkout, payment integration, and order management.</p>
+					</div>
+				</div>
 
-                        <div class="row">
-                            <div class="col-md-12 center">
-                                <h2 class="mb-sm small">Our <strong class="heading-primary">eCommerce Development Services</strong> </h2>
-                                <p align="center">Customer-Centric Solutions That Drive Sales</p>
-                            </div>
-                        </div>
-                        <div class="row">
+				<div class="col-md-4 col-sm-6">
+					<div class="ecom-service-card">
+						<div class="ecom-card-icon">
+							<i class="fa fa-paint-brush"></i>
+						</div>
+						<h3>eCommerce Theme Integration</h3>
+						<p>Seamless theme integration and customization to match your brand identity. Choose your preferred theme or let our experts design the perfect storefront experience.</p>
+					</div>
+				</div>
 
-                            <div class="col-md-4">
-                                <div class="featured-box featured-box-primary mt-sm">
-                                    <div class="box-content">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h3 class="mb-none">eCommerce Development</h3>
-                                                <div class="divider divider-small divider-small-center">
-                                                    <hr>
-                                                </div>
-                                                <p align="justify">Complete end-to-end eCommerce development tailored to your business needs — from product catalog setup to checkout, payment integration, and order management.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="featured-box featured-box-primary mt-sm">
-                                    <div class="box-content">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h3 class="mb-none">eCommerce Theme Integration</h3>
-                                                <div class="divider divider-small divider-small-center">
-                                                    <hr>
-                                                </div>
-                                                <p align="justify">Seamless theme integration and customization to match your brand identity. Choose your preferred theme or let our experts design the perfect storefront experience.</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="featured-box featured-box-primary mt-sm">
-                                    <div class="box-content">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h3 class="mb-none">eCommerce Maintenance & Support</h3>
-                                                <div class="divider divider-small divider-small-center">
-                                                    <hr>
-                                                </div>
-                                                <p align="justify">Ongoing support to keep your store running smoothly — performance optimization, bug fixes, security updates, and feature enhancements.</p>
+				<div class="col-md-4 col-sm-6">
+					<div class="ecom-service-card">
+						<div class="ecom-card-icon">
+							<i class="fa fa-wrench"></i>
+						</div>
+						<h3>eCommerce Maintenance & Support</h3>
+						<p>Ongoing support to keep your store running smoothly — performance optimization, bug fixes, security updates, and feature enhancements.</p>
+					</div>
+				</div>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="featured-box featured-box-primary mt-sm">
-                                    <div class="box-content">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h3 class="mb-none">eCommerce Consultation</h3>
-                                                <div class="divider divider-small divider-small-center">
-                                                    <hr>
-                                                </div>
-                                                <p align="justify">Not sure how to start or scale your online store? Our consultants help you choose the right platform, architecture, and strategy for long-term growth.</p>
+				<div class="col-md-4 col-sm-6">
+					<div class="ecom-service-card">
+						<div class="ecom-card-icon">
+							<i class="fa fa-comments"></i>
+						</div>
+						<h3>eCommerce Consultation</h3>
+						<p>Not sure how to start or scale your online store? Our consultants help you choose the right platform, architecture, and strategy for long-term growth.</p>
+					</div>
+				</div>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="featured-box featured-box-primary mt-sm">
-                                    <div class="box-content">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h3 class="mb-none">eCommerce Customization</h3>
-                                                <div class="divider divider-small divider-small-center">
-                                                    <hr>
-                                                </div>
-                                                <p align="justify">Fully customized eCommerce solutions built around your unique workflows, integrations, and customer experience requirements.</p>
+				<div class="col-md-4 col-sm-6">
+					<div class="ecom-service-card">
+						<div class="ecom-card-icon">
+							<i class="fa fa-sliders"></i>
+						</div>
+						<h3>eCommerce Customization</h3>
+						<p>Fully customized eCommerce solutions built around your unique workflows, integrations, and customer experience requirements.</p>
+					</div>
+				</div>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="featured-box featured-box-primary mt-sm">
-                                    <div class="box-content">
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <h3 class="mb-none">eCommerce Migration</h3>
-                                                <div class="divider divider-small divider-small-center">
-                                                    <hr>
-                                                </div>
-                                                <p align="justify">Safe and seamless migration from any existing eCommerce platform without data loss — including products, customers, orders, and SEO value. </p>
+				<div class="col-md-4 col-sm-6">
+					<div class="ecom-service-card">
+						<div class="ecom-card-icon">
+							<i class="fa fa-exchange"></i>
+						</div>
+						<h3>eCommerce Migration</h3>
+						<p>Safe and seamless migration from any existing eCommerce platform without data loss — including products, customers, orders, and SEO value.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+	<style>
+		@media (min-width: 992px) {
+			.flex-row-reverse-desktop {
+				flex-direction: row-reverse !important;
+			}
+		}
+		@media (max-width: 991px) {
+			.ecom-feature-row {
+				display: block !important;
+			}
+			.ecom-feature-row > [class*='col-'] {
+				width: 100% !important;
+			}
+			.ecom-feature-row img {
+				margin-top: 20px !important;
+				margin-bottom: 30px !important;
+			}
+			p[align="justify"] {
+				text-align: left !important;
+			}
+		}
+		@media (max-width: 767px) {
+			.container {
+				padding-left: 20px !important;
+				padding-right: 20px !important;
+			}
+		}
+	</style>
 
-                </div>
+	<!-- Features of a High-Performing eCommerce Store -->
+	<div class="container" style="margin-top: 50px; margin-bottom: 50px;">
+		<div class="row ecom-feature-row" style="display: flex; align-items: center; flex-wrap: wrap;">
+			<div class="col-md-7 col-sm-12">
+				<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 15px;">
+					Features of a High-Performing <strong class="heading-primary" style="color: #0088cc;">eCommerce Store</strong>
+				</h2>
+				<p style="color: #334155; font-size: 15.5px; margin-bottom: 20px;">
+					A successful eCommerce platform is designed for speed, simplicity, and conversions.
+				</p>
+				<ul class="list list-icons list-primary" style="font-size: 15px; line-height: 1.8;">
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Fast and simplified checkout with minimal steps</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>SEO-optimized structure for better product visibility</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Strong brand identity reflected in design and functionality</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Multiple secure payment gateway integrations</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Fully responsive design across all devices</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Advanced reporting and product performance tracking</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Optimized functionality using the right plugins and modules</li>
+				</ul>
+			</div>
+			<div class="col-md-5 col-sm-12 text-center" style="margin-top: 15px;">
+				<img class="img-responsive" src="../img/mos-img2.webp" alt="E-commerce Solutions" style="max-height: 330px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+			</div>
+		</div>
+	</div>
 
+	<!-- Our eCommerce Development Approach -->
+	<div class="container" style="margin-top: 50px; margin-bottom: 50px;">
+		<div class="row ecom-feature-row flex-row-reverse-desktop" style="display: flex; align-items: center; flex-wrap: wrap;">
+			<div class="col-md-7 col-sm-12">
+				<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 15px;">
+					Our <strong class="heading-primary" style="color: #0088cc;">eCommerce Development Approach</strong>
+				</h2>
+				<p style="color: #334155; font-size: 15.5px; margin-bottom: 20px;">
+					We follow a strategic, user-focused development process to build eCommerce platforms that are secure, scalable, and optimized for performance and conversions.
+				</p>
+				<ul class="list list-icons list-primary" style="font-size: 15px; line-height: 1.8;">
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i><strong>Mobile-First Design:</strong> Seamless shopping experience across all devices.</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i><strong>Secure Payments:</strong> Trusted and safe checkout systems with multiple gateways.</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i><strong>Scalable Architecture:</strong> Built to support future growth and expansion.</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i><strong>Speed Optimization:</strong> Fast-loading pages for improved user experience.</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i><strong>Third-Party Integrations:</strong> Easy integration with CRM, ERP, and other business tools.</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i><strong>Analytics & Tracking:</strong> Data-driven insights for better conversions.</li>
+				</ul>
+			</div>
+			<div class="col-md-5 col-sm-12 text-center" style="margin-bottom: 20px;">
+				<img class="img-responsive" src="../img/mos-img4.webp" alt="Online Store Development" style="max-height: 330px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+			</div>
+		</div>
+	</div>
 
-            </section>
-
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-md-8">
-
-                        <h2 class="heading-primary">Features of a High-Performing  <strong>eCommerce Store</strong></h2>
-                        <hr class="solid">
-                        <p align="justify"> A successful eCommerce platform is designed for speed, simplicity, and conversions.
-                        </p>
-                        <ul class="list list-icons">
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="600" style="animation-delay: 600ms;">
-        <i class="fa fa-caret-right left-10"></i>Fast and simplified checkout with minimal steps
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>SEO-optimized structure for better product visibility
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Strong brand identity reflected in design and functionality
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Multiple secure payment gateway integrations
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Fully responsive design across all devices
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Advanced reporting and product performance tracking
-    </li>
-    <li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;">
-        <i class="fa fa-caret-right left-10"></i>Optimized functionality using the right plugins and modules
-    </li>
-</ul>
-                    </div>
-                    <div class="col-md-4">
-                        <img class="img-responsive mt-xlg" src="../img/mos-img2.webp" alt="E-commerce Solutions">
-                    </div>
-                </div>
-            </div>
-            <style>
-@media (max-width: 767px) {
-  .mobile-reverse {
-    display: flex !important;
-    flex-direction: column-reverse !important;
-  }
-}
-</style>
-            </style>
-            
-            <div class="container" style="margin-top:50px;">
-    <div class="row mobile-reverse">
-<div class="col-md-4">
-            <img class="img-responsive mt-xlg" src="../img/mos-img4.webp" alt="Online Store Development">
-        </div>
-        <div class="col-md-8">
-
-            <h2 class="heading-primary">Our <strong>eCommerce Development Approach</strong></h2>
-            <hr class="solid">
-            <p align="justify">
-                We follow a strategic, user-focused development process to build eCommerce platforms that are secure, scalable, and optimized for performance and conversions.
-            </p>
-
-            <ul class="list list-icons">
-                <li class="appear-animation animated fadeInUp appear-animation-visible"
-                    style="margin-bottom:8px!important;padding-left:16px!important;"
-                    data-appear-animation="fadeInUp" data-appear-animation-delay="600">
-                    <i class="fa fa-caret-right left-10"></i>
-                    <strong>Mobile-First Design:</strong> Seamless shopping experience across all devices.
-                </li>
-
-                <li class="appear-animation animated fadeInUp appear-animation-visible"
-                    style="margin-bottom:8px!important;padding-left:16px!important;"
-                    data-appear-animation="fadeInUp" data-appear-animation-delay="800">
-                    <i class="fa fa-caret-right left-10"></i>
-                    <strong>Secure Payments:</strong> Trusted and safe checkout systems with multiple gateways.
-                </li>
-
-                <li class="appear-animation animated fadeInUp appear-animation-visible"
-                    style="margin-bottom:8px!important;padding-left:16px!important;"
-                    data-appear-animation="fadeInUp" data-appear-animation-delay="1000">
-                    <i class="fa fa-caret-right left-10"></i>
-                    <strong>Scalable Architecture:</strong> Built to support future growth and expansion.
-                </li>
-
-                <li class="appear-animation animated fadeInUp appear-animation-visible"
-                    style="margin-bottom:8px!important;padding-left:16px!important;"
-                    data-appear-animation="fadeInUp" data-appear-animation-delay="1200">
-                    <i class="fa fa-caret-right left-10"></i>
-                    <strong>Speed Optimization:</strong> Fast-loading pages for improved user experience.
-                </li>
-
-                <li class="appear-animation animated fadeInUp appear-animation-visible"
-                    style="margin-bottom:8px!important;padding-left:16px!important;"
-                    data-appear-animation="fadeInUp" data-appear-animation-delay="1400">
-                    <i class="fa fa-caret-right left-10"></i>
-                    <strong>Third-Party Integrations:</strong> Easy integration with CRM, ERP, and other business tools.
-                </li>
-
-                <li class="appear-animation animated fadeInUp appear-animation-visible"
-                    style="margin-bottom:8px!important;padding-left:16px!important;"
-                    data-appear-animation="fadeInUp" data-appear-animation-delay="1600">
-                    <i class="fa fa-caret-right left-10"></i>
-                    <strong>Analytics & Tracking:</strong> Data-driven insights for better conversions.
-                </li>
-            </ul>
-
-        </div>
-
-        
-
-    </div>
-</div>
-
-        </div>
-
-
- <div class="container" style="margin-top:50px;">
-
-                    <div class="row">
-
-
-
-                        <div class="col-md-12">
-
-
-
-                            <h2 class="heading-primary">
-                                <font color="#020c4c">  <strong>Build Your eCommerce Platform with MOSTECH</strong></font>
-                            </h2>
-
-
-<p style="color:#000;">Whether you’re launching a new online store or scaling an existing platform, MOSTECH delivers unified eCommerce solutions that are reliable, scalable, and built to convert.</p>
-                            <p class="heading-primary">
-                                <div class="row">
-                                    <div class="col-xs-12 col-md-12">
-                                        <ul class="list list-icons list-primary">
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;" data-appear-animation="fadeInUp" data-appear-animation-delay="600" style="animation-delay: 600ms;"><i class="fa fa-caret-right left-10"></i>Talk to Our eCommerce Experts</li>
-										<li class="appear-animation animated fadeInUp appear-animation-visible" style="margin-bottom:5px!important;padding-left:16px!important;"  data-appear-animation="fadeInUp" data-appear-animation-delay="900" style="animation-delay: 900ms;"><i class="fa fa-caret-right left-10"></i> Create a Seamless Shopping Experience</li>
-									</ul>
-                                    </div>
-                                </div>
-
-                            </p>
-
-                        </div>
-
-                    </div>
-
-                </div>
+	<!-- Build Your eCommerce Platform with MOSTECH -->
+	<div class="container" style="margin-top: 50px; margin-bottom: 60px;">
+		<div class="row">
+			<div class="col-md-12">
+				<h2 style="font-size: 30px; font-weight: 800; color: #1e293b; margin-bottom: 15px;">
+					Build Your eCommerce Platform with <strong class="heading-primary" style="color: #0088cc;">MOSTECH</strong>
+				</h2>
+				<p style="color: #334155; font-size: 16px; line-height: 1.8; margin-bottom: 20px;">
+					Whether you’re launching a new online store or scaling an existing platform, MOSTECH delivers unified eCommerce solutions that are reliable, scalable, and built to convert.
+				</p>
+				<ul class="list list-icons list-primary" style="font-size: 15.5px; line-height: 1.8;">
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Talk to Our eCommerce Experts</li>
+					<li style="margin-bottom: 8px;"><i class="fa fa-caret-right left-10"></i>Create a Seamless Shopping Experience</li>
+				</ul>
+			</div>
+		</div>
+	</div>
     </div>
 
 
@@ -758,6 +741,7 @@ Our expert eCommerce developers build secure, scalable, and high-converting onli
 
 
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
 

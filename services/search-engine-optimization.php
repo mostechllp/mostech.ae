@@ -146,7 +146,24 @@
             transform: translateY(-4px);
             box-shadow: 0 15px 35px rgba(0,0,0,0.12);
         }
+        @media (min-width: 992px) {
+            .flex-row-reverse-desktop {
+                flex-direction: row-reverse !important;
+            }
+        }
         @media (max-width: 991px) {
+            .seo-feature-row {
+                display: block !important;
+                margin-top: 30px !important;
+                margin-bottom: 30px !important;
+            }
+            .seo-feature-row > [class*='col-'] {
+                width: 100% !important;
+            }
+            .seo-feature-img-wrap {
+                margin-top: 15px !important;
+                margin-bottom: 25px !important;
+            }
             .seo-feature-img {
                 max-height: 270px;
             }
@@ -169,16 +186,16 @@
             box-shadow: 0 10px 25px rgba(0,0,0,0.1);
         }
         .card-peach {
-            background-color: #fff3d6 !important;
+            background-color: #cbe5ff !important;
         }
         .card-mint {
-            background-color: #d0f8e2 !important;
+            background-color: #cbe5ff !important;
         }
         .card-lavender {
             background-color: #cbe5ff !important;
         }
         .card-pink {
-            background-color: #ffd0e8 !important;
+            background-color: #cbe5ff !important;
         }
         .why-choose-card h4 {
             color: #1c2833;
@@ -287,7 +304,9 @@
 
                                                 </li>
 
-                                                <li class="dropdown active">
+                                                <li><a href="../about.php">ABOUT US</a></li>
+
+                                                <li class="dropdown">
 
                                                     <a class="dropdown-toggle" href="web-design-development.php">
 
@@ -305,7 +324,7 @@
                                                         <li><a href="search-engine-optimization.php">SEARCH ENGINE OPTIMIZATION</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="../about.php">ABOUT US</a></li>
+
                                                 <li><a href="../contact.php">CONTACT US</a></li>
 
                                             </ul>
@@ -373,17 +392,14 @@
                         </ul>
                     </div>
                     <div class="col-md-6 col-sm-12 seo-feature-img-wrap">
-                        <img src="../img/on_page_seo.webp" alt="On-Page SEO Services Mostech" class="seo-feature-img img-responsive">
+                        <img src="../img/onpageseo.webp" alt="On-Page SEO Services Mostech" class="seo-feature-img img-responsive">
                     </div>
                 </div>
 
                 <hr class="tall">
 
                 <!-- 2. Off-Page SEO (Image Left, Text Right) -->
-                <div class="row seo-feature-row">
-                    <div class="col-md-6 col-sm-12 seo-feature-img-wrap">
-                        <img src="../img/off_page_seo.webp" alt="Off-Page SEO Services Mostech" class="seo-feature-img img-responsive">
-                    </div>
+                <div class="row seo-feature-row flex-row-reverse-desktop">
                     <div class="col-md-6 col-sm-12">
                         <h3 class="font-weight-bold text-color-primary" style="font-size: 26px; margin-bottom: 15px;">Off-Page SEO</h3>
                         <p align="justify" style="font-size: 15px; line-height: 1.7; color: #4a5568;">
@@ -395,6 +411,9 @@
                             <li><i class="fa fa-check-circle" style="color: #0088cc;"></i> Domain Authority & Trust Growth</li>
                             <li><i class="fa fa-check-circle" style="color: #0088cc;"></i> Strategic Online Relationship Building</li>
                         </ul>
+                    </div>
+                    <div class="col-md-6 col-sm-12 seo-feature-img-wrap">
+                        <img src="../img/offpage.webp" alt="Off-Page SEO Services Mostech" class="seo-feature-img img-responsive">
                     </div>
                 </div>
 
@@ -415,17 +434,14 @@
                         </ul>
                     </div>
                     <div class="col-md-6 col-sm-12 seo-feature-img-wrap">
-                        <img src="../img/technical_seo.webp" alt="Technical SEO Services Mostech" class="seo-feature-img img-responsive">
+                        <img src="../img/technicalseo.webp" alt="Technical SEO Services Mostech" class="seo-feature-img img-responsive">
                     </div>
                 </div>
 
                 <hr class="tall">
 
                 <!-- 4. Local SEO (Image Left, Text Right) -->
-                <div class="row seo-feature-row">
-                    <div class="col-md-6 col-sm-12 seo-feature-img-wrap">
-                        <img src="../img/local_seo.webp" alt="Local SEO Services Mostech UAE" class="seo-feature-img img-responsive">
-                    </div>
+                <div class="row seo-feature-row flex-row-reverse-desktop">
                     <div class="col-md-6 col-sm-12">
                         <h3 class="font-weight-bold text-color-primary" style="font-size: 26px; margin-bottom: 15px;">Local SEO</h3>
                         <p align="justify" style="font-size: 15px; line-height: 1.7; color: #4a5568;">
@@ -437,6 +453,9 @@
                             <li><i class="fa fa-check-circle" style="color: #0088cc;"></i> Geo-Targeted Search Engine Visibility</li>
                             <li><i class="fa fa-check-circle" style="color: #0088cc;"></i> UAE & GCC Directory Citations</li>
                         </ul>
+                    </div>
+                    <div class="col-md-6 col-sm-12 seo-feature-img-wrap">
+                        <img src="../img/localseo.webp" alt="Local SEO Services Mostech UAE" class="seo-feature-img img-responsive">
                     </div>
                 </div>
 
@@ -457,7 +476,7 @@
                         </ul>
                     </div>
                     <div class="col-md-6 col-sm-12 seo-feature-img-wrap">
-                        <img src="../img/content_strategy.webp" alt="Content Strategy Services Mostech" class="seo-feature-img img-responsive">
+                        <img src="../img/contentstrategy.webp" alt="Content Strategy Services Mostech" class="seo-feature-img img-responsive">
                     </div>
                 </div>
 
@@ -540,7 +559,8 @@
 
                             <div class="col-md-4">
                                 <ul class="list list-icons list-icons-sm">
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization.php" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization.php" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development.php" style="font-size:10px;">ECOMMERCE</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions.php" style="font-size:10px;">ERP SOLUTIONS</a></li>
                                 </ul>
