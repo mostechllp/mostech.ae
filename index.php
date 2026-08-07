@@ -840,55 +840,75 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                 <div class="container container-xl-custom py-4">
                     <div class="row py-lg-5 my-5">
-                        <div class="col-lg-7 pe-lg-5 mb-5 mb-lg-0 flex justify-content-center">
+                        <div class="col-lg-6 pe-lg-4 mb-5 mb-lg-0 flex justify-content-center">
                             <div>
                                 <h2 class="heading-primary font-weight-bold mb-4">Website Design and Development</h2>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                <p class="line-height-9 text-4 pe-lg-4 me-lg-2 mb-4" style="text-align:justify;">
                                     <span style="color:#000;">We create modern, responsive websites that combine strong visual design with seamless functionality to deliver meaningful digital experiences for your audience.
                                         Our website design and development services focus on usability, performance, and scalability—ensuring your site not only looks great but also supports your business goals and grows with your needs.</span>
                                 </p>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                <p class="line-height-9 text-4 pe-lg-4 me-lg-2 mb-4" style="text-align:justify;">
                                     <span style="color:#000;">Every project begins with a clear understanding of your brand identity, target audience, and objectives. This allows us to design clear, engaging layouts and smooth user journeys that encourage interaction, improve accessibility, and guide visitors toward meaningful actions.</span>
                                 </p>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                <p class="line-height-9 text-4 pe-lg-4 me-lg-2 mb-4" style="text-align:justify;">
                                     <span style="color:#000;">Using the latest technologies and best development practices, we build efficient, accessible, and high-performance websites optimized for search engines and cross-device compatibility. From initial planning to final deployment, we ensure quality, reliability, and long-term maintainability at every stage of development.</span>
                                 </p>
-                                <p class="line-height-9 text-4 pe-lg-5 me-lg-5 mb-4" style="text-align:justify;">
+                                <p class="line-height-9 text-4 pe-lg-4 me-lg-2 mb-4" style="text-align:justify;">
                                     <span style="color:#000;">We also focus on creating websites that are future-ready and adaptable to evolving trends. By integrating analytics, performance tracking, and scalable solutions, we help you make informed decisions that enhance user engagement and drive measurable business growth. Our mission is to deliver a digital presence that not only reflects your brand’s vision but also empowers your business to succeed in a competitive online landscape.</span>
                                 </p>
                                 <!--<a href="web-development-and-design.php" class="learn-more text-primary font-weight-semibold text-2">VIEW MORE <i class="fa fa-chevron-right text-3 ms-2"></i></a>-->
                             </div>
                         </div>
-                        <div class="col-md-10 col-lg-5">
-                            <div class="row mb-4">
-                                <div class="col-xs-6 col-md-6 mb-4">
-                                    <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="200">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">01</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Strategy</h3>
-                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">We analyze your business, audience, and objectives to define a clear website strategy that aligns with your brand and goals.</p>
+                        <div class="col-md-12 col-lg-6">
+                            <div class="process-grid-wrapper">
+                                <div class="row process-cards-row">
+                                    <div class="col-xs-12 col-sm-6 process-card-col">
+                                        <div class="process-card appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="200">
+                                            <div class="process-card-header">
+                                                <span class="process-card-number">01</span>
+                                                <div class="process-card-icon">
+                                                    <i class="fa fa-lightbulb-o"></i>
+                                                </div>
+                                            </div>
+                                            <h3 class="process-card-title">Strategy</h3>
+                                            <p class="process-card-desc">We analyze your business, audience, and objectives to define a clear website strategy that aligns with your brand and goals.</p>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-xs-6 col-md-6  mb-4">
-                                    <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">02</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Plan</h3>
-                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">We structure content, design layouts, and user journeys to ensure a smooth, intuitive, and engaging user experience.</p>
+                                    <div class="col-xs-12 col-sm-6 process-card-col">
+                                        <div class="process-card appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="400">
+                                            <div class="process-card-header">
+                                                <span class="process-card-number">02</span>
+                                                <div class="process-card-icon">
+                                                    <i class="fa fa-sitemap"></i>
+                                                </div>
+                                            </div>
+                                            <h3 class="process-card-title">Plan</h3>
+                                            <p class="process-card-desc">We structure content, design layouts, and user journeys to ensure a smooth, intuitive, and engaging user experience.</p>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-xs-6 col-md-6  mb-4 mb-sm-0">
-                                    <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="1000">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">03</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Work</h3>
-                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">Our team designs and develops responsive, high-performance websites using modern technologies and best practices.</p>
+                                    <div class="col-xs-12 col-sm-6 process-card-col">
+                                        <div class="process-card appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="600">
+                                            <div class="process-card-header">
+                                                <span class="process-card-number">03</span>
+                                                <div class="process-card-icon">
+                                                    <i class="fa fa-code"></i>
+                                                </div>
+                                            </div>
+                                            <h3 class="process-card-title">Work</h3>
+                                            <p class="process-card-desc">Our team designs and develops responsive, high-performance websites using modern technologies and best practices.</p>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="col-xs-6 col-md-6 ">
-                                    <div class="appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="1400">
-                                        <span class="d-inline-block font-weight-extra-bold text-color-primary font-italic line-height-1 text-14 ls-0 mb-2">04</span>
-                                        <h3 class="font-weight-bold text-5 ps-1 mb-2">Quality</h3>
-                                        <p class="mb-4" style="text-align:justify;color:#222222 !important;">Every website is thoroughly tested for speed, security, and usability to deliver a reliable and polished final product.</p>
+                                    <div class="col-xs-12 col-sm-6 process-card-col">
+                                        <div class="process-card appear-animation" data-appear-animation="fadeInUp" data-appear-animation-delay="800">
+                                            <div class="process-card-header">
+                                                <span class="process-card-number">04</span>
+                                                <div class="process-card-icon">
+                                                    <i class="fa fa-shield"></i>
+                                                </div>
+                                            </div>
+                                            <h3 class="process-card-title">Quality</h3>
+                                            <p class="process-card-desc">Every website is thoroughly tested for speed, security, and usability to deliver a reliable and polished final product.</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

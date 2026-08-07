@@ -55,103 +55,164 @@ include('header.php');
         </div>
     </section>
 
-    <!-- Responsive Map -->
-    <div class="responsive-map-container">
-        <div class="col-md-12 p-none">
-           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.5938115827043!2d55.27031837620187!3d25.183189632266426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6964a5ad0fb5%3A0x37e86857219ea19b!2sMostech%20Business%20Solutions!5e0!3m2!1sen!2sae!4v1768653677929!5m2!1sen!2sae" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-    </div>
-
-    <div class="container mt-xlg mb-xlg">
+    <div class="container mt-xlg mb-xlg py-4">
+        <!-- Responsive Framed Google Map -->
         <div class="row">
-            <div class="col-md-6">
-                <?php if (isset($_GET['status']) && $_GET['status'] == 'success'): ?>
-                    <div class="alert alert-success mt-lg">
-                        <strong>Thank you!</strong> Your message has been sent successfully. Our team will contact you shortly.
-                    </div>
-                <?php elseif (isset($_GET['status']) && $_GET['status'] == 'error'): ?>
-                    <div class="alert alert-danger mt-lg">
-                        <strong>Oops!</strong> Something went wrong. Please try sending your message again or contact us directly via email.
-                    </div>
-                <?php endif; ?>
+            <div class="col-md-12">
+                <div class="contact-map-frame">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.5938115827043!2d55.27031837620187!3d25.183189632266426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6964a5ad0fb5%3A0x37e86857219ea19b!2sMostech%20Business%20Solutions!5e0!3m2!1sen!2sae!4v1768653677929!5m2!1sen!2sae" width="100%" height="420" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
 
-                <h2 class="mb-sm mt-sm"><strong>Send Us A</strong> Message</h2>
-                <p class="lead">Have a project in mind, need a customized software demonstration, or want to discuss your digital marketing and web application goals in Dubai? Fill out the inquiry form below and our senior technical consultants will analyze your requirements and reach out within 24 business hours with a comprehensive proposal.</p>
-                <p>Whether you require full-stack enterprise software development, mobile application engineering, custom ERP implementation, or high-ROI search engine optimization (SEO) in Dubai, Abu Dhabi, or the wider GCC region, Mostech Business Solutions is dedicated to delivering measurable business value and technology excellence.</p>
+        <div class="row">
+            <!-- Left Column: Form Card -->
+            <div class="col-md-6 mb-4">
+                <div class="contact-form-card">
+                    <?php if (isset($_GET['status']) && $_GET['status'] == 'success'): ?>
+                        <div class="alert alert-success mt-lg mb-4">
+                            <strong>Thank you!</strong> Your message has been sent successfully. Our team will contact you shortly.
+                        </div>
+                    <?php elseif (isset($_GET['status']) && $_GET['status'] == 'error'): ?>
+                        <div class="alert alert-danger mt-lg mb-4">
+                            <strong>Oops!</strong> Something went wrong. Please try sending your message again or contact us directly via email.
+                        </div>
+                    <?php endif; ?>
 
-                <form id="contactForm" action="send-mail.php" method="POST">
-                    <div class="row">
-                        <div class="form-group">
-                            <div class="col-md-6">
-                                <label>Your Name *</label>
-                                <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required>
+                    <h2 class="contact-section-title">Send Us A Message</h2>
+                    <p class="contact-intro-text">Have a project in mind, need a customized software demonstration, or want to discuss your digital marketing and web application goals in Dubai? Fill out the inquiry form below and our senior technical consultants will analyze your requirements and reach out within 24 business hours with a comprehensive proposal.</p>
+                    <p class="contact-intro-text">Whether you require full-stack enterprise software development, mobile application engineering, custom ERP implementation, or high-ROI search engine optimization (SEO) in Dubai, Abu Dhabi, or the wider GCC region, Mostech Business Solutions is dedicated to delivering measurable business value and technology excellence.</p>
+
+                    <form id="contactForm" action="send-mail.php" method="POST">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6">
+                                <div class="contact-form-group">
+                                    <label class="contact-form-label" for="name">Your Name *</label>
+                                    <input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control contact-form-control" name="name" id="name" required placeholder="John Doe">
+                                </div>
                             </div>
-                            <div class="col-md-6">
-                                <label>Your Email Address *</label>
-                                <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required>
+                            <div class="col-md-6 col-sm-6">
+                                <div class="contact-form-group">
+                                    <label class="contact-form-label" for="email">Your Email Address *</label>
+                                    <input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control contact-form-control" name="email" id="email" required placeholder="john@example.com">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="form-group">
+                        <div class="row">
                             <div class="col-md-12">
-                                <label>Subject *</label>
-                                <input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" required>
+                                <div class="contact-form-group">
+                                    <label class="contact-form-label" for="subject">Subject *</label>
+                                    <input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control contact-form-control" name="subject" id="subject" required placeholder="Project Inquiry / Consultation">
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="form-group">
+                        <div class="row">
                             <div class="col-md-12">
-                                <label>Message *</label>
-                                <textarea maxlength="5000" data-msg-required="Please enter your message." rows="6" class="form-control" name="message" id="message" required></textarea>
+                                <div class="contact-form-group">
+                                    <label class="contact-form-label" for="message">Message *</label>
+                                    <textarea maxlength="5000" data-msg-required="Please enter your message." rows="5" class="form-control contact-form-control" name="message" id="message" required placeholder="Tell us about your project requirements..."></textarea>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <input type="submit" value="Send Message" class="btn btn-primary btn-lg mb-xlg">
+                        <div class="row mt-2">
+                            <div class="col-md-12">
+                                <button type="submit" class="btn-contact-submit">
+                                    <i class="fa fa-paper-plane me-2"></i> Send Message
+                                </button>
+                            </div>
                         </div>
-                    </div>
-                </form>
+                    </form>
+                </div>
             </div>
 
-            <div class="col-md-6">
-                <h2 class="mb-sm mt-sm">Get in <strong>Touch</strong></h2>
-                <p class="lead">Mostech Business Solutions is a premier IT development and digital agency based in Dubai, UAE. We specialize in empowering enterprises with robust software, mobile applications, web platforms, and results-driven marketing strategies.</p>
-                
-                <div class="row mt-xlg">
-                    <div class="col-md-6">
-                        <h3 class="heading-primary"><strong>Dubai Head Office</strong></h3>
-                        <p><i class="fa fa-map-marker" style="color:#020c4c;"></i> <strong>Bay Square Business Tower</strong><br>Business Bay, Dubai, United Arab Emirates</p>
-                        <p><i class="fa fa-phone" style="color:#020c4c;"></i> <a href="tel:+971581730112">+971 58 173 0112</a></p>
-                        <p><i class="fa fa-envelope" style="color:#020c4c;"></i> <a href="mailto:info@mostech.ae">info@mostech.ae</a></p>
+            <!-- Right Column: Get in Touch & Info Cards -->
+            <div class="col-md-6 mb-4">
+                <div style="padding-left: 10px;">
+                    <h2 class="contact-section-title">Get in Touch</h2>
+                    <p class="contact-intro-text">Mostech Business Solutions is a premier IT development and digital agency based in Dubai, UAE. We specialize in empowering enterprises with robust software, mobile applications, web platforms, and results-driven marketing strategies.</p>
+
+                    <!-- Office Location Cards -->
+                    <div class="row mt-4 mb-4">
+                        <div class="col-md-6 col-sm-6 mb-3">
+                            <div class="contact-info-card">
+                                <div class="contact-info-card-header">
+                                    <div class="contact-info-icon-badge">
+                                        <i class="fa fa-building"></i>
+                                    </div>
+                                    <h3 class="contact-info-card-title">Dubai Head Office</h3>
+                                </div>
+                                <div class="contact-info-item">
+                                    <i class="fa fa-map-marker"></i>
+                                    <span><strong>Bay Square Business Tower</strong><br>Business Bay, Dubai, United Arab Emirates</span>
+                                </div>
+                                <div class="contact-info-item">
+                                    <i class="fa fa-phone"></i>
+                                    <a href="tel:+971581730112">+971 58 173 0112</a>
+                                </div>
+                                <div class="contact-info-item">
+                                    <i class="fa fa-envelope"></i>
+                                    <a href="mailto:info@mostech.ae">info@mostech.ae</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 mb-3">
+                            <div class="contact-info-card">
+                                <div class="contact-info-card-header">
+                                    <div class="contact-info-icon-badge">
+                                        <i class="fa fa-globe"></i>
+                                    </div>
+                                    <h3 class="contact-info-card-title">Regional Office</h3>
+                                </div>
+                                <div class="contact-info-item">
+                                    <i class="fa fa-map-marker"></i>
+                                    <span><strong>KVR Tower, Caltex</strong><br>Kannur, Kerala, India</span>
+                                </div>
+                                <div class="contact-info-item">
+                                    <i class="fa fa-phone"></i>
+                                    <a href="tel:+918547557283">+91 85475 57283</a>
+                                </div>
+                                <div class="contact-info-item">
+                                    <i class="fa fa-shield"></i>
+                                    <span>Regional Support across GCC</span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
-                    <div class="col-md-6">
-                        <h3 class="heading-primary"><strong>Regional Office</strong></h3>
-                        <p><i class="fa fa-map-marker" style="color:#020c4c;"></i> <strong>KVR Tower, Caltex</strong><br>Kannur, Kerala, India</p>
-                        <p><i class="fa fa-phone" style="color:#020c4c;"></i> <a href="tel:+918547557283">+91 85475 57283</a></p>
-                        <p><i class="fa fa-globe" style="color:#020c4c;"></i> Regional Support across GCC</p>
+                    <!-- Business Hours Card -->
+                    <div class="contact-info-card mb-4">
+                        <div class="contact-info-card-header">
+                            <div class="contact-info-icon-badge">
+                                <i class="fa fa-clock-o"></i>
+                            </div>
+                            <h3 class="contact-info-card-title">Business Hours</h3>
+                        </div>
+                        <div class="contact-info-item">
+                            <i class="fa fa-calendar"></i>
+                            <span><strong>Monday - Friday:</strong> 9:00 AM – 6:00 PM (GST)</span>
+                        </div>
+                        <div class="contact-info-item">
+                            <i class="fa fa-calendar"></i>
+                            <span><strong>Saturday:</strong> 9:00 AM – 2:00 PM (GST)</span>
+                        </div>
+                        <div class="contact-info-item">
+                            <i class="fa fa-calendar-times-o"></i>
+                            <span><strong>Sunday:</strong> Closed</span>
+                        </div>
+                    </div>
+
+                    <!-- Why Choose Mostech -->
+                    <div class="contact-feature-card">
+                        <h3 class="contact-info-card-title mb-3" style="margin-bottom: 14px;">Why Choose Mostech?</h3>
+                        <ul class="contact-feature-list">
+                            <li>Direct access to experienced software engineers & digital strategists.</li>
+                            <li>Free initial project scope consultation & transparent quotations.</li>
+                            <li>Strict Non-Disclosure Agreement (NDA) data privacy protections.</li>
+                            <li>Rapid turnaround time for technical inquiries and project kickoffs.</li>
+                        </ul>
                     </div>
                 </div>
-
-                <hr class="tall">
-
-                <h3 class="heading-primary">Business <strong>Hours</strong></h3>
-                <ul class="list list-icons list-dark">
-                    <li><i class="fa fa-clock-o"></i> <strong>Monday - Friday:</strong> 9:00 AM – 6:00 PM (GST)</li>
-                    <li><i class="fa fa-clock-o"></i> <strong>Saturday:</strong> 9:00 AM – 2:00 PM (GST)</li>
-                    <li><i class="fa fa-clock-o"></i> <strong>Sunday:</strong> Closed</li>
-                </ul>
-
-                <h3 class="heading-primary mt-lg">Why Choose <strong>Mostech?</strong></h3>
-                <ul class="list list-icons list-primary">
-                    <li><i class="fa fa-check"></i> Direct access to experienced software engineers & digital strategists.</li>
-                    <li><i class="fa fa-check"></i> Free initial project scope consultation & transparent quotations.</li>
-                    <li><i class="fa fa-check"></i> Strict Non-Disclosure Agreement (NDA) data privacy protections.</li>
-                    <li><i class="fa fa-check"></i> Rapid turnaround time for technical inquiries and project kickoffs.</li>
-                </ul>
             </div>
         </div>
     </div>
