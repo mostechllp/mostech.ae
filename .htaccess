@@ -1,5 +1,6 @@
 Options -MultiViews
 RewriteEngine On
+RewriteBase /
 AddType image/webp .webp
 
 # Enforce HSTS (HTTP Strict Transport Security) & Security Headers
@@ -60,7 +61,10 @@ RewriteRule ^services/mobile-application-development(\.php)?$ /services/mobile-a
 RewriteRule ^services/hybrid-application-development(\.php)?$ /services/mobile-app-development [R=301,L]
 RewriteRule ^services/contact(\.php)?$ /contact [R=301,L]
 RewriteRule ^blog(\.php)?$ /blogs [R=301,L]
-RewriteRule ^blogs/how-to-improve-your-brands-search-visibility/?$ how-to-improve-your-brands-search-visibility.php [L]
+RewriteRule ^blogs/how-to-improve-your-brands-search-visibility/?$ /how-to-improve-your-brands-search-visibility.php [L]
+RewriteRule ^website-development-company-in-dubai/?$ /website-development-company-in-dubai.php [L]
+RewriteRule ^website-development-company-in-sharjah/?$ /website-development-company-in-sharjah.php [L]
+RewriteRule ^website-development-company-in-uae/?$ /website-development-company-in-uae.php [L]
 
 # Redirect index.php to the root URL
 RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]
@@ -80,8 +84,9 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 # Internally rewrite extensionless URLs to .php
+RewriteCond %{REQUEST_FILENAME}.php -f [OR]
 RewriteCond %{DOCUMENT_ROOT}/$1.php -f
-RewriteRule ^(.+?)/?$ $1.php [L]
+RewriteRule ^(.+?)/?$ /$1.php [L]
 
 # Custom 404 Error Document
 ErrorDocument 404 /404.php
