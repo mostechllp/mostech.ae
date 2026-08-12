@@ -6,18 +6,18 @@ include('header.php');
 ?>
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org/",
-  "@type": "BreadcrumbList",
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
   "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
+    "@type": "ListItem", 
+    "position": 1, 
     "name": "Home",
-    "item": "https://mostech.ae/"
+    "item": "https://www.mostech.ae/"  
   },{
-    "@type": "ListItem",
-    "position": 2,
-    "name": "SEO Service in Dubai",
-    "item": "https://mostech.ae/seo-service-in-dubai"
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "SEO SERVICE IN DUBAI",
+    "item": "https://www.mostech.ae/seo-service-in-dubai"  
   }]
 }
 </script>
@@ -254,6 +254,69 @@ include('header.php');
     max-height: 300px;
     padding: 0 22px 20px;
 }
+
+/* Cluster Section Styles */
+.cluster-section {
+    background-color: #0a1120;
+    padding: 60px 0;
+    margin-top: 50px;
+    border-top: 1px solid #1e293b;
+}
+.cluster-card {
+    background: #111a2e;
+    border: 1px solid #1e293b;
+    border-radius: 12px;
+    padding: 35px 30px;
+    margin-bottom: 25px;
+    height: calc(100% - 25px);
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.cluster-card:hover {
+    transform: translateY(-5px);
+    border-color: #0088cc;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+}
+.cluster-card .cluster-tag {
+    color: #06b6d4;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    display: block;
+}
+.cluster-card .cluster-title {
+    color: #ffffff !important;
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    margin-top: 0 !important;
+    margin-bottom: 14px !important;
+    line-height: 1.3 !important;
+}
+.cluster-card .cluster-desc {
+    color: #94a3b8 !important;
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+    margin-bottom: 22px !important;
+}
+.cluster-card .cluster-link {
+    color: #fbbf24;
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.2s ease;
+}
+.cluster-card .cluster-link:hover {
+    color: #f59e0b;
+    text-decoration: none;
+    transform: translateX(4px);
+}
 </style>
 
 <div role="main" class="main seo-service-page">
@@ -277,13 +340,13 @@ include('header.php');
                 <h2 class="heading-primary-custom" style="font-size: 28px; margin-bottom: 15px;">Top-Ranked <strong>SEO Agency in Dubai, UAE</strong></h2>
                 <p class="lead" style="color: #1e293b; font-size: 17px; line-height: 1.7; font-weight: 600;">In today's competitive digital marketplace in Dubai, standing out on Google search engine results pages (SERPs) is essential for sustainable lead generation and brand authority.</p>
                 
-                <p align="justify" style="color: #475569; font-size: 15px; line-height: 1.8;">At Mostech Business Solutions, we deliver data-backed Search Engine Optimization (SEO) strategies tailored specifically for businesses in Dubai, Abu Dhabi, and across the UAE &amp; GCC regions. From local businesses aiming for map pack dominance to multinational corporate portals requiring complex technical SEO and content scaling, our SEO specialists employ white-hat, sustainable strategies that withstand Google algorithm updates.</p>
+                <p align="justify" style="color: #475569; font-size: 15px; line-height: 1.8;">At <a href="index.php" style="color: #0088cc; font-weight: 700; text-decoration: underline;">Mostech Business Solutions</a>, we deliver data-backed Search Engine Optimization (SEO) strategies tailored specifically for businesses in Dubai, Abu Dhabi, and across the UAE GCC regions. From local businesses aiming for map pack dominance to multinational corporate portals requiring complex technical SEO and content scaling, our SEO specialists employ white-hat, sustainable strategies that withstand Google algorithm updates.</p>
 
                 <p align="justify" style="color: #475569; font-size: 15px; line-height: 1.8;">We combine technical site speed optimization, schema structured data, competitive keyword research, intent-driven content creation, and high-quality link acquisition to convert casual search traffic into high-converting prospective clients.</p>
             </div>
             <div class="col-md-5 col-sm-12">
                 <div class="seo-hero-img-wrapper">
-                    <img class="img-responsive" src="img/digital-market2.jpg" alt="SEO Services in Dubai Mostech" onerror="this.src='img/seo.webp';">
+                    <img class="img-responsive" src="img/digital.webp" alt="SEO Services in Dubai Mostech" onerror="this.src='img/seo.webp';">
                 </div>
             </div>
         </div>
@@ -434,8 +497,41 @@ include('header.php');
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="row mt-xlg" style="margin-top: 50px;">
+    <!-- Cluster Cards Section -->
+    <section class="cluster-section">
+        <div class="container">
+            <div class="row" style="display: flex; flex-wrap: wrap;">
+                <div class="col-md-6 col-sm-12">
+                    <div class="cluster-card">
+                        <div>
+                            <h3 class="cluster-title">SEO Services in UAE</h3>
+                            <p class="cluster-desc">Our UAE-wide overview covering Dubai, Abu Dhabi, Sharjah, and regional search engine optimization.</p>
+                        </div>
+                        <div>
+                            <a href="seo-services-in-uae" class="cluster-link">Explore UAE SEO services &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-sm-12">
+                    <div class="cluster-card">
+                        <div>
+                            <h3 class="cluster-title">SEO Services in Sharjah</h3>
+                            <p class="cluster-desc">Localized SEO strategies for Sharjah businesses &mdash; local SEO, technical audits, and content.</p>
+                        </div>
+                        <div>
+                            <a href="seo-services-in-sharjah" class="cluster-link">Explore Sharjah SEO services &rarr;</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container mb-xlg mt-xlg" style="margin-top: 50px; margin-bottom: 50px;">
+        <div class="row">
             <div class="col-md-12 text-center">
                 <div class="well" style="background: linear-gradient(135deg, #020c4c 0%, #04157a 100%); color: #ffffff; padding: 45px 30px; border-radius: 16px; box-shadow: 0 15px 40px rgba(2, 12, 76, 0.25); border: none;">
                     <h3 style="color: #ffffff; font-weight: 800; font-size: 28px; margin-top: 0; margin-bottom: 15px;">Ready to Drive More Organic Traffic &amp; Leads?</h3>

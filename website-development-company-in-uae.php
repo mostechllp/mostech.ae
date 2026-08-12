@@ -8,18 +8,18 @@ include('header.php');
 ?>
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org/",
-  "@type": "BreadcrumbList",
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
   "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
+    "@type": "ListItem", 
+    "position": 1, 
     "name": "Home",
-    "item": "https://mostech.ae/"
+    "item": "https://www.mostech.ae/"  
   },{
-    "@type": "ListItem",
-    "position": 2,
+    "@type": "ListItem", 
+    "position": 2, 
     "name": "Website Development Company in UAE",
-    "item": "https://mostech.ae/website-development-company-in-uae"
+    "item": "https://www.mostech.ae/website-development-company-in-uae"  
   }]
 }
 </script>
@@ -246,7 +246,7 @@ include('header.php');
                 </p>
 
                 <p align="justify" style="color: #475569; font-size: 15px; line-height: 1.8;">
-                    Choosing the <strong>Best website development company in UAE</strong> means looking beyond visual design. Your website should be developed around your business objectives, target audience, industry requirements, and future growth.
+                    Choosing the Best website development company in UAE means looking beyond visual design. Your website should be developed around your business objectives, target audience, industry requirements, and future growth.
                 </p>
             </div>
             <div class="col-md-5 col-sm-12">
@@ -332,7 +332,7 @@ include('header.php');
                         The website needs to have an effective purpose. No matter whether your aim is lead generation, online sales, promotion of services, brand awareness, or customer communications, your website must help achieve that goal at every stage.
                     </p>
                     <p style="color: #475569; font-size: 15px; line-height: 1.8; max-width: 850px; margin: 0 auto;">
-                        <a href="index.php" style="color: #0088cc; font-weight: 600; text-decoration: underline;">Mostech Business Solutions</a> partners with companies in developing digital solutions that incorporate features such as functionality, performance, usability, and contemporary designs. Our philosophy of business-driven website development enables us to deliver a digital product that not only complements the brand but is also geared towards future digital development.
+                        Mostech Business Solutions partners with companies in developing digital solutions that incorporate features such as functionality, performance, usability, and contemporary designs. Our philosophy of business-driven website development enables us to deliver a digital product that not only complements the brand but is also geared towards future digital development.
                     </p>
                 </div>
             </div>
@@ -346,7 +346,6 @@ include('header.php');
                 <div class="col-md-6 col-sm-12">
                     <div class="cluster-card">
                         <div>
-                            <span class="cluster-tag">CLUSTER PAGE</span>
                             <h3 class="cluster-title">Website Development Company in Dubai</h3>
                             <p class="cluster-desc">High-performance digital platforms engineered for Dubai enterprises, local businesses, and regional GCC scaling.</p>
                         </div>
@@ -359,7 +358,6 @@ include('header.php');
                 <div class="col-md-6 col-sm-12">
                     <div class="cluster-card">
                         <div>
-                            <span class="cluster-tag">CLUSTER PAGE</span>
                             <h3 class="cluster-title">Website Development Company in Sharjah</h3>
                             <p class="cluster-desc">Responsive, SEO-friendly builds for Sharjah businesses &mdash; from corporate sites to eCommerce.</p>
                         </div>

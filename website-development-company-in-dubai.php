@@ -8,18 +8,18 @@ include('header.php');
 ?>
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org/",
-  "@type": "BreadcrumbList",
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
   "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
+    "@type": "ListItem", 
+    "position": 1, 
     "name": "Home",
-    "item": "https://mostech.ae/"
+    "item": "https://www.mostech.ae/"  
   },{
-    "@type": "ListItem",
-    "position": 2,
+    "@type": "ListItem", 
+    "position": 2, 
     "name": "Website Development Company in Dubai",
-    "item": "https://mostech.ae/website-development-company-in-dubai"
+    "item": "https://www.mostech.ae/website-development-company-in-dubai"  
   }]
 }
 </script>
@@ -458,7 +458,6 @@ include('header.php');
                 <div class="col-md-6 col-sm-12">
                     <div class="cluster-card">
                         <div>
-                            <span class="cluster-tag">CLUSTER PAGE</span>
                             <h3 class="cluster-title">Website Development Company in Sharjah</h3>
                             <p class="cluster-desc">Responsive, SEO-friendly builds for Sharjah businesses &mdash; from corporate sites to eCommerce.</p>
                         </div>
@@ -471,7 +470,6 @@ include('header.php');
                 <div class="col-md-6 col-sm-12">
                     <div class="cluster-card">
                         <div>
-                            <span class="cluster-tag">CLUSTER PAGE</span>
                             <h3 class="cluster-title">Website Development Company in UAE</h3>
                             <p class="cluster-desc">Our UAE-wide overview covering Dubai, Abu Dhabi, and Sharjah delivery.</p>
                         </div>

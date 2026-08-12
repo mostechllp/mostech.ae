@@ -65,6 +65,9 @@ RewriteRule ^blogs/how-to-improve-your-brands-search-visibility/?$ /how-to-impro
 RewriteRule ^website-development-company-in-dubai/?$ /website-development-company-in-dubai.php [L]
 RewriteRule ^website-development-company-in-sharjah/?$ /website-development-company-in-sharjah.php [L]
 RewriteRule ^website-development-company-in-uae/?$ /website-development-company-in-uae.php [L]
+RewriteRule ^seo-service-in-dubai/?$ /seo-service-in-dubai.php [L]
+RewriteRule ^seo-services-in-sharjah/?$ /seo-services-in-sharjah.php [L]
+RewriteRule ^seo-services-in-uae/?$ /seo-services-in-uae.php [L]
 
 # Redirect index.php to the root URL
 RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]

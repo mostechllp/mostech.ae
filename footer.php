@@ -47,7 +47,7 @@
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai" style="font-size:10px; color:#ffffff !important;">SEO & SMO</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai" style="font-size:10px; color:#ffffff !important;">SEO SERVICES IN DUBAI</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="website-development-company-in-dubai" style="font-size:10px; color:#ffffff !important;">WEBSITE DEVELOPMENT COMPANY IN DUBAI</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/search-engine-optimization" style="font-size:10px; color:#ffffff !important;">SEARCH ENGINE OPTIMIZATION</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development" style="font-size:10px; color:#ffffff !important;">ECOMMERCE</a></li>
