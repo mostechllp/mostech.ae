@@ -687,10 +687,9 @@
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="web-design-development" style="font-size:10px;">WEB DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="mobile-app-development" style="font-size:10px;">APP DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing" style="font-size:10px;">DIGITAL MARKETING</a></li>
-
-
-
-
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
                                 </ul>
 
                             </div>
@@ -700,15 +699,9 @@
                             <div class="col-md-4">
 
                                 <ul class="list list-icons list-icons-sm">
-
-
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../seo-service-in-dubai" style="font-size:10px;">SEO SERVICES IN DUBAI</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../website-development-company-in-dubai" style="font-size:10px;">WEBSITE DEVELOPMENT COMPANY IN DUBAI</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
-
-
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="../digital-marketing-agency-in-dubai" style="font-size:10px;">DIGITAL MARKETING AGENCY IN DUBAI</a></li>
                                 </ul>
 
                             </div>

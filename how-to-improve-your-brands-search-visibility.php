@@ -150,8 +150,8 @@ include('header.php');
                             <i class="fa fa-calendar" style="font-size: 12px; opacity: 0.85;"></i> 29-07-2026
                         </span>
                     </div>
-
-                    <h1 class="post-title">How can your brand get visible in search?</h1>
+                    <h2 style="font-weight: 700; color: #020c4c; margin-top: 35px; margin-bottom: 15px;">How can your brand get visible in search?
+                    </h2>
 
                     <div class="post-content">
                         <p class="lead">In today's competitive digital landscape, having a website alone is not enough. Every business wants to appear when potential customers search for products or services online. If your brand is not visible in search results, you could be losing valuable opportunities to competitors. Building strong online visibility requires a strategic combination of search engine optimization, quality content, technical improvements, and consistent digital marketing efforts.</p>

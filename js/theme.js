@@ -1542,15 +1542,15 @@ window.theme.fn = {
 				var $existing = self.options.wrapper.find('.' + self.options.buttonClass);
 				if ($existing.length) {
 					// Ensure accessibility on existing element
-					if (!$existing.attr('aria-label')) {
-						$existing.attr('aria-label', 'Scroll to Top');
-					}
-					if (!$existing.attr('title')) {
-						$existing.attr('title', 'Scroll to Top');
-					}
+					$existing.attr({
+						'aria-label': 'Scroll to Top',
+						'title': 'Scroll to Top',
+						'role': 'button'
+					});
 					if (!$existing.find('.sr-only').length) {
 						$existing.append($('<span />').addClass('sr-only').text('Scroll to Top'));
 					}
+					$existing.find('i').attr('aria-hidden', 'true');
 					$el = $existing;
 				} else {
 					// Base HTML Markup (create new element)
@@ -1559,10 +1559,11 @@ window.theme.fn = {
 						.attr({
 							'href': '#',
 							'aria-label': 'Scroll to Top',
-							'title': 'Scroll to Top'
+							'title': 'Scroll to Top',
+							'role': 'button'
 						})
 						.append(
-							$('<i />').addClass(self.options.iconClass)
+							$('<i />').addClass(self.options.iconClass).attr('aria-hidden', 'true')
 						)
 						.append(
 							$('<span />').addClass('sr-only').text('Scroll to Top')

@@ -201,8 +201,8 @@ $thankYo="<p>Thank you Thank you for Subscribing.</p>";
 		</div>
 
 		<!-- Scroll to Top (static for accessibility) -->
-		<a class="scroll-to-top hidden-mobile" href="#" aria-label="Scroll to Top" title="Scroll to Top">
-			<i class="fa fa-chevron-up"></i>
+		<a class="scroll-to-top hidden-mobile" href="#" aria-label="Scroll to Top" title="Scroll to Top" role="button">
+			<i class="fa fa-chevron-up" aria-hidden="true"></i>
 			<span class="sr-only">Scroll to Top</span>
 		</a>
 

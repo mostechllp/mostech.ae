@@ -485,10 +485,10 @@ include('header.php');
     <div class="container mb-xlg mt-xlg" style="margin-top: 50px; margin-bottom: 50px;">
         <div class="row">
             <div class="col-md-12 text-center">
-                <div class="well" style="background: linear-gradient(135deg, #020c4c 0%, #04157a 100%); color: #ffffff; padding: 45px 30px; border-radius: 16px; box-shadow: 0 15px 40px rgba(2, 12, 76, 0.25); border: none;">
+                <div class="well cta-banner-card">
                     <h2 style="color: #ffffff; font-weight: 800; font-size: 28px; margin-top: 0; margin-bottom: 15px;">Ready to Scale Your Digital Growth?</h2>
                     <p style="color: #cbd5e1; font-size: 16px; max-width: 800px; margin: 0 auto 25px; line-height: 1.7;">If you are considering creating a new website or giving your old one a makeover in order to use it as a lead generation tool, then you should consider partnering with a web design company in Dubai.</p>
-                    <a href="contact.php" class="btn btn-lg" style="background-color: #0088cc; color: #ffffff; padding: 14px 35px; font-weight: 700; border-radius: 30px; box-shadow: 0 6px 20px rgba(0, 136, 204, 0.4); text-transform: uppercase; letter-spacing: 0.5px; transition: all 0.3s ease;">Contact Our Dubai Web Development Team <i class="fa fa-arrow-right" style="margin-left: 8px;"></i></a>
+                    <a href="contact.php" class="btn btn-lg cta-banner-btn">Contact Our Dubai Web Development Team <i class="fa fa-arrow-right" style="margin-left: 8px;"></i></a>
                 </div>
             </div>
         </div>

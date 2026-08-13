@@ -68,6 +68,9 @@ RewriteRule ^website-development-company-in-uae/?$ /website-development-company-
 RewriteRule ^seo-service-in-dubai/?$ /seo-service-in-dubai.php [L]
 RewriteRule ^seo-services-in-sharjah/?$ /seo-services-in-sharjah.php [L]
 RewriteRule ^seo-services-in-uae/?$ /seo-services-in-uae.php [L]
+RewriteRule ^digital-marketing-agency-in-dubai/?$ /digital-marketing-agency-in-dubai.php [L]
+RewriteRule ^digital-marketing-agency-in-sharjah/?$ /digital-marketing-agency-in-sharjah.php [L]
+RewriteRule ^digital-marketing-agency-in-uae/?$ /digital-marketing-agency-in-uae.php [L]
 
 # Redirect index.php to the root URL
 RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]

@@ -32,10 +32,9 @@
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/web-design-development" style="font-size:10px; color:#ffffff !important;">WEB DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/mobile-app-development" style="font-size:10px; color:#ffffff !important;">APP DEVELOPMENT</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/digital-marketing" style="font-size:10px; color:#ffffff !important;">DIGITAL MARKETING</a></li>
-
-
-
-
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/search-engine-optimization" style="font-size:10px; color:#ffffff !important;">SEARCH ENGINE OPTIMIZATION</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development" style="font-size:10px; color:#ffffff !important;">ECOMMERCE</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/erp-solutions" style="font-size:10px; color:#ffffff !important;">ERP SOLUTIONS</a></li>
                                 </ul>
 
                             </div>
@@ -45,15 +44,9 @@
                             <div class="col-md-4">
 
                                 <ul class="list list-icons list-icons-sm">
-
-
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai" style="font-size:10px; color:#ffffff !important;">SEO SERVICES IN DUBAI</a></li>
                                     <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="website-development-company-in-dubai" style="font-size:10px; color:#ffffff !important;">WEBSITE DEVELOPMENT COMPANY IN DUBAI</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/search-engine-optimization" style="font-size:10px; color:#ffffff !important;">SEARCH ENGINE OPTIMIZATION</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development" style="font-size:10px; color:#ffffff !important;">ECOMMERCE</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/erp-solutions" style="font-size:10px; color:#ffffff !important;">ERP SOLUTIONS</a></li>
-
-
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing-agency-in-dubai" style="font-size:10px; color:#ffffff !important;">DIGITAL MARKETING AGENCY IN DUBAI</a></li>
                                 </ul>
 
                             </div>
@@ -119,8 +112,8 @@
         </footer>
 
         <!-- Scroll to Top (static for accessibility) -->
-        <a class="scroll-to-top hidden-mobile" href="#" aria-label="Scroll to Top" title="Scroll to Top">
-            <i class="fa fa-chevron-up"></i>
+        <a class="scroll-to-top hidden-mobile" href="#" aria-label="Scroll to Top" title="Scroll to Top" role="button">
+            <i class="fa fa-chevron-up" aria-hidden="true"></i>
             <span class="sr-only">Scroll to Top</span>
         </a>
 

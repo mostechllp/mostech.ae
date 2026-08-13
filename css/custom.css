@@ -616,4 +616,74 @@ textarea.contact-form-control {
   }
 }
 
+/* Accessibility Utility for Screen Readers & Lighthouse Audits */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Responsive CTA Card & Button */
+.cta-banner-card {
+  background: linear-gradient(135deg, #020c4c 0%, #04157a 100%) !important;
+  color: #ffffff !important;
+  padding: 45px 30px !important;
+  border-radius: 16px !important;
+  box-shadow: 0 15px 40px rgba(2, 12, 76, 0.25) !important;
+  border: none !important;
+}
+
+.cta-banner-btn {
+  background-color: #0088cc !important;
+  color: #ffffff !important;
+  padding: 14px 32px !important;
+  font-weight: 700 !important;
+  border-radius: 30px !important;
+  box-shadow: 0 6px 20px rgba(0, 136, 204, 0.4) !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  transition: all 0.3s ease !important;
+  display: inline-block !important;
+  max-width: 100% !important;
+  white-space: normal !important;
+  word-wrap: break-word !important;
+}
+
+.cta-banner-btn:hover,
+.cta-banner-btn:focus {
+  background-color: #006699 !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  transform: translateY(-2px) !important;
+}
+
+@media (max-width: 767px) {
+  .cta-banner-card {
+    padding: 30px 18px !important;
+    border-radius: 12px !important;
+  }
+  .cta-banner-card h2 {
+    font-size: 22px !important;
+    line-height: 1.35 !important;
+  }
+  .cta-banner-card p {
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+  }
+  .cta-banner-btn {
+    padding: 12px 18px !important;
+    font-size: 13px !important;
+    display: block !important;
+    width: 100% !important;
+    border-radius: 25px !important;
+    box-sizing: border-box !important;
+  }
+}
+
 
