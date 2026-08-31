@@ -1,5 +1,6 @@
 
-       <footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
+        <footer id="footer" style="background-color: #181b1e !important; color: #ffffff !important; border-top: 4px solid #181b1e !important;">
+
 
 
 
@@ -16,11 +17,11 @@
 
                     <div class="col-md-9">
 
-                        <?php if (rtrim($_SERVER['REQUEST_URI'], '/') === '' || $_SERVER['REQUEST_URI'] === '/' || basename($_SERVER['SCRIPT_NAME']) === 'index.php'): ?>
-                        <h3 style="color: #ffffff !important;">About Mostech</h3>
+                        <h3>About Mostech</h3>
 
-                        <p class="footer-about-text" style="color: #f1f5f9 !important; font-size: 13px !important; line-height: 1.6 !important;">Mostech Business Solutions is a Dubai-based software company trusted across the UAE and GCC. We offer Software Development, Web and Mobile Application Development, and Digital Marketing services. We create intelligent, powerful applications that streamline business operations efficiently. Committed to continuous improvement, we achieve success through quality and performance. We prioritize understanding customer needs and building long-term relationships that define our growth.</p>
-                        <?php endif; ?>
+                        <p style="text-align:justify;">
+                            <span style="color:white;">Mostech Business Solutions is a Dubai-based software company trusted across the UAE and GCC. We offer Software Development, Web and Mobile Application Development, and Digital Marketing services. We create intelligent, powerful applications that streamline business operations efficiently. Committed to continuous improvement, we achieve success through quality and performance. We prioritize understanding customer needs and building long-term relationships that define our growth.</span>
+                        </p>
 
                         <hr class="light">
 
@@ -29,12 +30,12 @@
                             <div class="col-md-4">
 
                                 <ul class="list list-icons list-icons-sm">
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/web-design-development" style="font-size:10px; color:#ffffff !important;">WEB DEVELOPMENT</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/mobile-app-development" style="font-size:10px; color:#ffffff !important;">APP DEVELOPMENT</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/digital-marketing" style="font-size:10px; color:#ffffff !important;">DIGITAL MARKETING</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/search-engine-optimization" style="font-size:10px; color:#ffffff !important;">SEARCH ENGINE OPTIMIZATION</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development" style="font-size:10px; color:#ffffff !important;">ECOMMERCE</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/erp-solutions" style="font-size:10px; color:#ffffff !important;">ERP SOLUTIONS</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/web-design-development" style="font-size:10px;">WEB DEVELOPMENT</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/mobile-app-development" style="font-size:10px;">APP DEVELOPMENT</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/digital-marketing" style="font-size:10px;">DIGITAL MARKETING</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/search-engine-optimization" style="font-size:10px;">SEARCH ENGINE OPTIMIZATION</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/ecommerce-development" style="font-size:10px;">ECOMMERCE</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="services/erp-solutions" style="font-size:10px;">ERP SOLUTIONS</a></li>
                                 </ul>
 
                             </div>
@@ -44,9 +45,9 @@
                             <div class="col-md-4">
 
                                 <ul class="list list-icons list-icons-sm">
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai" style="font-size:10px; color:#ffffff !important;">SEO SERVICES IN DUBAI</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="website-development-company-in-dubai" style="font-size:10px; color:#ffffff !important;">WEBSITE DEVELOPMENT COMPANY IN DUBAI</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing-agency-in-dubai" style="font-size:10px; color:#ffffff !important;">DIGITAL MARKETING AGENCY IN DUBAI</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="seo-service-in-dubai" style="font-size:10px;">SEO SERVICES IN DUBAI</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="website-development-company-in-dubai" style="font-size:10px;">WEBSITE DEVELOPMENT COMPANY IN DUBAI</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="digital-marketing-agency-in-dubai" style="font-size:10px;">DIGITAL MARKETING AGENCY IN DUBAI</a></li>
                                 </ul>
 
                             </div>
@@ -56,9 +57,9 @@
                                 <ul class="list list-icons list-icons-sm">
 
 
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="blogs"  style="font-size:10px; color:#ffffff !important;"> BLOGS </a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="careers" style="font-size:10px; color:#ffffff !important;">CAREERS</a></li>
-                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="img/MostechCompanyProfile.pdf" style="font-size:10px; color:#ffffff !important;"> PROFILE </a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="blogs" style="font-size:10px;"> BLOGS </a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="careers" style="font-size:10px;">CAREERS</a></li>
+                                    <li><i class="fa fa-caret-right" style="color:#fff;"></i> <a href="img/MostechCompanyProfile.pdf" style="font-size:10px;"> PROFILE </a></li>
 
 
                                 </ul>
@@ -75,23 +76,23 @@
 
                     <div class="col-md-3">
 
-                        <h3 style="color: #ffffff !important;">Contact Us</h3>
+                        <h3>Contact Us</h3>
 
                         <div class="footer-contact-list">
-                            <p class="footer-contact-item"><a href="tel:+971581730112" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">UAE :</span><strong style="color: #ffffff !important;">+971 581730112</strong></a></p>
-                            <p class="footer-contact-item"><a href="tel:+918547557283" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">INDIA :</span><strong style="color: #ffffff !important;">+91 8547557283</strong></a></p>
-                            <p class="footer-contact-item"><a href="tel:+966535744308" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">KSA :</span><strong style="color: #ffffff !important;">+966 53 574 4308</strong></a></p>
-                            <p class="footer-contact-item"><a href="tel:+97450547557" style="color: #ffffff !important;"><span class="footer-country-label" style="color: #ffffff !important;">QATAR :</span><strong style="color: #ffffff !important;">+974 5054 7557</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+971581730112"><span class="footer-country-label">UAE :</span><strong>+971 581730112</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+918547557283"><span class="footer-country-label">INDIA :</span><strong>+91 8547557283</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+966535744308"><span class="footer-country-label">KSA :</span><strong>+966 53 574 4308</strong></a></p>
+                            <p class="footer-contact-item"><a href="tel:+97450547557"><span class="footer-country-label">QATAR :</span><strong>+974 5054 7557</strong></a></p>
                         </div>
 
                         <ul class="list list-icons footer-email-list">
 
-                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;" style="color: #ffffff !important;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
+                            <li><i class="fa fa-envelope" style="color:white;"></i> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;">&#105;&#110;&#102;&#111;&#64;&#109;&#111;&#115;&#116;&#101;&#99;&#104;&#46;&#97;&#101;</a></li>
 
                         </ul>
 
                         <ul class="social-icons footer-social-icons" style="display: flex !important; align-items: center !important; gap: 10px !important; margin-top: 15px !important; margin-bottom: 15px !important; padding: 0 !important; list-style: none !important;">
-                            <li class="social-icons-linkedin" style="display: inline-block !important; margin: 0 !important; padding: 0 !important;"><a href="https://www.linkedin.com/company/mostech/" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn" style="display: inline-flex !important; align-items: center !important; justify-content: center !important; width: 34px !important; height: 34px !important; border-radius: 50% !important; background-color: #ffffff !important; background: #ffffff !important; color: #181b1e !important; text-decoration: none !important; box-shadow: 0 2px 4px rgba(0,0,0,0.25) !important;"><i class="fa fa-linkedin" style="color: #181b1e !important; font-size: 15px !important; line-height: 1 !important;"></i></a></li>
+                            <li class="social-icons-linkedin" style="display: inline-block !important; margin: 0 !important; padding: 0 !important;"><a href="https://www.linkedin.com/company/mostech.ae" target="_blank" rel="noopener noreferrer" title="LinkedIn" aria-label="LinkedIn" style="display: inline-flex !important; align-items: center !important; justify-content: center !important; width: 34px !important; height: 34px !important; border-radius: 50% !important; background-color: #ffffff !important; background: #ffffff !important; color: #181b1e !important; text-decoration: none !important; box-shadow: 0 2px 4px rgba(0,0,0,0.25) !important;"><i class="fa fa-linkedin" style="color: #181b1e !important; font-size: 15px !important; line-height: 1 !important;"></i></a></li>
                             <li class="social-icons-facebook" style="display: inline-block !important; margin: 0 !important; padding: 0 !important;"><a href="https://www.facebook.com/mostech.ae" target="_blank" rel="noopener noreferrer" title="Facebook" aria-label="Facebook" style="display: inline-flex !important; align-items: center !important; justify-content: center !important; width: 34px !important; height: 34px !important; border-radius: 50% !important; background-color: #ffffff !important; background: #ffffff !important; color: #181b1e !important; text-decoration: none !important; box-shadow: 0 2px 4px rgba(0,0,0,0.25) !important;"><i class="fa fa-facebook" style="color: #181b1e !important; font-size: 15px !important; line-height: 1 !important;"></i></a></li>
                             <li class="social-icons-instagram" style="display: inline-block !important; margin: 0 !important; padding: 0 !important;"><a href="https://www.instagram.com/mostech.ae" target="_blank" rel="noopener noreferrer" title="Instagram" aria-label="Instagram" style="display: inline-flex !important; align-items: center !important; justify-content: center !important; width: 34px !important; height: 34px !important; border-radius: 50% !important; background-color: #ffffff !important; background: #ffffff !important; color: #181b1e !important; text-decoration: none !important; box-shadow: 0 2px 4px rgba(0,0,0,0.25) !important;"><i class="fa fa-instagram" style="color: #181b1e !important; font-size: 15px !important; line-height: 1 !important;"></i></a></li>
                             <li class="social-icons-whatsapp" style="display: inline-block !important; margin: 0 !important; padding: 0 !important;"><a href="https://wa.me/971581730112?text=Hi%2C+I+contacted+you+Through+your+website" target="_blank" rel="noopener noreferrer" title="WhatsApp" aria-label="WhatsApp" style="display: inline-flex !important; align-items: center !important; justify-content: center !important; width: 34px !important; height: 34px !important; border-radius: 50% !important; background-color: #ffffff !important; background: #ffffff !important; color: #181b1e !important; text-decoration: none !important; box-shadow: 0 2px 4px rgba(0,0,0,0.25) !important;"><i class="fa fa-whatsapp" style="color: #181b1e !important; font-size: 15px !important; line-height: 1 !important;"></i></a></li>
@@ -104,7 +105,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
+                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" rel="noopener noreferrer" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>
