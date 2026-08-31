@@ -645,7 +645,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12 mb-0">
-                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">All rights reserved | &copy; <a href="https://www.mostech.ae" target="_blank" rel="noopener noreferrer" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
+                        <p class="footer-copyright-text" align="center" style="color: #ffffff !important; font-size: 13px !important; font-weight: 500 !important; margin: 0 !important; text-align: center !important; background-color: transparent !important;">&copy; All Rights Reserved | Developed by <a href="https://www.mostech.ae" target="_blank" rel="noopener noreferrer" style="color: #ffffff !important; font-weight: 600 !important; text-decoration: underline !important;">Mostech Business Solutions</a></p>
                     </div>
                 </div>
             </div>
