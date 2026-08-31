@@ -45,7 +45,7 @@
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-        <title>Web Design & Development Company in Dubai - Mostech</title>
+        <title>Leading Software Company in Dubai | Advertising Company</title>
 
         <!-- charset defined above via <meta charset="utf-8"> -->
 
@@ -915,7 +915,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
                         </div>
                     </div>
                 </div>
-                <div class="section section-quaternary mb-none mt-0" style="background:#0b4887!important;">
+                <div class="section section-quaternary mb-none mt-0" style="background:#0b4887!important;padding-top:30px;padding-bottom:28px;">
 
                     <div class="container">
 
@@ -927,7 +927,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                                 <div class="counter">
 
-                                    <strong data-to="500" data-append="+">0</strong>
+                                    <strong data-to="1000" data-append="+">0</strong>
 
                                     <label>Happy Clients</label>
 
@@ -939,7 +939,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                                 <div class="counter">
 
-                                    <strong data-to="1000" data-append="+">0</strong>
+                                    <strong data-to="10000" data-append="+">0</strong>
 
                                     <label>Projects Completed</label>
 
@@ -951,7 +951,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                                 <div class="counter">
 
-                                    <strong data-to="15" data-append="+">0</strong>
+                                    <strong data-to="16" data-append="+">0</strong>
 
                                     <label>Countries</label>
 
@@ -963,7 +963,7 @@ With a presence in 12+ countries and over 500 clients served globally, we combin
 
                                 <div class="counter">
 
-                                    <strong data-to="7" data-append="+">0</strong>
+                                    <strong data-to="8" data-append="+">0</strong>
 
                                     <label>Years in Business</label>
 

@@ -231,7 +231,7 @@ include('header.php');
     color: #ffffff !important;
     font-size: 22px !important;
     font-weight: 700 !important;
-    font-family: Georgia, "Times New Roman", serif;
+    /*font-family: Georgia, "Times New Roman", serif;*/
     margin-top: 0 !important;
     margin-bottom: 14px !important;
     line-height: 1.3 !important;

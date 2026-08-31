@@ -38,6 +38,12 @@ include('header.php');
   }
 }
 </script>
+<style>
+    .contact-intro-text{
+        font-size:14px!important;
+        font-weight: 400;
+    }
+</style>
 
 <div role="main" class="main">
 
@@ -116,8 +122,8 @@ include('header.php');
                         </div>
                         <div class="row mt-2">
                             <div class="col-md-12">
-                                <button type="submit" class="btn-contact-submit">
-                                    <i class="fa fa-paper-plane me-2"></i> Send Message
+                                <button type="submit" class="btn-contact-submit" style="background:#020c4c!important;"> 
+                                    <i class="fa fa-paper-plane me-2" style="margin-right:2px;"></i> Send Message
                                 </button>
                             </div>
                         </div>

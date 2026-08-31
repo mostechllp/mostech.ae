@@ -74,7 +74,7 @@ include('header.php');
                 <p align="justify" style="color: #334155; font-size: 15px; line-height: 1.8; margin-bottom: 0;">Our team of senior software engineers, solution architects, UI/UX designers, and digital growth specialists bring deep industry expertise in fintech, retail, healthcare, logistics, real estate, and corporate services in Dubai. We work closely with our clients from initial discovery and technical scoping to post-launch maintenance and continuous feature iteration.</p>
             </div>
             <div class="col-md-5 col-sm-12 text-center" style="margin-top: 15px;">
-                <img class="img-responsive" src="img/about1.webp" alt="Mostech Business Solutions Dubai Office" style="max-height: 360px; width: auto; margin: 0 auto; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);">
+                <img class="img-responsive" src="img/about1.webp" alt="Mostech Business Solutions Dubai Office" style="max-height: 360px; width: auto; margin: 0 auto; border-radius: 12px;">
             </div>
         </div>
     </div>
